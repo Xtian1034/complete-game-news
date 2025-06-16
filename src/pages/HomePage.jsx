@@ -1,9 +1,15 @@
 import "../App.css";
 import { useState, useEffect } from "react";
+import { useNavigate } from "react-router-dom";
 
 const isAdmin = true; //Add functionality for admin access later
 
 function Home() {
+  const navigate = useNavigate();
+  const goToSubmission = () => {
+    navigate("/PostSubmission");
+  };
+
   const [alDivisions, setAlDivisions] = useState({});
   const [nlDivisions, setNlDivisions] = useState({});
 
@@ -77,9 +83,7 @@ function Home() {
       </header>
 
       <div className="submit-article-button">
-        {isAdmin && (
-          <button onClick={() => alert("Button Clicked!")}>Post Article</button>
-        )}
+        {isAdmin && <button onClick={goToSubmission}>Submit an Article</button>}
       </div>
       <div className="main-content">
         <aside className="al-standings">
