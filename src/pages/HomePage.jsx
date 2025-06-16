@@ -2,6 +2,7 @@ import "../App.css";
 import Header from "../components/Header";
 import { useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
+import MainContent from "../components/MainContent";
 
 const isAdmin = true; //Add functionality for admin access later
 
@@ -68,67 +69,7 @@ function Home() {
       <div className="submit-article-button">
         {isAdmin && <button onClick={goToSubmission}>Submit an Article</button>}
       </div>
-      <div className="main-content">
-        <aside className="al-standings">
-          {Object.entries(alDivisions).map(([divisionName, teams]) => (
-            <div key={divisionName} className="division">
-              <h3>{divisionName}</h3>
-              <ul>
-                {teams.map((team) => (
-                  <li key={team.name}>
-                    {team.name} {team.wins} - {team.losses}
-                  </li>
-                ))}
-              </ul>
-            </div>
-          ))}
-        </aside>
-
-        <main className="article-section">
-          <div className="cover-image">
-            <img
-              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw6YzANn7Tjd45M_OIEpJF0MODJ2JuJ8BSuw&s"
-              alt="Article cover"
-            />
-          </div>
-          <article>
-            <h2>Yankees Rally Past Red Sox in Thrilling Game</h2>
-            <p>
-              The New York Yankees overcame a late-game deficit to defeat the
-              Boston Red Sox 6-4, thanks to a clutch home run by Aaron Judge.
-            </p>
-          </article>
-          <article>
-            <h2>Top Players to Watch This Season</h2>
-            <p>
-              Here’s a breakdown of the top players to watch this season in the
-              MLB — from young stars to seasoned veterans.
-            </p>
-          </article>
-          <article>
-            <h2>Soto Trade Rumors Heat Up</h2>
-            <p>
-              With the trade deadline approaching, Juan Soto has been the
-              subject of rumors linking him to multiple teams across the league.
-            </p>
-          </article>
-        </main>
-
-        <aside className="nl-standings">
-          {Object.entries(nlDivisions).map(([divisionName, teams]) => (
-            <div key={divisionName} className="division">
-              <h3>{divisionName}</h3>
-              <ul>
-                {teams.map((team) => (
-                  <li key={team.name}>
-                    {team.name} {team.wins} - {team.losses}
-                  </li>
-                ))}
-              </ul>
-            </div>
-          ))}
-        </aside>
-      </div>
+      <MainContent />
     </>
   );
 }

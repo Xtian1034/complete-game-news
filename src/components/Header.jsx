@@ -6,7 +6,7 @@ function Header() {
     <header className="site-header">
       <div className="header-top">
         <Link to="/" className="home-link">
-          <h1 className="complete-game-title">Complete Game</h1>
+          <h1 className="complete-game-title">Complete Game News</h1>
         </Link>
 
         <input
