@@ -117,3 +117,19 @@ body {
 .division ul li {
   padding-bottom: 0.2rem;
 }
+
+.title-text {
+  display: flex;
+  justify-content: center;
+  margin-top: 3rem;
+}
+
+.article-text {
+  display: flex;
+  justify-content: center;
+  margin-top: 7rem;
+}
+
+a {
+  text-decoration: none;
+}

@@ -13,7 +13,7 @@ export default function App() {
     <Router>
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route path="/submit" element={<PostSubmission />} />
+        <Route path="/PostSubmission" element={<PostSubmission />} />
       </Routes>
     </Router>
   );

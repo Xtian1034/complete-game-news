@@ -1,4 +1,5 @@
 import "../App.css";
+import Header from "../components/Header";
 import { useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
 
@@ -62,25 +63,7 @@ function Home() {
 
   return (
     <>
-      <header className="site-header">
-        <div className="header-top">
-          <h1 className="complete-game-title">Complete Game News</h1>
-          <input
-            className="search-bar"
-            type="text"
-            placeholder="Search players or teams"
-          />
-        </div>
-
-        <nav className="main-nav">
-          <ul>
-            <li>Teams</li>
-            <li>Team Analysis</li>
-            <li>Player Analysis</li>
-            <li>Transactions</li>
-          </ul>
-        </nav>
-      </header>
+      <Header />
 
       <div className="submit-article-button">
         {isAdmin && <button onClick={goToSubmission}>Submit an Article</button>}
