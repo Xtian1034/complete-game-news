@@ -18,10 +18,18 @@ function Header() {
 
       <nav className="main-nav">
         <ul>
-          <li>Teams</li>
-          <li>Team Analysis</li>
-          <li>Player Analysis</li>
-          <li>Transactions</li>
+          <li>
+            <Link to="/Teams">Teams</Link>
+          </li>
+          <li>
+            <Link to="/TeamAnalysis">Team Analysis</Link>
+          </li>
+          <li>
+            <Link to="/PlayerAnalysis">Player Analysis</Link>
+          </li>
+          <li>
+            <Link to="/Transactions">Transactions</Link>
+          </li>
         </ul>
       </nav>
     </header>
