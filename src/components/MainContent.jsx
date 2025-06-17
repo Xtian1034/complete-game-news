@@ -1,5 +1,6 @@
 import "../App.css";
 import { useState, useEffect } from "react";
+import RecentArticles from "./RecentArticles";
 
 function MainContent() {
   // Gathering of standings from MLB API
@@ -81,27 +82,7 @@ function MainContent() {
               alt="Article cover"
             />
           </div>
-          <article>
-            <h2>Yankees Rally Past Red Sox in Thrilling Game</h2>
-            <p>
-              The New York Yankees overcame a late-game deficit to defeat the
-              Boston Red Sox 6-4, thanks to a clutch home run by Aaron Judge.
-            </p>
-          </article>
-          <article>
-            <h2>Top Players to Watch This Season</h2>
-            <p>
-              Here’s a breakdown of the top players to watch this season in the
-              MLB — from young stars to seasoned veterans.
-            </p>
-          </article>
-          <article>
-            <h2>Soto Trade Rumors Heat Up</h2>
-            <p>
-              With the trade deadline approaching, Juan Soto has been the
-              subject of rumors linking him to multiple teams across the league.
-            </p>
-          </article>
+          <RecentArticles />
         </main>
 
         {/* NL Standings */}

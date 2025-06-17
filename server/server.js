@@ -2,6 +2,7 @@ import express from "express";
 import cors from "cors";
 import sqlite3 from "sqlite3";
 import bodyParse from "body-parser";
+import path from "path";
 
 const app = express();
 const PORT = 3000;
@@ -9,8 +10,10 @@ const PORT = 3000;
 app.use(cors());
 app.use(bodyParse.json());
 
+const dbPath = path.resolve("./articles.db");
+
 //Setting up SQLite database
-const db = new sqlite3.Database("./articles.db");
+const db = new sqlite3.Database(dbPath);
 db.run(`CREATE TABLE IF NOT EXISTS articles (
   id INTEGER PRIMARY KEY AUTOINCREMENT,
   title TEXT NOT NULL,
