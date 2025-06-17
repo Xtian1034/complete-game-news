@@ -67,7 +67,7 @@ body {
   width: 15rem;
 }
 
-.submit-article-button {
+.go-to-submission-button {
   align-self: center;
 }
 
@@ -86,10 +86,13 @@ body {
   height: 80%;
 }
 
-.al-standings,
-.nl-standings {
+.al-standings ul,
+.al-standings h3,
+.nl-standings ul,
+.nl-standings h3 {
   width: 300px;
   color: white;
+  list-style-type: none;
 }
 
 .article-section {
@@ -133,4 +136,10 @@ body {
 a {
   text-decoration: none;
   color: inherit;
+}
+
+.submit-button {
+  display: flex;
+  justify-content: center;
+  margin-top: 3rem;
 }

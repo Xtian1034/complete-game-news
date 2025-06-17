@@ -4,6 +4,7 @@ import { Link } from "react-router-dom";
 function Header() {
   return (
     <header className="site-header">
+      {/* Complete Game title and Search Bar */}
       <div className="header-top">
         <Link to="/" className="home-link">
           <h1 className="complete-game-title">Complete Game News</h1>
@@ -16,6 +17,7 @@ function Header() {
         />
       </div>
 
+      {/* Teams, Team Analysis, Player Analysis, Transactions Navigation */}
       <nav className="main-nav">
         <ul>
           <li>

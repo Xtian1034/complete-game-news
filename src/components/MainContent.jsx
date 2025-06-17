@@ -2,6 +2,7 @@ import "../App.css";
 import { useState, useEffect } from "react";
 
 function MainContent() {
+  // Gathering of standings from MLB API
   const [alDivisions, setAlDivisions] = useState({});
   const [nlDivisions, setNlDivisions] = useState({});
 
@@ -51,9 +52,12 @@ function MainContent() {
 
     fetchStandings();
   }, []);
+
   return (
     <>
+      {/* Main Content including standings and article section */}
       <div className="main-content">
+        {/* AL Standings */}
         <aside className="al-standings">
           {Object.entries(alDivisions).map(([divisionName, teams]) => (
             <div key={divisionName} className="division">
@@ -69,6 +73,7 @@ function MainContent() {
           ))}
         </aside>
 
+        {/* Article Section */}
         <main className="article-section">
           <div className="cover-image">
             <img
@@ -99,6 +104,7 @@ function MainContent() {
           </article>
         </main>
 
+        {/* NL Standings */}
         <aside className="nl-standings">
           {Object.entries(nlDivisions).map(([divisionName, teams]) => (
             <div key={divisionName} className="division">
