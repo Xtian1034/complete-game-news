@@ -11,6 +11,7 @@ import PlayerAnalysis from "./pages/PlayerAnalysis";
 import Transactions from "./pages/Transactions";
 import Teams from "./pages/Teams";
 import Home from "./pages/HomePage";
+import ArticlePage from "./pages/ArticlePage";
 
 export default function App() {
   return (
@@ -22,6 +23,7 @@ export default function App() {
         <Route path="/PlayerAnalysis" element={<PlayerAnalysis />} />
         <Route path="/Transactions" element={<Transactions />} />
         <Route path="/Teams" element={<Teams />} />
+        <Route path="/articles/:id" element={<ArticlePage />} />
       </Routes>
     </Router>
   );

@@ -17,18 +17,18 @@ const db = new sqlite3.Database(dbPath);
 db.run(`CREATE TABLE IF NOT EXISTS articles (
   id INTEGER PRIMARY KEY AUTOINCREMENT,
   title TEXT NOT NULL,
-  content TEXT NOT NULL,
+  text TEXT NOT NULL,
   caption TEXT NOT NULL,
   created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 )`);
 
 //Endpoint to receive articles
 app.post("/api/articles", (req, res) => {
-  const { title, content, caption } = req.body;
-  console.log("Recieved articles:", title, content, caption);
+  const { title, text, caption } = req.body;
+  console.log("Recieved articles:", title, text, caption);
   db.run(
-    `INSERT INTO articles (title, content, caption) VALUES (?, ?, ?)`,
-    [title, content, caption],
+    `INSERT INTO articles (title, text, caption) VALUES (?, ?, ?)`,
+    [title, text, caption],
     function (err) {
       if (err) return res.status(500).json({ error: err.message });
       res.json({ message: "Article posted", articleId: this.lastID });
@@ -41,6 +41,19 @@ app.get("/api/articles", (req, res) => {
   db.all("SELECT * FROM articles ORDER BY created_at DESC", [], (err, rows) => {
     if (err) return res.status(500).json({ error: err.message });
     res.json(rows);
+  });
+});
+
+app.get("/api/articles/:id", (req, res) => {
+  const id = parseInt(req.params.id);
+  db.get("SELECT * FROM articles WHERE id = ?", [id], (err, row) => {
+    if (err) {
+      return res.status(500).json({ error: err.message });
+    }
+    if (!row) {
+      return res.status(404).json({ error: "Article not found" });
+    }
+    res.json(row);
   });
 });
 
