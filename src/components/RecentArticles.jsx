@@ -13,20 +13,11 @@ function RecentArticles() {
 
   return (
     <div>
-      <h2>Articles</h2>
       {articles.length === 0 && <p>No Articles Yet.</p>}
       {articles.map((article) => (
         <article key={article.id}>
-          <h3>
-            {article.title}
-            <p>{article.content}</p>
-            <small>
-              Posted on:{" "}
-              {article.created_at
-                ? new Date(article.created_at).toLocaleString()
-                : "Unknown date"}
-            </small>
-          </h3>
+          <h2>{article.title}</h2>
+          <p>{article.caption}</p>
         </article>
       ))}
     </div>

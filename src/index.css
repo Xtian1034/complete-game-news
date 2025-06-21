@@ -103,6 +103,7 @@ body {
   max-width: 700px;
   margin-top: 2rem;
   margin-bottom: -1rem;
+  align-items: center;
 }
 
 .article-section article h2 {
@@ -142,4 +143,33 @@ a {
   display: flex;
   justify-content: center;
   margin-top: 3rem;
+}
+
+.caption-text {
+  display: flex;
+  justify-content: center;
+  margin-top: 3rem;
+}
+
+.pitcher-logo {
+  width: 60px;
+  height: auto;
+}
+
+.home-link {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  text-decoration: none;
+}
+
+.article-section article {
+  text-align: center;
+  border-bottom: 1px solid #4e4c4c;
+  padding: 2rem 1rem;
+  margin: 0 2rem;
+}
+
+.article-section articles:last-of-type {
+  border-bottom: none;
 }

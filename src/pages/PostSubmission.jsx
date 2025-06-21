@@ -6,6 +6,7 @@ function PostSubmission() {
   //Creating handle submit for posting articles
   const [articletitle, setArticleTitle] = useState("");
   const [articletext, setArticleText] = useState("");
+  const [articlecaption, setArticleCaption] = useState("");
 
   const handleSubmit = async (e) => {
     e.preventDefault();
@@ -13,12 +14,17 @@ function PostSubmission() {
       const res = await fetch("http://localhost:3000/api/articles", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ title: articletitle, content: articletext }),
+        body: JSON.stringify({
+          title: articletitle,
+          content: articletext,
+          caption: articlecaption,
+        }),
       });
       if (!res.ok) throw new Error("Failed to post article");
       alert("Article Submitted!");
       setArticleTitle("");
       setArticleText("");
+      setArticleCaption("");
     } catch (error) {
       alert(error.message);
     }
@@ -39,6 +45,20 @@ function PostSubmission() {
           }}
           value={articletitle}
           onChange={(e) => setArticleTitle(e.target.value)}
+        />
+      </div>
+
+      {/* Article captain box */}
+      <div className="caption-text">
+        <input
+          type="text"
+          placeholder="Article Caption"
+          maxLength={100}
+          style={{
+            width: "400px",
+          }}
+          value={articlecaption}
+          onChange={(e) => setArticleCaption(e.target.value)}
         />
       </div>
 

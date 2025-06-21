@@ -2,7 +2,7 @@ import "../App.css";
 import { useState, useEffect } from "react";
 import RecentArticles from "./RecentArticles";
 
-function MainContent() {
+function MainContent({ children }) {
   // Gathering of standings from MLB API
   const [alDivisions, setAlDivisions] = useState({});
   const [nlDivisions, setNlDivisions] = useState({});
@@ -75,15 +75,7 @@ function MainContent() {
         </aside>
 
         {/* Article Section */}
-        <main className="article-section">
-          <div className="cover-image">
-            <img
-              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw6YzANn7Tjd45M_OIEpJF0MODJ2JuJ8BSuw&s"
-              alt="Article cover"
-            />
-          </div>
-          <RecentArticles />
-        </main>
+        <main className="article-section">{children}</main>
 
         {/* NL Standings */}
         <aside className="nl-standings">

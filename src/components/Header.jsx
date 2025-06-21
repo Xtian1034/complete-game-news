@@ -8,6 +8,11 @@ function Header() {
       <div className="header-top">
         <Link to="/" className="home-link">
           <h1 className="complete-game-title">Complete Game News</h1>
+          <img
+            src="/images/player.png"
+            alt="Pitcher"
+            className="pitcher-logo"
+          />
         </Link>
 
         <input

@@ -18,15 +18,17 @@ db.run(`CREATE TABLE IF NOT EXISTS articles (
   id INTEGER PRIMARY KEY AUTOINCREMENT,
   title TEXT NOT NULL,
   content TEXT NOT NULL,
+  caption TEXT NOT NULL,
   created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 )`);
 
 //Endpoint to receive articles
 app.post("/api/articles", (req, res) => {
-  const { title, content } = req.body;
+  const { title, content, caption } = req.body;
+  console.log("Recieved articles:", title, content, caption);
   db.run(
-    `INSERT INTO articles (title, content) VALUES (?, ?)`,
-    [title, content],
+    `INSERT INTO articles (title, content, caption) VALUES (?, ?, ?)`,
+    [title, content, caption],
     function (err) {
       if (err) return res.status(500).json({ error: err.message });
       res.json({ message: "Article posted", articleId: this.lastID });
