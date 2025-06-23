@@ -24,8 +24,14 @@ function ArticlePage() {
       <MainContent>
         {article ? (
           <>
-            <h1>{article.title}</h1>
-            <div>{article.text}</div>
+            <div className="article-layout-page">
+              <h1>{article.title}</h1>
+              <small>
+                {article.author} on{" "}
+                {new Date(article.created_at).toLocaleDateString()}
+              </small>
+              <p>{article.text}</p>
+            </div>
           </>
         ) : (
           <p>Loading article...</p>

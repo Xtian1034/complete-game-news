@@ -151,6 +151,12 @@ a {
   margin-top: 3rem;
 }
 
+.author-text {
+  display: flex;
+  justify-content: center;
+  margin-top: 3rem;
+}
+
 .pitcher-logo {
   width: 60px;
   height: auto;
@@ -172,4 +178,39 @@ a {
 
 .article-section articles:last-of-type {
   border-bottom: none;
+}
+
+.article-section h1 {
+  display: block;
+  margin-bottom: 0.25rem;
+}
+
+.article-section p {
+  display: block;
+  padding-top: 25px;
+  font-size: 0.9rem;
+}
+
+.article-section small {
+  display: block;
+  margin-top: 50px;
+  font-size: 0.6rem;
+}
+
+.article-layout-page {
+  padding: 0 20px;
+}
+
+.article-layout-page h1 {
+  margin-bottom: 0.25rem;
+}
+
+.article-layout-page small {
+  display: block;
+  border-bottom: 1px solid #797676;
+  padding-bottom: 15px;
+}
+
+.article-layout-page p {
+  margin-top: 3rem;
 }

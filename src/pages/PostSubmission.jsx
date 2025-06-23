@@ -1,12 +1,14 @@
 import "../App.css";
 import Header from "../components/Header";
 import { useState } from "react";
+import ToggleButton from "../components/ToggleButton";
 
 function PostSubmission() {
   //Creating handle submit for posting articles
   const [articletitle, setArticleTitle] = useState("");
   const [articletext, setArticleText] = useState("");
   const [articlecaption, setArticleCaption] = useState("");
+  const [author, SetAuthor] = useState("");
 
   const handleSubmit = async (e) => {
     e.preventDefault();
@@ -18,6 +20,7 @@ function PostSubmission() {
           title: articletitle,
           text: articletext,
           caption: articlecaption,
+          author: author,
         }),
       });
       if (!res.ok) throw new Error("Failed to post article");
@@ -25,6 +28,7 @@ function PostSubmission() {
       setArticleTitle("");
       setArticleText("");
       setArticleCaption("");
+      SetAuthor("");
     } catch (error) {
       alert(error.message);
     }
@@ -33,6 +37,11 @@ function PostSubmission() {
   return (
     <>
       <Header />
+
+      {/*Toggle Button */}
+      <div className="toggle-buttons">
+        <ToggleButton />
+      </div>
 
       {/* Article title box */}
       <div className="title-text">
@@ -59,6 +68,20 @@ function PostSubmission() {
           }}
           value={articlecaption}
           onChange={(e) => setArticleCaption(e.target.value)}
+        />
+      </div>
+
+      {/* Author name text box */}
+      <div className="author-text">
+        <input
+          type="text"
+          placeholder="Author Name"
+          maxLength={50}
+          style={{
+            width: "400px",
+          }}
+          value={author}
+          onChange={(e) => SetAuthor(e.target.value)}
         />
       </div>
 

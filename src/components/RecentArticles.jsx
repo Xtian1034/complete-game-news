@@ -17,10 +17,15 @@ function RecentArticles() {
       {articles.length === 0 && <p>No Articles Yet.</p>}
       {articles.map((article) => (
         <article key={article.id}>
-          <h2>
+          <h1>
             <Link to={`/articles/${article.id}`}>{article.title}</Link>
-          </h2>
+          </h1>
           <p>{article.caption}</p>
+          <small>
+            {article.author}
+            {"  "}
+            {new Date(article.created_at).toLocaleDateString()}
+          </small>
         </article>
       ))}
     </div>

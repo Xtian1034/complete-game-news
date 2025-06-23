@@ -1,6 +1,5 @@
 import "../App.css";
 import { useState, useEffect } from "react";
-import RecentArticles from "./RecentArticles";
 
 function MainContent({ children }) {
   // Gathering of standings from MLB API
