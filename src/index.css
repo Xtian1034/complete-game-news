@@ -4,8 +4,9 @@ body {
   padding: 0;
   width: 100%;
   height: 100vh;
+  overflow-x: hidden;
+  overflow-y: auto;
 
-  overflow: auto;
   background: repeating-linear-gradient(
     45deg,
     #1bb14f,
@@ -139,6 +140,54 @@ a {
   color: inherit;
 }
 
+.post-submission-wrapper {
+  display: flex;
+  justify-content: center; /* Center the form area */
+  align-items: flex-start;
+  overflow-x: auto;
+  overflow-y: auto;
+  overflow: hidden;
+  gap: 3rem; /* Add spacing between form and buttons */
+
+  width: 100%;
+  max-width: 100%;
+  margin: auto;
+  box-sizing: border-box;
+  margin-top: 1rem;
+}
+
+.post-submission-centered {
+  flex: 1 1 600px;
+  max-width: 700px;
+}
+
+.right-sidebar {
+  display: flex;
+  flex-direction: column;
+  gap: 5rem;
+  padding: 1rem;
+  color: white;
+}
+
+.option-buttons {
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 0.5rem;
+  padding: 1rem;
+  color: white;
+}
+
+.team-selector {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 0.5rem;
+  padding: 1rem;
+  color: white;
+}
+
 .submit-button {
   display: flex;
   justify-content: center;
@@ -152,6 +201,12 @@ a {
 }
 
 .author-text {
+  display: flex;
+  justify-content: center;
+  margin-top: 3rem;
+}
+
+.article-text {
   display: flex;
   justify-content: center;
   margin-top: 3rem;

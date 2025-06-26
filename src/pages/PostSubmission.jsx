@@ -1,7 +1,8 @@
 import "../App.css";
 import Header from "../components/Header";
 import { useState } from "react";
-import ToggleButton from "../components/ToggleButton";
+import OptionButtons from "../components/OptionButtons";
+import TeamSelector from "../components/TeamSelector";
 
 function PostSubmission() {
   //Creating handle submit for posting articles
@@ -38,73 +39,79 @@ function PostSubmission() {
     <>
       <Header />
 
-      {/*Toggle Button */}
-      <div className="toggle-buttons">
-        <ToggleButton />
-      </div>
+      <div className="post-submission-wrapper">
+        <div className="post-submission-centered">
+          {/* Article title box */}
+          <div className="title-text">
+            <input
+              type="text"
+              placeholder="Article Title"
+              maxLength={50}
+              style={{
+                width: "400px",
+              }}
+              value={articletitle}
+              onChange={(e) => setArticleTitle(e.target.value)}
+            />
+          </div>
+          {/* Article captain box */}
+          <div className="caption-text">
+            <input
+              type="text"
+              placeholder="Article Caption"
+              maxLength={100}
+              style={{
+                width: "400px",
+              }}
+              value={articlecaption}
+              onChange={(e) => setArticleCaption(e.target.value)}
+            />
+          </div>
+          {/* Author name text box */}
+          <div className="author-text">
+            <input
+              type="text"
+              placeholder="Author Name"
+              maxLength={50}
+              style={{
+                width: "400px",
+              }}
+              value={author}
+              onChange={(e) => SetAuthor(e.target.value)}
+            />
+          </div>
+          {/* Article body text box */}
+          <div className="article-text">
+            <textarea
+              type="text"
+              placeholder="Article Body"
+              maxLength={5000}
+              style={{
+                width: "600px",
+                height: "300px",
+              }}
+              value={articletext}
+              onChange={(e) => setArticleText(e.target.value)}
+            />
+          </div>
 
-      {/* Article title box */}
-      <div className="title-text">
-        <input
-          type="text"
-          placeholder="Article Title"
-          maxLength={50}
-          style={{
-            width: "400px",
-          }}
-          value={articletitle}
-          onChange={(e) => setArticleTitle(e.target.value)}
-        />
-      </div>
-
-      {/* Article captain box */}
-      <div className="caption-text">
-        <input
-          type="text"
-          placeholder="Article Caption"
-          maxLength={100}
-          style={{
-            width: "400px",
-          }}
-          value={articlecaption}
-          onChange={(e) => setArticleCaption(e.target.value)}
-        />
-      </div>
-
-      {/* Author name text box */}
-      <div className="author-text">
-        <input
-          type="text"
-          placeholder="Author Name"
-          maxLength={50}
-          style={{
-            width: "400px",
-          }}
-          value={author}
-          onChange={(e) => SetAuthor(e.target.value)}
-        />
-      </div>
-
-      {/* Article body text box */}
-      <div className="article-text">
-        <textarea
-          type="text"
-          placeholder="Article Body"
-          maxLength={5000}
-          style={{
-            width: "600px",
-            height: "300px",
-          }}
-          value={articletext}
-          onChange={(e) => setArticleText(e.target.value)}
-        />
-      </div>
-
-      {/* Submit button */}
-      <div className="submit-button">
-        <form onSubmit={handleSubmit}>
-          <button>Submit Article</button>
-        </form>
+          {/* Submit button */}
+          <div className="submit-button">
+            <form onSubmit={handleSubmit}>
+              <button>Submit Article</button>
+            </form>
+          </div>
+        </div>
+        <div className="right-sidebar">
+          {/*Options Button*/}
+          <div className="option-buttons">
+            <OptionButtons />
+          </div>
+          {/*Team Selector drop down */}
+          <div className="team-selector">
+            <TeamSelector />
+          </div>
+        </div>
       </div>
     </>
   );
