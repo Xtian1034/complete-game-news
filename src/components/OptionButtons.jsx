@@ -1,8 +1,6 @@
 import React, { useState } from "react";
 
-function OptionButtons() {
-  const [selectedOption, setSelectedOption] = useState("");
-
+function OptionButtons({ selectedOption, setSelectedOption }) {
   const handleChange = (event) => {
     setSelectedOption(event.target.value);
   };

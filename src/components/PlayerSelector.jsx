@@ -1,36 +1,36 @@
 import { useState, useEffect } from "react";
 
-function TeamSelector({ selectedTeams, setSelectedTeams }) {
-  const [teams, setTeams] = useState([]);
+function PlayerSelector({ selectedPlayers, setSelectedPlayers }) {
+  const [players, setPlayers] = useState([]);
   const [searchTerm, setSearchTerm] = useState("");
 
   useEffect(() => {
-    async function fetchTeams() {
+    async function fetchPlayers() {
       try {
-        const response = await fetch("http://localhost:3000/api/teams");
+        const response = await fetch("http://localhost:3000/api/players");
         const data = await response.json();
-        setTeams(data);
+        setPlayers(data);
       } catch (error) {
-        console.error("Failed to fetch teams:", error);
+        console.error("Failed to fetch players:", error);
       }
     }
 
-    fetchTeams();
+    fetchPlayers();
   }, []);
 
-  const filteredTeams = teams.filter(
-    (team) =>
-      team.name.toLowerCase().includes(searchTerm.toLowerCase()) &&
-      !selectedTeams.some((t) => t.id === team.id) // prevent already selected
+  const filteredPlayers = players.filter(
+    (player) =>
+      player.name.toLowerCase().includes(searchTerm.toLowerCase()) &&
+      !selectedPlayers.some((t) => t.id === player.id) // prevent already selected
   );
 
-  const handleSelectTeam = (team) => {
-    setSelectedTeams((prev) => [...prev, team]);
+  const handleSelectPlayer = (player) => {
+    setSelectedPlayers((prev) => [...prev, player]);
     setSearchTerm("");
   };
 
-  const handleRemoveTeam = (id) => {
-    setSelectedTeams((prev) => prev.filter((team) => team.id !== id));
+  const handleRemovePlayer = (id) => {
+    setSelectedPlayers((prev) => prev.filter((player) => player.id !== id));
   };
 
   return (
@@ -39,7 +39,7 @@ function TeamSelector({ selectedTeams, setSelectedTeams }) {
         type="text"
         value={searchTerm}
         onChange={(e) => setSearchTerm(e.target.value)}
-        placeholder="Search MLB team..."
+        placeholder="Search Player..."
         style={{
           width: "15rem",
           height: "1rem",
@@ -48,7 +48,7 @@ function TeamSelector({ selectedTeams, setSelectedTeams }) {
         }}
       />
 
-      {searchTerm && filteredTeams.length > 0 && (
+      {searchTerm && filteredPlayers.length > 0 && (
         <ul
           style={{
             position: "absolute",
@@ -66,10 +66,10 @@ function TeamSelector({ selectedTeams, setSelectedTeams }) {
             border: "1px solid #ccc",
           }}
         >
-          {filteredTeams.map((team) => (
+          {filteredPlayers.map((player) => (
             <li
-              key={team.id}
-              onClick={() => handleSelectTeam(team)}
+              key={player.id}
+              onClick={() => handleSelectPlayer(player)}
               style={{
                 padding: "5px 12px",
                 cursor: "pointer",
@@ -83,13 +83,13 @@ function TeamSelector({ selectedTeams, setSelectedTeams }) {
                 (e.currentTarget.style.backgroundColor = "white")
               }
             >
-              {team.name}
+              {player.name}
             </li>
           ))}
         </ul>
       )}
 
-      {/* Display selected teams as tags */}
+      {/* Display selected players as tags */}
       <div
         style={{
           marginTop: "10px",
@@ -98,9 +98,9 @@ function TeamSelector({ selectedTeams, setSelectedTeams }) {
           gap: "6px",
         }}
       >
-        {selectedTeams.map((team) => (
+        {selectedPlayers.map((player) => (
           <div
-            key={team.id}
+            key={player.id}
             style={{
               backgroundColor: "rgba(218, 122, 54, 1)",
               padding: "4px 8px",
@@ -110,9 +110,9 @@ function TeamSelector({ selectedTeams, setSelectedTeams }) {
               fontSize: "0.85rem",
             }}
           >
-            {team.name}
+            {player.name}
             <button
-              onClick={() => handleRemoveTeam(team.id)}
+              onClick={() => handleRemovePlayer(player.id)}
               style={{
                 marginLeft: "6px",
                 background: "transparent",
@@ -131,4 +131,4 @@ function TeamSelector({ selectedTeams, setSelectedTeams }) {
   );
 }
 
-export default TeamSelector;
+export default PlayerSelector;

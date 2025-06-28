@@ -3,13 +3,17 @@ import Header from "../components/Header";
 import { useState } from "react";
 import OptionButtons from "../components/OptionButtons";
 import TeamSelector from "../components/TeamSelector";
+import PlayerSelector from "../components/PlayerSelector";
 
 function PostSubmission() {
   //Creating handle submit for posting articles
-  const [articletitle, setArticleTitle] = useState("");
-  const [articletext, setArticleText] = useState("");
-  const [articlecaption, setArticleCaption] = useState("");
-  const [author, SetAuthor] = useState("");
+  const [articleTitle, setArticleTitle] = useState("");
+  const [articleText, setArticleText] = useState("");
+  const [articleCaption, setArticleCaption] = useState("");
+  const [articleAuthor, setArticleAuthor] = useState("");
+  const [articleTag, setArticleTag] = useState("");
+  const [selectedTeams, setSelectedTeams] = useState([]);
+  const [selectedPlayers, setSelectedPlayers] = useState([]);
 
   const handleSubmit = async (e) => {
     e.preventDefault();
@@ -18,10 +22,13 @@ function PostSubmission() {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
-          title: articletitle,
-          text: articletext,
-          caption: articlecaption,
-          author: author,
+          title: articleTitle,
+          text: articleText,
+          caption: articleCaption,
+          author: articleAuthor,
+          tag: articleTag,
+          teams: selectedTeams.map((t) => t.id),
+          players: selectedPlayers.map((p) => p.id),
         }),
       });
       if (!res.ok) throw new Error("Failed to post article");
@@ -29,7 +36,10 @@ function PostSubmission() {
       setArticleTitle("");
       setArticleText("");
       setArticleCaption("");
-      SetAuthor("");
+      setArticleAuthor("");
+      setArticleTag("");
+      setSelectedTeams([]);
+      setSelectedPlayers([]);
     } catch (error) {
       alert(error.message);
     }
@@ -50,7 +60,7 @@ function PostSubmission() {
               style={{
                 width: "400px",
               }}
-              value={articletitle}
+              value={articleTitle}
               onChange={(e) => setArticleTitle(e.target.value)}
             />
           </div>
@@ -63,7 +73,7 @@ function PostSubmission() {
               style={{
                 width: "400px",
               }}
-              value={articlecaption}
+              value={articleCaption}
               onChange={(e) => setArticleCaption(e.target.value)}
             />
           </div>
@@ -76,8 +86,8 @@ function PostSubmission() {
               style={{
                 width: "400px",
               }}
-              value={author}
-              onChange={(e) => SetAuthor(e.target.value)}
+              value={articleAuthor}
+              onChange={(e) => setArticleAuthor(e.target.value)}
             />
           </div>
           {/* Article body text box */}
@@ -90,7 +100,7 @@ function PostSubmission() {
                 width: "600px",
                 height: "300px",
               }}
-              value={articletext}
+              value={articleText}
               onChange={(e) => setArticleText(e.target.value)}
             />
           </div>
@@ -105,11 +115,25 @@ function PostSubmission() {
         <div className="right-sidebar">
           {/*Options Button*/}
           <div className="option-buttons">
-            <OptionButtons />
+            <OptionButtons
+              selectedOption={articleTag}
+              setSelectedOption={setArticleTag}
+            />
           </div>
           {/*Team Selector drop down */}
           <div className="team-selector">
-            <TeamSelector />
+            <TeamSelector
+              selectedTeams={selectedTeams}
+              setSelectedTeams={setSelectedTeams}
+            />
+          </div>
+
+          {/*Playor Selector drop down */}
+          <div className="player-selector">
+            <PlayerSelector
+              selectedPlayers={selectedPlayers}
+              setSelectedPlayers={setSelectedPlayers}
+            />
           </div>
         </div>
       </div>

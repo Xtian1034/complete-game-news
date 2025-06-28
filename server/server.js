@@ -22,6 +22,8 @@ db.run(`CREATE TABLE IF NOT EXISTS articles (
   text TEXT NOT NULL,
   caption TEXT NOT NULL,
   author TEXT NOT NULL,
+  tag TEXT NOT NULL,
+  
   created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 )`);
 
@@ -78,14 +80,33 @@ cachePlayersToDB();
 
 //Endpoint to receive articles
 app.post("/api/articles", (req, res) => {
-  const { title, text, caption, author } = req.body;
-  console.log("Recieved articles:", title, text, caption);
+  const { title, text, caption, author, tag, teams, players } = req.body;
+  console.log("Recieved articles:", title, text, caption, author, tag);
   db.run(
-    `INSERT INTO articles (title, text, caption, author) VALUES (?, ?, ?, ?)`,
-    [title, text, caption, author],
+    `INSERT INTO articles (title, text, caption, author, tag) VALUES (?, ?, ?, ?, ?)`,
+    [title, text, caption, author, tag],
     function (err) {
       if (err) return res.status(500).json({ error: err.message });
-      res.json({ message: "Article posted", articleId: this.lastID });
+
+      const articleId = this.lastID;
+
+      const insertTeam = db.prepare(
+        "INSERT INTO article_teams (article_id, team_id) VALUES (?, ?)"
+      );
+      teams.forEach((teamId) => {
+        insertTeam.run(articleId, teamId);
+      });
+      insertTeam.finalize();
+
+      const insertPlayer = db.prepare(
+        "INSERT INTO article_players (article_id, player_id) VALUES (?, ?)"
+      );
+      players.forEach((playerId) => {
+        insertPlayer.run(articleId, playerId);
+      });
+      insertPlayer.finalize();
+
+      res.json({ message: "Article Posted!", articleId });
     }
   );
 });
