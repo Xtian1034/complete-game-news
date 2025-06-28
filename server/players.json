@@ -1,0 +1,7988 @@
+[
+  {
+    "id": 687424,
+    "name": "Anthony Maldonado",
+    "team": "Athletics",
+    "teamId": 133
+  },
+  {
+    "id": 642851,
+    "name": "Austin Wynns",
+    "team": "Athletics",
+    "teamId": 133
+  },
+  {
+    "id": 669620,
+    "name": "Brady Basso",
+    "team": "Athletics",
+    "teamId": 133
+  },
+  {
+    "id": 667670,
+    "name": "Brent Rooker",
+    "team": "Athletics",
+    "teamId": 133
+  },
+  {
+    "id": 695391,
+    "name": "Brett Harris",
+    "team": "Athletics",
+    "teamId": 133
+  },
+  {
+    "id": 687231,
+    "name": "Darell Hernaiz",
+    "team": "Athletics",
+    "teamId": 133
+  },
+  {
+    "id": 672016,
+    "name": "Denzel Clarke",
+    "team": "Athletics",
+    "teamId": 133
+  },
+  {
+    "id": 665660,
+    "name": "Elvis Alvarado",
+    "team": "Athletics",
+    "teamId": 133
+  },
+  {
+    "id": 570482,
+    "name": "Gio Urshela",
+    "team": "Athletics",
+    "teamId": 133
+  },
+  {
+    "id": 680880,
+    "name": "Grant Holman",
+    "team": "Athletics",
+    "teamId": 133
+  },
+  {
+    "id": 680684,
+    "name": "Gunnar Hoglund",
+    "team": "Athletics",
+    "teamId": 133
+  },
+  {
+    "id": 663687,
+    "name": "Hogan Harris",
+    "team": "Athletics",
+    "teamId": 133
+  },
+  {
+    "id": 669372,
+    "name": "J.T. Ginn",
+    "team": "Athletics",
+    "teamId": 133
+  },
+  {
+    "id": 668709,
+    "name": "JJ Bleday",
+    "team": "Athletics",
+    "teamId": 133
+  },
+  {
+    "id": 676664,
+    "name": "JP Sears",
+    "team": "Athletics",
+    "teamId": 133
+  },
+  {
+    "id": 678022,
+    "name": "Jack Perkins",
+    "team": "Athletics",
+    "teamId": 133
+  },
+  {
+    "id": 682052,
+    "name": "Jacob Lopez",
+    "team": "Athletics",
+    "teamId": 133
+  },
+  {
+    "id": 805779,
+    "name": "Jacob Wilson",
+    "team": "Athletics",
+    "teamId": 133
+  },
+  {
+    "id": 605488,
+    "name": "Jeffrey Springs",
+    "team": "Athletics",
+    "teamId": 133
+  },
+  {
+    "id": 640902,
+    "name": "Jhonny Pereda",
+    "team": "Athletics",
+    "teamId": 133
+  },
+  {
+    "id": 683155,
+    "name": "Joey Estes",
+    "team": "Athletics",
+    "teamId": 133
+  },
+  {
+    "id": 600917,
+    "name": "José Leclerc",
+    "team": "Athletics",
+    "teamId": 133
+  },
+  {
+    "id": 686993,
+    "name": "Justin Sterner",
+    "team": "Athletics",
+    "teamId": 133
+  },
+  {
+    "id": 686610,
+    "name": "Ken Waldichuk",
+    "team": "Athletics",
+    "teamId": 133
+  },
+  {
+    "id": 671732,
+    "name": "Lawrence Butler",
+    "team": "Athletics",
+    "teamId": 133
+  },
+  {
+    "id": 669722,
+    "name": "Logan Davidson",
+    "team": "Athletics",
+    "teamId": 133
+  },
+  {
+    "id": 665622,
+    "name": "Luis Medina",
+    "team": "Athletics",
+    "teamId": 133
+  },
+  {
+    "id": 622663,
+    "name": "Luis Severino",
+    "team": "Athletics",
+    "teamId": 133
+  },
+  {
+    "id": 649966,
+    "name": "Luis Urías",
+    "team": "Athletics",
+    "teamId": 133
+  },
+  {
+    "id": 695243,
+    "name": "Mason Miller",
+    "team": "Athletics",
+    "teamId": 133
+  },
+  {
+    "id": 691777,
+    "name": "Max Muncy",
+    "team": "Athletics",
+    "teamId": 133
+  },
+  {
+    "id": 680474,
+    "name": "Max Schuemann",
+    "team": "Athletics",
+    "teamId": 133
+  },
+  {
+    "id": 547184,
+    "name": "Michael Kelly",
+    "team": "Athletics",
+    "teamId": 133
+  },
+  {
+    "id": 671305,
+    "name": "Michel Otañez",
+    "team": "Athletics",
+    "teamId": 133
+  },
+  {
+    "id": 609280,
+    "name": "Miguel Andujar",
+    "team": "Athletics",
+    "teamId": 133
+  },
+  {
+    "id": 687765,
+    "name": "Mitch Spence",
+    "team": "Athletics",
+    "teamId": 133
+  },
+  {
+    "id": 701762,
+    "name": "Nick Kurtz",
+    "team": "Athletics",
+    "teamId": 133
+  },
+  {
+    "id": 674370,
+    "name": "Osvaldo Bido",
+    "team": "Athletics",
+    "teamId": 133
+  },
+  {
+    "id": 656794,
+    "name": "Sean Newcomb",
+    "team": "Athletics",
+    "teamId": 133
+  },
+  {
+    "id": 669127,
+    "name": "Shea Langeliers",
+    "team": "Athletics",
+    "teamId": 133
+  },
+  {
+    "id": 621053,
+    "name": "Tyler Ferguson",
+    "team": "Athletics",
+    "teamId": 133
+  },
+  {
+    "id": 691016,
+    "name": "Tyler Soderstrom",
+    "team": "Athletics",
+    "teamId": 133
+  },
+  {
+    "id": 680862,
+    "name": "Willie MacIver",
+    "team": "Athletics",
+    "teamId": 133
+  },
+  {
+    "id": 680869,
+    "name": "Zack Gelof",
+    "team": "Athletics",
+    "teamId": 133
+  },
+  {
+    "id": 624428,
+    "name": "Adam Frazier",
+    "team": "Pittsburgh Pirates",
+    "teamId": 134
+  },
+  {
+    "id": 672744,
+    "name": "Alexander Canario",
+    "team": "Pittsburgh Pirates",
+    "teamId": 134
+  },
+  {
+    "id": 571760,
+    "name": "Andrew Heaney",
+    "team": "Pittsburgh Pirates",
+    "teamId": 134
+  },
+  {
+    "id": 457705,
+    "name": "Andrew McCutchen",
+    "team": "Pittsburgh Pirates",
+    "teamId": 134
+  },
+  {
+    "id": 663559,
+    "name": "Bailey Falter",
+    "team": "Pittsburgh Pirates",
+    "teamId": 134
+  },
+  {
+    "id": 695257,
+    "name": "Billy Cook",
+    "team": "Pittsburgh Pirates",
+    "teamId": 134
+  },
+  {
+    "id": 677952,
+    "name": "Braxton Ashcraft",
+    "team": "Pittsburgh Pirates",
+    "teamId": 134
+  },
+  {
+    "id": 668804,
+    "name": "Bryan Reynolds",
+    "team": "Pittsburgh Pirates",
+    "teamId": 134
+  },
+  {
+    "id": 657571,
+    "name": "Caleb Ferguson",
+    "team": "Pittsburgh Pirates",
+    "teamId": 134
+  },
+  {
+    "id": 669387,
+    "name": "Carmen Mlodzinski",
+    "team": "Pittsburgh Pirates",
+    "teamId": 134
+  },
+  {
+    "id": 663767,
+    "name": "Chase Shugart",
+    "team": "Pittsburgh Pirates",
+    "teamId": 134
+  },
+  {
+    "id": 670059,
+    "name": "Colin Holderman",
+    "team": "Pittsburgh Pirates",
+    "teamId": 134
+  },
+  {
+    "id": 664294,
+    "name": "Dauri Moreta",
+    "team": "Pittsburgh Pirates",
+    "teamId": 134
+  },
+  {
+    "id": 670280,
+    "name": "David Bednar",
+    "team": "Pittsburgh Pirates",
+    "teamId": 134
+  },
+  {
+    "id": 642701,
+    "name": "Dennis Santana",
+    "team": "Pittsburgh Pirates",
+    "teamId": 134
+  },
+  {
+    "id": 682848,
+    "name": "Endy Rodríguez",
+    "team": "Pittsburgh Pirates",
+    "teamId": 134
+  },
+  {
+    "id": 665839,
+    "name": "Enmanuel Valdez",
+    "team": "Pittsburgh Pirates",
+    "teamId": 134
+  },
+  {
+    "id": 650893,
+    "name": "Génesis Cabrera",
+    "team": "Pittsburgh Pirates",
+    "teamId": 134
+  },
+  {
+    "id": 680779,
+    "name": "Henry Davis",
+    "team": "Pittsburgh Pirates",
+    "teamId": 134
+  },
+  {
+    "id": 676755,
+    "name": "Isaac Mattson",
+    "team": "Pittsburgh Pirates",
+    "teamId": 134
+  },
+  {
+    "id": 643396,
+    "name": "Isiah Kiner-Falefa",
+    "team": "Pittsburgh Pirates",
+    "teamId": 134
+  },
+  {
+    "id": 669261,
+    "name": "Jack Suwinski",
+    "team": "Pittsburgh Pirates",
+    "teamId": 134
+  },
+  {
+    "id": 683003,
+    "name": "Jared Jones",
+    "team": "Pittsburgh Pirates",
+    "teamId": 134
+  },
+  {
+    "id": 669707,
+    "name": "Jared Triolo",
+    "team": "Pittsburgh Pirates",
+    "teamId": 134
+  },
+  {
+    "id": 678225,
+    "name": "Ji Hwan Bae",
+    "team": "Pittsburgh Pirates",
+    "teamId": 134
+  },
+  {
+    "id": 663698,
+    "name": "Joey Bart",
+    "team": "Pittsburgh Pirates",
+    "teamId": 134
+  },
+  {
+    "id": 670912,
+    "name": "Johan Oviedo",
+    "team": "Pittsburgh Pirates",
+    "teamId": 134
+  },
+  {
+    "id": 664875,
+    "name": "Justin Lawrence",
+    "team": "Pittsburgh Pirates",
+    "teamId": 134
+  },
+  {
+    "id": 663647,
+    "name": "Ke'Bryan Hayes",
+    "team": "Pittsburgh Pirates",
+    "teamId": 134
+  },
+  {
+    "id": 693312,
+    "name": "Kyle Nicolas",
+    "team": "Pittsburgh Pirates",
+    "teamId": 134
+  },
+  {
+    "id": 678894,
+    "name": "Liover Peguero",
+    "team": "Pittsburgh Pirates",
+    "teamId": 134
+  },
+  {
+    "id": 685301,
+    "name": "Matt Gorski",
+    "team": "Pittsburgh Pirates",
+    "teamId": 134
+  },
+  {
+    "id": 690382,
+    "name": "Michael Darrell-Hicks",
+    "team": "Pittsburgh Pirates",
+    "teamId": 134
+  },
+  {
+    "id": 681347,
+    "name": "Mike Burrows",
+    "team": "Pittsburgh Pirates",
+    "teamId": 134
+  },
+  {
+    "id": 656605,
+    "name": "Mitch Keller",
+    "team": "Pittsburgh Pirates",
+    "teamId": 134
+  },
+  {
+    "id": 693304,
+    "name": "Nick Gonzales",
+    "team": "Pittsburgh Pirates",
+    "teamId": 134
+  },
+  {
+    "id": 694377,
+    "name": "Nick Yorke",
+    "team": "Pittsburgh Pirates",
+    "teamId": 134
+  },
+  {
+    "id": 665833,
+    "name": "Oneil Cruz",
+    "team": "Pittsburgh Pirates",
+    "teamId": 134
+  },
+  {
+    "id": 694973,
+    "name": "Paul Skenes",
+    "team": "Pittsburgh Pirates",
+    "teamId": 134
+  },
+  {
+    "id": 682927,
+    "name": "Ronny Simon",
+    "team": "Pittsburgh Pirates",
+    "teamId": 134
+  },
+  {
+    "id": 621366,
+    "name": "Ryan Borucki",
+    "team": "Pittsburgh Pirates",
+    "teamId": 134
+  },
+  {
+    "id": 687462,
+    "name": "Spencer Horwitz",
+    "team": "Pittsburgh Pirates",
+    "teamId": 134
+  },
+  {
+    "id": 802419,
+    "name": "Thomas Harrington",
+    "team": "Pittsburgh Pirates",
+    "teamId": 134
+  },
+  {
+    "id": 641835,
+    "name": "Tim Mayza",
+    "team": "Pittsburgh Pirates",
+    "teamId": 134
+  },
+  {
+    "id": 502054,
+    "name": "Tommy Pham",
+    "team": "Pittsburgh Pirates",
+    "teamId": 134
+  },
+  {
+    "id": 691907,
+    "name": "Tsung-Che Cheng",
+    "team": "Pittsburgh Pirates",
+    "teamId": 134
+  },
+  {
+    "id": 670970,
+    "name": "Adrian Morejon",
+    "team": "San Diego Padres",
+    "teamId": 135
+  },
+  {
+    "id": 689690,
+    "name": "Alek Jacob",
+    "team": "San Diego Padres",
+    "teamId": 135
+  },
+  {
+    "id": 699134,
+    "name": "Bradgley Rodriguez",
+    "team": "San Diego Padres",
+    "teamId": 135
+  },
+  {
+    "id": 663604,
+    "name": "Brandon Lockridge",
+    "team": "San Diego Padres",
+    "teamId": 135
+  },
+  {
+    "id": 663773,
+    "name": "Bryan Hoeing",
+    "team": "San Diego Padres",
+    "teamId": 135
+  },
+  {
+    "id": 669369,
+    "name": "Bryce Johnson",
+    "team": "San Diego Padres",
+    "teamId": 135
+  },
+  {
+    "id": 688158,
+    "name": "David Morgan",
+    "team": "San Diego Padres",
+    "teamId": 135
+  },
+  {
+    "id": 656302,
+    "name": "Dylan Cease",
+    "team": "San Diego Padres",
+    "teamId": 135
+  },
+  {
+    "id": 553869,
+    "name": "Elias Díaz",
+    "team": "San Diego Padres",
+    "teamId": 135
+  },
+  {
+    "id": 665487,
+    "name": "Fernando Tatis Jr.",
+    "team": "San Diego Padres",
+    "teamId": 135
+  },
+  {
+    "id": 657757,
+    "name": "Gavin Sheets",
+    "team": "San Diego Padres",
+    "teamId": 135
+  },
+  {
+    "id": 692013,
+    "name": "Henry Baez",
+    "team": "San Diego Padres",
+    "teamId": 135
+  },
+  {
+    "id": 701538,
+    "name": "Jackson Merrill",
+    "team": "San Diego Padres",
+    "teamId": 135
+  },
+  {
+    "id": 630105,
+    "name": "Jake Cronenworth",
+    "team": "San Diego Padres",
+    "teamId": 135
+  },
+  {
+    "id": 592094,
+    "name": "Jason Adam",
+    "team": "San Diego Padres",
+    "teamId": 135
+  },
+  {
+    "id": 669093,
+    "name": "Jeremiah Estrada",
+    "team": "San Diego Padres",
+    "teamId": 135
+  },
+  {
+    "id": 666745,
+    "name": "Jhony Brito",
+    "team": "San Diego Padres",
+    "teamId": 135
+  },
+  {
+    "id": 605397,
+    "name": "Joe Musgrove",
+    "team": "San Diego Padres",
+    "teamId": 135
+  },
+  {
+    "id": 578428,
+    "name": "Jose Iglesias",
+    "team": "San Diego Padres",
+    "teamId": 135
+  },
+  {
+    "id": 606996,
+    "name": "Kyle Hart",
+    "team": "San Diego Padres",
+    "teamId": 135
+  },
+  {
+    "id": 670810,
+    "name": "Logan Gillaspie",
+    "team": "San Diego Padres",
+    "teamId": 135
+  },
+  {
+    "id": 650333,
+    "name": "Luis Arraez",
+    "team": "San Diego Padres",
+    "teamId": 135
+  },
+  {
+    "id": 669134,
+    "name": "Luis Campusano",
+    "team": "San Diego Padres",
+    "teamId": 135
+  },
+  {
+    "id": 592518,
+    "name": "Manny Machado",
+    "team": "San Diego Padres",
+    "teamId": 135
+  },
+  {
+    "id": 455117,
+    "name": "Martín Maldonado",
+    "team": "San Diego Padres",
+    "teamId": 135
+  },
+  {
+    "id": 669200,
+    "name": "Mason McCoy",
+    "team": "San Diego Padres",
+    "teamId": 135
+  },
+  {
+    "id": 663362,
+    "name": "Matt Waldron",
+    "team": "San Diego Padres",
+    "teamId": 135
+  },
+  {
+    "id": 650633,
+    "name": "Michael King",
+    "team": "San Diego Padres",
+    "teamId": 135
+  },
+  {
+    "id": 601713,
+    "name": "Nick Pivetta",
+    "team": "San Diego Padres",
+    "teamId": 135
+  },
+  {
+    "id": 678316,
+    "name": "Omar Cruz",
+    "team": "San Diego Padres",
+    "teamId": 135
+  },
+  {
+    "id": 681190,
+    "name": "Randy Vásquez",
+    "team": "San Diego Padres",
+    "teamId": 135
+  },
+  {
+    "id": 663158,
+    "name": "Robert Suarez",
+    "team": "San Diego Padres",
+    "teamId": 135
+  },
+  {
+    "id": 676760,
+    "name": "Ron Marinaccio",
+    "team": "San Diego Padres",
+    "teamId": 135
+  },
+  {
+    "id": 686701,
+    "name": "Ryan Bergert",
+    "team": "San Diego Padres",
+    "teamId": 135
+  },
+  {
+    "id": 669308,
+    "name": "Sean Reynolds",
+    "team": "San Diego Padres",
+    "teamId": 135
+  },
+  {
+    "id": 663568,
+    "name": "Stephen Kolek",
+    "team": "San Diego Padres",
+    "teamId": 135
+  },
+  {
+    "id": 672359,
+    "name": "Tirso Ornelas",
+    "team": "San Diego Padres",
+    "teamId": 135
+  },
+  {
+    "id": 670092,
+    "name": "Trenton Brooks",
+    "team": "San Diego Padres",
+    "teamId": 135
+  },
+  {
+    "id": 642180,
+    "name": "Tyler Wade",
+    "team": "San Diego Padres",
+    "teamId": 135
+  },
+  {
+    "id": 593974,
+    "name": "Wandy Peralta",
+    "team": "San Diego Padres",
+    "teamId": 135
+  },
+  {
+    "id": 593428,
+    "name": "Xander Bogaerts",
+    "team": "San Diego Padres",
+    "teamId": 135
+  },
+  {
+    "id": 506433,
+    "name": "Yu Darvish",
+    "team": "San Diego Padres",
+    "teamId": 135
+  },
+  {
+    "id": 673513,
+    "name": "Yuki Matsui",
+    "team": "San Diego Padres",
+    "teamId": 135
+  },
+  {
+    "id": 662253,
+    "name": "Andrés Muñoz",
+    "team": "Seattle Mariners",
+    "teamId": 136
+  },
+  {
+    "id": 810938,
+    "name": "Ben Williamson",
+    "team": "Seattle Mariners",
+    "teamId": 136
+  },
+  {
+    "id": 680604,
+    "name": "Blas Castaño",
+    "team": "Seattle Mariners",
+    "teamId": 136
+  },
+  {
+    "id": 693433,
+    "name": "Bryan Woo",
+    "team": "Seattle Mariners",
+    "teamId": 136
+  },
+  {
+    "id": 682243,
+    "name": "Bryce Miller",
+    "team": "Seattle Mariners",
+    "teamId": 136
+  },
+  {
+    "id": 663728,
+    "name": "Cal Raleigh",
+    "team": "Seattle Mariners",
+    "teamId": 136
+  },
+  {
+    "id": 672841,
+    "name": "Carlos Vargas",
+    "team": "Seattle Mariners",
+    "teamId": 136
+  },
+  {
+    "id": 668984,
+    "name": "Casey Legumina",
+    "team": "Seattle Mariners",
+    "teamId": 136
+  },
+  {
+    "id": 702284,
+    "name": "Cole Young",
+    "team": "Seattle Mariners",
+    "teamId": 136
+  },
+  {
+    "id": 676092,
+    "name": "Collin Snider",
+    "team": "Seattle Mariners",
+    "teamId": 136
+  },
+  {
+    "id": 686527,
+    "name": "Dominic Canzone",
+    "team": "Seattle Mariners",
+    "teamId": 136
+  },
+  {
+    "id": 456781,
+    "name": "Donovan Solano",
+    "team": "Seattle Mariners",
+    "teamId": 136
+  },
+  {
+    "id": 664238,
+    "name": "Dylan Moore",
+    "team": "Seattle Mariners",
+    "teamId": 136
+  },
+  {
+    "id": 660825,
+    "name": "Eduard Bazardo",
+    "team": "Seattle Mariners",
+    "teamId": 136
+  },
+  {
+    "id": 676106,
+    "name": "Emerson Hancock",
+    "team": "Seattle Mariners",
+    "teamId": 136
+  },
+  {
+    "id": 642100,
+    "name": "Gabe Speier",
+    "team": "Seattle Mariners",
+    "teamId": 136
+  },
+  {
+    "id": 669923,
+    "name": "George Kirby",
+    "team": "Seattle Mariners",
+    "teamId": 136
+  },
+  {
+    "id": 666619,
+    "name": "Gregory Santos",
+    "team": "Seattle Mariners",
+    "teamId": 136
+  },
+  {
+    "id": 641487,
+    "name": "J.P. Crawford",
+    "team": "Seattle Mariners",
+    "teamId": 136
+  },
+  {
+    "id": 663804,
+    "name": "Jackson Kowar",
+    "team": "Seattle Mariners",
+    "teamId": 136
+  },
+  {
+    "id": 674441,
+    "name": "Jacob Hurtubise",
+    "team": "Seattle Mariners",
+    "teamId": 136
+  },
+  {
+    "id": 646242,
+    "name": "Jhonathan Díaz",
+    "team": "Seattle Mariners",
+    "teamId": 136
+  },
+  {
+    "id": 593871,
+    "name": "Jorge Polanco",
+    "team": "Seattle Mariners",
+    "teamId": 136
+  },
+  {
+    "id": 677594,
+    "name": "Julio Rodríguez",
+    "team": "Seattle Mariners",
+    "teamId": 136
+  },
+  {
+    "id": 660844,
+    "name": "Leo Rivas",
+    "team": "Seattle Mariners",
+    "teamId": 136
+  },
+  {
+    "id": 688138,
+    "name": "Logan Evans",
+    "team": "Seattle Mariners",
+    "teamId": 136
+  },
+  {
+    "id": 669302,
+    "name": "Logan Gilbert",
+    "team": "Seattle Mariners",
+    "teamId": 136
+  },
+  {
+    "id": 622491,
+    "name": "Luis Castillo",
+    "team": "Seattle Mariners",
+    "teamId": 136
+  },
+  {
+    "id": 670042,
+    "name": "Luke Raley",
+    "team": "Seattle Mariners",
+    "teamId": 136
+  },
+  {
+    "id": 666374,
+    "name": "Matt Brash",
+    "team": "Seattle Mariners",
+    "teamId": 136
+  },
+  {
+    "id": 670156,
+    "name": "Miles Mastrobuoni",
+    "team": "Seattle Mariners",
+    "teamId": 136
+  },
+  {
+    "id": 641598,
+    "name": "Mitch Garver",
+    "team": "Seattle Mariners",
+    "teamId": 136
+  },
+  {
+    "id": 668227,
+    "name": "Randy Arozarena",
+    "team": "Seattle Mariners",
+    "teamId": 136
+  },
+  {
+    "id": 689041,
+    "name": "Rhylan Thomas",
+    "team": "Seattle Mariners",
+    "teamId": 136
+  },
+  {
+    "id": 669208,
+    "name": "Ryan Bliss",
+    "team": "Seattle Mariners",
+    "teamId": 136
+  },
+  {
+    "id": 669392,
+    "name": "Samad Taylor",
+    "team": "Seattle Mariners",
+    "teamId": 136
+  },
+  {
+    "id": 642048,
+    "name": "Tayler Saucedo",
+    "team": "Seattle Mariners",
+    "teamId": 136
+  },
+  {
+    "id": 663423,
+    "name": "Trent Thornton",
+    "team": "Seattle Mariners",
+    "teamId": 136
+  },
+  {
+    "id": 700187,
+    "name": "Troy Taylor",
+    "team": "Seattle Mariners",
+    "teamId": 136
+  },
+  {
+    "id": 682988,
+    "name": "Tyler Locklear",
+    "team": "Seattle Mariners",
+    "teamId": 136
+  },
+  {
+    "id": 645302,
+    "name": "Victor Robles",
+    "team": "Seattle Mariners",
+    "teamId": 136
+  },
+  {
+    "id": 647315,
+    "name": "Zach Pop",
+    "team": "Seattle Mariners",
+    "teamId": 136
+  },
+  {
+    "id": 668800,
+    "name": "Andrew Knizner",
+    "team": "San Francisco Giants",
+    "teamId": 137
+  },
+  {
+    "id": 689172,
+    "name": "Brett Wisely",
+    "team": "San Francisco Giants",
+    "teamId": 137
+  },
+  {
+    "id": 666808,
+    "name": "Camilo Doval",
+    "team": "San Francisco Giants",
+    "teamId": 137
+  },
+  {
+    "id": 685068,
+    "name": "Carson Ragsdale",
+    "team": "San Francisco Giants",
+    "teamId": 137
+  },
+  {
+    "id": 693313,
+    "name": "Carson Seymour",
+    "team": "San Francisco Giants",
+    "teamId": 137
+  },
+  {
+    "id": 669477,
+    "name": "Casey Schmitt",
+    "team": "San Francisco Giants",
+    "teamId": 137
+  },
+  {
+    "id": 683766,
+    "name": "Christian Koss",
+    "team": "San Francisco Giants",
+    "teamId": 137
+  },
+  {
+    "id": 669288,
+    "name": "Daniel Johnson",
+    "team": "San Francisco Giants",
+    "teamId": 137
+  },
+  {
+    "id": 642086,
+    "name": "Dominic Smith",
+    "team": "San Francisco Giants",
+    "teamId": 137
+  },
+  {
+    "id": 669062,
+    "name": "Erik Miller",
+    "team": "San Francisco Giants",
+    "teamId": 137
+  },
+  {
+    "id": 687529,
+    "name": "Grant McCray",
+    "team": "San Francisco Giants",
+    "teamId": 137
+  },
+  {
+    "id": 806185,
+    "name": "Hayden Birdsong",
+    "team": "San Francisco Giants",
+    "teamId": 137
+  },
+  {
+    "id": 671218,
+    "name": "Heliot Ramos",
+    "team": "San Francisco Giants",
+    "teamId": 137
+  },
+  {
+    "id": 666464,
+    "name": "Jerar Encarnacion",
+    "team": "San Francisco Giants",
+    "teamId": 137
+  },
+  {
+    "id": 664192,
+    "name": "Joey Lucchesi",
+    "team": "San Francisco Giants",
+    "teamId": 137
+  },
+  {
+    "id": 808982,
+    "name": "Jung Hoo Lee",
+    "team": "San Francisco Giants",
+    "teamId": 137
+  },
+  {
+    "id": 434378,
+    "name": "Justin Verlander",
+    "team": "San Francisco Giants",
+    "teamId": 137
+  },
+  {
+    "id": 676775,
+    "name": "Keaton Winn",
+    "team": "San Francisco Giants",
+    "teamId": 137
+  },
+  {
+    "id": 694738,
+    "name": "Landen Roupp",
+    "team": "San Francisco Giants",
+    "teamId": 137
+  },
+  {
+    "id": 682515,
+    "name": "Logan Porter",
+    "team": "San Francisco Giants",
+    "teamId": 137
+  },
+  {
+    "id": 657277,
+    "name": "Logan Webb",
+    "team": "San Francisco Giants",
+    "teamId": 137
+  },
+  {
+    "id": 682641,
+    "name": "Luis Matos",
+    "team": "San Francisco Giants",
+    "teamId": 137
+  },
+  {
+    "id": 682617,
+    "name": "Marco Luciano",
+    "team": "San Francisco Giants",
+    "teamId": 137
+  },
+  {
+    "id": 696131,
+    "name": "Mason Black",
+    "team": "San Francisco Giants",
+    "teamId": 137
+  },
+  {
+    "id": 656305,
+    "name": "Matt Chapman",
+    "team": "San Francisco Giants",
+    "teamId": 137
+  },
+  {
+    "id": 573262,
+    "name": "Mike Yastrzemski",
+    "team": "San Francisco Giants",
+    "teamId": 137
+  },
+  {
+    "id": 672275,
+    "name": "Patrick Bailey",
+    "team": "San Francisco Giants",
+    "teamId": 137
+  },
+  {
+    "id": 646240,
+    "name": "Rafael Devers",
+    "team": "San Francisco Giants",
+    "teamId": 137
+  },
+  {
+    "id": 678495,
+    "name": "Randy Rodríguez",
+    "team": "San Francisco Giants",
+    "teamId": 137
+  },
+  {
+    "id": 592662,
+    "name": "Robbie Ray",
+    "team": "San Francisco Giants",
+    "teamId": 137
+  },
+  {
+    "id": 676254,
+    "name": "Ryan Walker",
+    "team": "San Francisco Giants",
+    "teamId": 137
+  },
+  {
+    "id": 663546,
+    "name": "Sean Hjelle",
+    "team": "San Francisco Giants",
+    "teamId": 137
+  },
+  {
+    "id": 702352,
+    "name": "Spencer Bivens",
+    "team": "San Francisco Giants",
+    "teamId": 137
+  },
+  {
+    "id": 608596,
+    "name": "Tom Murphy",
+    "team": "San Francisco Giants",
+    "teamId": 137
+  },
+  {
+    "id": 686790,
+    "name": "Trevor McDonald",
+    "team": "San Francisco Giants",
+    "teamId": 137
+  },
+  {
+    "id": 663941,
+    "name": "Tristan Beck",
+    "team": "San Francisco Giants",
+    "teamId": 137
+  },
+  {
+    "id": 666149,
+    "name": "Tyler Fitzgerald",
+    "team": "San Francisco Giants",
+    "teamId": 137
+  },
+  {
+    "id": 643511,
+    "name": "Tyler Rogers",
+    "team": "San Francisco Giants",
+    "teamId": 137
+  },
+  {
+    "id": 685133,
+    "name": "Wade Meckler",
+    "team": "San Francisco Giants",
+    "teamId": 137
+  },
+  {
+    "id": 642715,
+    "name": "Willy Adames",
+    "team": "San Francisco Giants",
+    "teamId": 137
+  },
+  {
+    "id": 527038,
+    "name": "Wilmer Flores",
+    "team": "San Francisco Giants",
+    "teamId": 137
+  },
+  {
+    "id": 676475,
+    "name": "Alec Burleson",
+    "team": "St. Louis Cardinals",
+    "teamId": 138
+  },
+  {
+    "id": 701552,
+    "name": "Andre Granillo",
+    "team": "St. Louis Cardinals",
+    "teamId": 138
+  },
+  {
+    "id": 669467,
+    "name": "Andre Pallante",
+    "team": "St. Louis Cardinals",
+    "teamId": 138
+  },
+  {
+    "id": 680977,
+    "name": "Brendan Donovan",
+    "team": "St. Louis Cardinals",
+    "teamId": 138
+  },
+  {
+    "id": 688297,
+    "name": "Chris Roycroft",
+    "team": "St. Louis Cardinals",
+    "teamId": 138
+  },
+  {
+    "id": 607200,
+    "name": "Erick Fedde",
+    "team": "St. Louis Cardinals",
+    "teamId": 138
+  },
+  {
+    "id": 641658,
+    "name": "Garrett Hampson",
+    "team": "St. Louis Cardinals",
+    "teamId": 138
+  },
+  {
+    "id": 700669,
+    "name": "Gordon Graceffo",
+    "team": "St. Louis Cardinals",
+    "teamId": 138
+  },
+  {
+    "id": 671056,
+    "name": "Iván Herrera",
+    "team": "St. Louis Cardinals",
+    "teamId": 138
+  },
+  {
+    "id": 668941,
+    "name": "JoJo Romero",
+    "team": "St. Louis Cardinals",
+    "teamId": 138
+  },
+  {
+    "id": 667463,
+    "name": "John King",
+    "team": "St. Louis Cardinals",
+    "teamId": 138
+  },
+  {
+    "id": 691023,
+    "name": "Jordan Walker",
+    "team": "St. Louis Cardinals",
+    "teamId": 138
+  },
+  {
+    "id": 665877,
+    "name": "José Fermín",
+    "team": "St. Louis Cardinals",
+    "teamId": 138
+  },
+  {
+    "id": 681517,
+    "name": "Kyle Leahy",
+    "team": "St. Louis Cardinals",
+    "teamId": 138
+  },
+  {
+    "id": 663457,
+    "name": "Lars Nootbaar",
+    "team": "St. Louis Cardinals",
+    "teamId": 138
+  },
+  {
+    "id": 663609,
+    "name": "Luken Baker",
+    "team": "St. Louis Cardinals",
+    "teamId": 138
+  },
+  {
+    "id": 691026,
+    "name": "Masyn Winn",
+    "team": "St. Louis Cardinals",
+    "teamId": 138
+  },
+  {
+    "id": 689288,
+    "name": "Matt Koperniak",
+    "team": "St. Louis Cardinals",
+    "teamId": 138
+  },
+  {
+    "id": 694335,
+    "name": "Matt Svanson",
+    "team": "St. Louis Cardinals",
+    "teamId": 138
+  },
+  {
+    "id": 669461,
+    "name": "Matthew Liberatore",
+    "team": "St. Louis Cardinals",
+    "teamId": 138
+  },
+  {
+    "id": 700241,
+    "name": "Michael McGreevy",
+    "team": "St. Louis Cardinals",
+    "teamId": 138
+  },
+  {
+    "id": 672279,
+    "name": "Michael Siani",
+    "team": "St. Louis Cardinals",
+    "teamId": 138
+  },
+  {
+    "id": 571945,
+    "name": "Miles Mikolas",
+    "team": "St. Louis Cardinals",
+    "teamId": 138
+  },
+  {
+    "id": 571448,
+    "name": "Nolan Arenado",
+    "team": "St. Louis Cardinals",
+    "teamId": 138
+  },
+  {
+    "id": 669357,
+    "name": "Nolan Gorman",
+    "team": "St. Louis Cardinals",
+    "teamId": 138
+  },
+  {
+    "id": 686780,
+    "name": "Pedro Pagés",
+    "team": "St. Louis Cardinals",
+    "teamId": 138
+  },
+  {
+    "id": 664208,
+    "name": "Phil Maton",
+    "team": "St. Louis Cardinals",
+    "teamId": 138
+  },
+  {
+    "id": 676617,
+    "name": "Riley O'Brien",
+    "team": "St. Louis Cardinals",
+    "teamId": 138
+  },
+  {
+    "id": 682610,
+    "name": "Roddery Muñoz",
+    "team": "St. Louis Cardinals",
+    "teamId": 138
+  },
+  {
+    "id": 681676,
+    "name": "Ryan Fernandez",
+    "team": "St. Louis Cardinals",
+    "teamId": 138
+  },
+  {
+    "id": 664854,
+    "name": "Ryan Helsley",
+    "team": "St. Louis Cardinals",
+    "teamId": 138
+  },
+  {
+    "id": 691828,
+    "name": "Sem Robberse",
+    "team": "St. Louis Cardinals",
+    "teamId": 138
+  },
+  {
+    "id": 543243,
+    "name": "Sonny Gray",
+    "team": "St. Louis Cardinals",
+    "teamId": 138
+  },
+  {
+    "id": 571927,
+    "name": "Steven Matz",
+    "team": "St. Louis Cardinals",
+    "teamId": 138
+  },
+  {
+    "id": 694358,
+    "name": "Tekoah Roby",
+    "team": "St. Louis Cardinals",
+    "teamId": 138
+  },
+  {
+    "id": 695336,
+    "name": "Thomas Saggese",
+    "team": "St. Louis Cardinals",
+    "teamId": 138
+  },
+  {
+    "id": 693311,
+    "name": "Tink Hence",
+    "team": "St. Louis Cardinals",
+    "teamId": 138
+  },
+  {
+    "id": 687363,
+    "name": "Victor Scott II",
+    "team": "St. Louis Cardinals",
+    "teamId": 138
+  },
+  {
+    "id": 575929,
+    "name": "Willson Contreras",
+    "team": "St. Louis Cardinals",
+    "teamId": 138
+  },
+  {
+    "id": 650968,
+    "name": "Yohel Pozo",
+    "team": "St. Louis Cardinals",
+    "teamId": 138
+  },
+  {
+    "id": 668868,
+    "name": "Zack Thompson",
+    "team": "St. Louis Cardinals",
+    "teamId": 138
+  },
+  {
+    "id": 656412,
+    "name": "Alex Faedo",
+    "team": "Tampa Bay Rays",
+    "teamId": 139
+  },
+  {
+    "id": 664040,
+    "name": "Brandon Lowe",
+    "team": "Tampa Bay Rays",
+    "teamId": 139
+  },
+  {
+    "id": 802415,
+    "name": "Chandler Simpson",
+    "team": "Tampa Bay Rays",
+    "teamId": 139
+  },
+  {
+    "id": 666624,
+    "name": "Christopher Morel",
+    "team": "Tampa Bay Rays",
+    "teamId": 139
+  },
+  {
+    "id": 663796,
+    "name": "Coco Montes",
+    "team": "Tampa Bay Rays",
+    "teamId": 139
+  },
+  {
+    "id": 642121,
+    "name": "Cole Sulser",
+    "team": "Tampa Bay Rays",
+    "teamId": 139
+  },
+  {
+    "id": 657756,
+    "name": "Connor Seabold",
+    "team": "Tampa Bay Rays",
+    "teamId": 139
+  },
+  {
+    "id": 678554,
+    "name": "Curtis Mead",
+    "team": "Tampa Bay Rays",
+    "teamId": 139
+  },
+  {
+    "id": 643376,
+    "name": "Danny Jansen",
+    "team": "Tampa Bay Rays",
+    "teamId": 139
+  },
+  {
+    "id": 656876,
+    "name": "Drew Rasmussen",
+    "team": "Tampa Bay Rays",
+    "teamId": 139
+  },
+  {
+    "id": 670955,
+    "name": "Edwin Uceta",
+    "team": "Tampa Bay Rays",
+    "teamId": 139
+  },
+  {
+    "id": 679358,
+    "name": "Eric Orze",
+    "team": "Tampa Bay Rays",
+    "teamId": 139
+  },
+  {
+    "id": 666215,
+    "name": "Forrest Whitley",
+    "team": "Tampa Bay Rays",
+    "teamId": 139
+  },
+  {
+    "id": 664076,
+    "name": "Garrett Cleavinger",
+    "team": "Tampa Bay Rays",
+    "teamId": 139
+  },
+  {
+    "id": 673490,
+    "name": "Ha-Seong Kim",
+    "team": "Tampa Bay Rays",
+    "teamId": 139
+  },
+  {
+    "id": 685801,
+    "name": "Hunter Bigge",
+    "team": "Tampa Bay Rays",
+    "teamId": 139
+  },
+  {
+    "id": 693855,
+    "name": "Ian Seymour",
+    "team": "Tampa Bay Rays",
+    "teamId": 139
+  },
+  {
+    "id": 621097,
+    "name": "Jacob Waguespack",
+    "team": "Tampa Bay Rays",
+    "teamId": 139
+  },
+  {
+    "id": 663968,
+    "name": "Jake Mangum",
+    "team": "Tampa Bay Rays",
+    "teamId": 139
+  },
+  {
+    "id": 671212,
+    "name": "Joe Boyle",
+    "team": "Tampa Bay Rays",
+    "teamId": 139
+  },
+  {
+    "id": 697812,
+    "name": "Joe Rock",
+    "team": "Tampa Bay Rays",
+    "teamId": 139
+  },
+  {
+    "id": 666018,
+    "name": "Jonathan Aranda",
+    "team": "Tampa Bay Rays",
+    "teamId": 139
+  },
+  {
+    "id": 676356,
+    "name": "Jonny DeLuca",
+    "team": "Tampa Bay Rays",
+    "teamId": 139
+  },
+  {
+    "id": 676609,
+    "name": "José Caballero",
+    "team": "Tampa Bay Rays",
+    "teamId": 139
+  },
+  {
+    "id": 666139,
+    "name": "Josh Lowe",
+    "team": "Tampa Bay Rays",
+    "teamId": 139
+  },
+  {
+    "id": 691406,
+    "name": "Junior Caminero",
+    "team": "Tampa Bay Rays",
+    "teamId": 139
+  },
+  {
+    "id": 670224,
+    "name": "Kameron Misner",
+    "team": "Tampa Bay Rays",
+    "teamId": 139
+  },
+  {
+    "id": 687330,
+    "name": "Kevin Kelly",
+    "team": "Tampa Bay Rays",
+    "teamId": 139
+  },
+  {
+    "id": 686482,
+    "name": "Logan Driscoll",
+    "team": "Tampa Bay Rays",
+    "teamId": 139
+  },
+  {
+    "id": 655889,
+    "name": "Manuel Rodríguez",
+    "team": "Tampa Bay Rays",
+    "teamId": 139
+  },
+  {
+    "id": 669438,
+    "name": "Mason Englert",
+    "team": "Tampa Bay Rays",
+    "teamId": 139
+  },
+  {
+    "id": 682254,
+    "name": "Mason Montgomery",
+    "team": "Tampa Bay Rays",
+    "teamId": 139
+  },
+  {
+    "id": 642136,
+    "name": "Matt Thaiss",
+    "team": "Tampa Bay Rays",
+    "teamId": 139
+  },
+  {
+    "id": 681320,
+    "name": "Nate Lavender",
+    "team": "Tampa Bay Rays",
+    "teamId": 139
+  },
+  {
+    "id": 801434,
+    "name": "Paul Gervase",
+    "team": "Tampa Bay Rays",
+    "teamId": 139
+  },
+  {
+    "id": 664126,
+    "name": "Pete Fairbanks",
+    "team": "Tampa Bay Rays",
+    "teamId": 139
+  },
+  {
+    "id": 680700,
+    "name": "Richie Palacios",
+    "team": "Tampa Bay Rays",
+    "teamId": 139
+  },
+  {
+    "id": 686752,
+    "name": "Ryan Pepiot",
+    "team": "Tampa Bay Rays",
+    "teamId": 139
+  },
+  {
+    "id": 669358,
+    "name": "Shane Baz",
+    "team": "Tampa Bay Rays",
+    "teamId": 139
+  },
+  {
+    "id": 663556,
+    "name": "Shane McClanahan",
+    "team": "Tampa Bay Rays",
+    "teamId": 139
+  },
+  {
+    "id": 671737,
+    "name": "Taj Bradley",
+    "team": "Tampa Bay Rays",
+    "teamId": 139
+  },
+  {
+    "id": 670764,
+    "name": "Taylor Walls",
+    "team": "Tampa Bay Rays",
+    "teamId": 139
+  },
+  {
+    "id": 650490,
+    "name": "Yandy Díaz",
+    "team": "Tampa Bay Rays",
+    "teamId": 139
+  },
+  {
+    "id": 692414,
+    "name": "Yoniel Curet",
+    "team": "Tampa Bay Rays",
+    "teamId": 139
+  },
+  {
+    "id": 641793,
+    "name": "Zack Littell",
+    "team": "Tampa Bay Rays",
+    "teamId": 139
+  },
+  {
+    "id": 666969,
+    "name": "Adolis García",
+    "team": "Texas Rangers",
+    "teamId": 140
+  },
+  {
+    "id": 696030,
+    "name": "Alejandro Osuna",
+    "team": "Texas Rangers",
+    "teamId": 140
+  },
+  {
+    "id": 688760,
+    "name": "Blaine Crim",
+    "team": "Texas Rangers",
+    "teamId": 140
+  },
+  {
+    "id": 676961,
+    "name": "Caleb Boushley",
+    "team": "Texas Rangers",
+    "teamId": 140
+  },
+  {
+    "id": 455119,
+    "name": "Chris Martin",
+    "team": "Texas Rangers",
+    "teamId": 140
+  },
+  {
+    "id": 676051,
+    "name": "Codi Heuer",
+    "team": "Texas Rangers",
+    "teamId": 140
+  },
+  {
+    "id": 674003,
+    "name": "Cody Bradford",
+    "team": "Texas Rangers",
+    "teamId": 140
+  },
+  {
+    "id": 668390,
+    "name": "Cole Winn",
+    "team": "Texas Rangers",
+    "teamId": 140
+  },
+  {
+    "id": 608369,
+    "name": "Corey Seager",
+    "team": "Texas Rangers",
+    "teamId": 140
+  },
+  {
+    "id": 641540,
+    "name": "Dane Dunning",
+    "team": "Texas Rangers",
+    "teamId": 140
+  },
+  {
+    "id": 687957,
+    "name": "Dustin Harris",
+    "team": "Texas Rangers",
+    "teamId": 140
+  },
+  {
+    "id": 693713,
+    "name": "Emiliano Teodo",
+    "team": "Texas Rangers",
+    "teamId": 140
+  },
+  {
+    "id": 694497,
+    "name": "Evan Carter",
+    "team": "Texas Rangers",
+    "teamId": 140
+  },
+  {
+    "id": 677649,
+    "name": "Ezequiel Duran",
+    "team": "Texas Rangers",
+    "teamId": 140
+  },
+  {
+    "id": 571948,
+    "name": "Hoby Milner",
+    "team": "Texas Rangers",
+    "teamId": 140
+  },
+  {
+    "id": 683004,
+    "name": "Jack Leiter",
+    "team": "Texas Rangers",
+    "teamId": 140
+  },
+  {
+    "id": 656641,
+    "name": "Jacob Latz",
+    "team": "Texas Rangers",
+    "teamId": 140
+  },
+  {
+    "id": 657097,
+    "name": "Jacob Webb",
+    "team": "Texas Rangers",
+    "teamId": 140
+  },
+  {
+    "id": 594798,
+    "name": "Jacob deGrom",
+    "team": "Texas Rangers",
+    "teamId": 140
+  },
+  {
+    "id": 669394,
+    "name": "Jake Burger",
+    "team": "Texas Rangers",
+    "teamId": 140
+  },
+  {
+    "id": 592626,
+    "name": "Joc Pederson",
+    "team": "Texas Rangers",
+    "teamId": 140
+  },
+  {
+    "id": 592351,
+    "name": "Jon Gray",
+    "team": "Texas Rangers",
+    "teamId": 140
+  },
+  {
+    "id": 641680,
+    "name": "Jonah Heim",
+    "team": "Texas Rangers",
+    "teamId": 140
+  },
+  {
+    "id": 692030,
+    "name": "Jose Corniell",
+    "team": "Texas Rangers",
+    "teamId": 140
+  },
+  {
+    "id": 673962,
+    "name": "Josh Jung",
+    "team": "Texas Rangers",
+    "teamId": 140
+  },
+  {
+    "id": 622250,
+    "name": "Josh Sborz",
+    "team": "Texas Rangers",
+    "teamId": 140
+  },
+  {
+    "id": 669701,
+    "name": "Josh Smith",
+    "team": "Texas Rangers",
+    "teamId": 140
+  },
+  {
+    "id": 679822,
+    "name": "Justin Foscue",
+    "team": "Texas Rangers",
+    "teamId": 140
+  },
+  {
+    "id": 677958,
+    "name": "Kumar Rocker",
+    "team": "Texas Rangers",
+    "teamId": 140
+  },
+  {
+    "id": 543309,
+    "name": "Kyle Higashioka",
+    "team": "Texas Rangers",
+    "teamId": 140
+  },
+  {
+    "id": 681168,
+    "name": "Luis Curvelo",
+    "team": "Texas Rangers",
+    "teamId": 140
+  },
+  {
+    "id": 592426,
+    "name": "Luke Jackson",
+    "team": "Texas Rangers",
+    "teamId": 140
+  },
+  {
+    "id": 687847,
+    "name": "Marc Church",
+    "team": "Texas Rangers",
+    "teamId": 140
+  },
+  {
+    "id": 543760,
+    "name": "Marcus Semien",
+    "team": "Texas Rangers",
+    "teamId": 140
+  },
+  {
+    "id": 680737,
+    "name": "Michael Helman",
+    "team": "Texas Rangers",
+    "teamId": 140
+  },
+  {
+    "id": 543135,
+    "name": "Nathan Eovaldi",
+    "team": "Texas Rangers",
+    "teamId": 140
+  },
+  {
+    "id": 571578,
+    "name": "Patrick Corbin",
+    "team": "Texas Rangers",
+    "teamId": 140
+  },
+  {
+    "id": 676395,
+    "name": "Robert Garcia",
+    "team": "Texas Rangers",
+    "teamId": 140
+  },
+  {
+    "id": 664059,
+    "name": "Sam Haggerty",
+    "team": "Texas Rangers",
+    "teamId": 140
+  },
+  {
+    "id": 542888,
+    "name": "Shawn Armstrong",
+    "team": "Texas Rangers",
+    "teamId": 140
+  },
+  {
+    "id": 641816,
+    "name": "Tyler Mahle",
+    "team": "Texas Rangers",
+    "teamId": 140
+  },
+  {
+    "id": 692437,
+    "name": "Winston Santos",
+    "team": "Texas Rangers",
+    "teamId": 140
+  },
+  {
+    "id": 694671,
+    "name": "Wyatt Langford",
+    "team": "Texas Rangers",
+    "teamId": 140
+  },
+  {
+    "id": 671936,
+    "name": "Adam Macko",
+    "team": "Toronto Blue Jays",
+    "teamId": 141
+  },
+  {
+    "id": 680718,
+    "name": "Addison Barger",
+    "team": "Toronto Blue Jays",
+    "teamId": 141
+  },
+  {
+    "id": 702176,
+    "name": "Alan Roden",
+    "team": "Toronto Blue Jays",
+    "teamId": 141
+  },
+  {
+    "id": 672386,
+    "name": "Alejandro Kirk",
+    "team": "Toronto Blue Jays",
+    "teamId": 141
+  },
+  {
+    "id": 666201,
+    "name": "Alek Manoah",
+    "team": "Toronto Blue Jays",
+    "teamId": 141
+  },
+  {
+    "id": 665926,
+    "name": "Andrés Giménez",
+    "team": "Toronto Blue Jays",
+    "teamId": 141
+  },
+  {
+    "id": 682785,
+    "name": "Angel Bastardo",
+    "team": "Toronto Blue Jays",
+    "teamId": 141
+  },
+  {
+    "id": 623993,
+    "name": "Anthony Santander",
+    "team": "Toronto Blue Jays",
+    "teamId": 141
+  },
+  {
+    "id": 666182,
+    "name": "Bo Bichette",
+    "team": "Toronto Blue Jays",
+    "teamId": 141
+  },
+  {
+    "id": 670102,
+    "name": "Bowden Francis",
+    "team": "Toronto Blue Jays",
+    "teamId": 141
+  },
+  {
+    "id": 680755,
+    "name": "Braydon Fisher",
+    "team": "Toronto Blue Jays",
+    "teamId": 141
+  },
+  {
+    "id": 663893,
+    "name": "Brendon Little",
+    "team": "Toronto Blue Jays",
+    "teamId": 141
+  },
+  {
+    "id": 643338,
+    "name": "Chad Green",
+    "team": "Toronto Blue Jays",
+    "teamId": 141
+  },
+  {
+    "id": 605135,
+    "name": "Chris Bassitt",
+    "team": "Toronto Blue Jays",
+    "teamId": 141
+  },
+  {
+    "id": 662139,
+    "name": "Daulton Varsho",
+    "team": "Toronto Blue Jays",
+    "teamId": 141
+  },
+  {
+    "id": 676914,
+    "name": "Davis Schneider",
+    "team": "Toronto Blue Jays",
+    "teamId": 141
+  },
+  {
+    "id": 687922,
+    "name": "Easton Lucas",
+    "team": "Toronto Blue Jays",
+    "teamId": 141
+  },
+  {
+    "id": 641778,
+    "name": "Eric Lauer",
+    "team": "Toronto Blue Jays",
+    "teamId": 141
+  },
+  {
+    "id": 676391,
+    "name": "Ernie Clement",
+    "team": "Toronto Blue Jays",
+    "teamId": 141
+  },
+  {
+    "id": 543807,
+    "name": "George Springer",
+    "team": "Toronto Blue Jays",
+    "teamId": 141
+  },
+  {
+    "id": 814005,
+    "name": "Jake Bloss",
+    "team": "Toronto Blue Jays",
+    "teamId": 141
+  },
+  {
+    "id": 656546,
+    "name": "Jeff Hoffman",
+    "team": "Toronto Blue Jays",
+    "teamId": 141
+  },
+  {
+    "id": 694388,
+    "name": "Joey Loperfido",
+    "team": "Toronto Blue Jays",
+    "teamId": 141
+  },
+  {
+    "id": 682729,
+    "name": "Jonatan Clase",
+    "team": "Toronto Blue Jays",
+    "teamId": 141
+  },
+  {
+    "id": 621244,
+    "name": "José Berríos",
+    "team": "Toronto Blue Jays",
+    "teamId": 141
+  },
+  {
+    "id": 677865,
+    "name": "Justin Bruihl",
+    "team": "Toronto Blue Jays",
+    "teamId": 141
+  },
+  {
+    "id": 592332,
+    "name": "Kevin Gausman",
+    "team": "Toronto Blue Jays",
+    "teamId": 141
+  },
+  {
+    "id": 677870,
+    "name": "Leo Jiménez",
+    "team": "Toronto Blue Jays",
+    "teamId": 141
+  },
+  {
+    "id": 689254,
+    "name": "Mason Fluharty",
+    "team": "Toronto Blue Jays",
+    "teamId": 141
+  },
+  {
+    "id": 453286,
+    "name": "Max Scherzer",
+    "team": "Toronto Blue Jays",
+    "teamId": 141
+  },
+  {
+    "id": 664702,
+    "name": "Myles Straw",
+    "team": "Toronto Blue Jays",
+    "teamId": 141
+  },
+  {
+    "id": 664770,
+    "name": "Nathan Lukes",
+    "team": "Toronto Blue Jays",
+    "teamId": 141
+  },
+  {
+    "id": 680704,
+    "name": "Nick Sandlin",
+    "team": "Toronto Blue Jays",
+    "teamId": 141
+  },
+  {
+    "id": 682619,
+    "name": "Orelvis Martinez",
+    "team": "Toronto Blue Jays",
+    "teamId": 141
+  },
+  {
+    "id": 687606,
+    "name": "Paxton Schultz",
+    "team": "Toronto Blue Jays",
+    "teamId": 141
+  },
+  {
+    "id": 673820,
+    "name": "Robinson Piña",
+    "team": "Toronto Blue Jays",
+    "teamId": 141
+  },
+  {
+    "id": 621114,
+    "name": "Ryan Burr",
+    "team": "Toronto Blue Jays",
+    "teamId": 141
+  },
+  {
+    "id": 623168,
+    "name": "Tyler Heineman",
+    "team": "Toronto Blue Jays",
+    "teamId": 141
+  },
+  {
+    "id": 665489,
+    "name": "Vladimir Guerrero Jr.",
+    "team": "Toronto Blue Jays",
+    "teamId": 141
+  },
+  {
+    "id": 683770,
+    "name": "Will Robertson",
+    "team": "Toronto Blue Jays",
+    "teamId": 141
+  },
+  {
+    "id": 695238,
+    "name": "Will Wagner",
+    "team": "Toronto Blue Jays",
+    "teamId": 141
+  },
+  {
+    "id": 684320,
+    "name": "Yariel Rodríguez",
+    "team": "Toronto Blue Jays",
+    "teamId": 141
+  },
+  {
+    "id": 554340,
+    "name": "Yimi García",
+    "team": "Toronto Blue Jays",
+    "teamId": 141
+  },
+  {
+    "id": 668885,
+    "name": "Austin Martin",
+    "team": "Minnesota Twins",
+    "teamId": 142
+  },
+  {
+    "id": 641927,
+    "name": "Bailey Ober",
+    "team": "Minnesota Twins",
+    "teamId": 142
+  },
+  {
+    "id": 592779,
+    "name": "Brock Stewart",
+    "team": "Minnesota Twins",
+    "teamId": 142
+  },
+  {
+    "id": 686797,
+    "name": "Brooks Lee",
+    "team": "Minnesota Twins",
+    "teamId": 142
+  },
+  {
+    "id": 621439,
+    "name": "Byron Buxton",
+    "team": "Minnesota Twins",
+    "teamId": 142
+  },
+  {
+    "id": 621043,
+    "name": "Carlos Correa",
+    "team": "Minnesota Twins",
+    "teamId": 142
+  },
+  {
+    "id": 676812,
+    "name": "Carson McCusker",
+    "team": "Minnesota Twins",
+    "teamId": 142
+  },
+  {
+    "id": 663978,
+    "name": "Chris Paddack",
+    "team": "Minnesota Twins",
+    "teamId": 142
+  },
+  {
+    "id": 543877,
+    "name": "Christian Vázquez",
+    "team": "Minnesota Twins",
+    "teamId": 142
+  },
+  {
+    "id": 663485,
+    "name": "Cole Sands",
+    "team": "Minnesota Twins",
+    "teamId": 142
+  },
+  {
+    "id": 687362,
+    "name": "Connor Gillispie",
+    "team": "Minnesota Twins",
+    "teamId": 142
+  },
+  {
+    "id": 680577,
+    "name": "DaShawn Keirsey Jr.",
+    "team": "Minnesota Twins",
+    "teamId": 142
+  },
+  {
+    "id": 543056,
+    "name": "Danny Coulombe",
+    "team": "Minnesota Twins",
+    "teamId": 142
+  },
+  {
+    "id": 701581,
+    "name": "David Festa",
+    "team": "Minnesota Twins",
+    "teamId": 142
+  },
+  {
+    "id": 666397,
+    "name": "Edouard Julien",
+    "team": "Minnesota Twins",
+    "teamId": 142
+  },
+  {
+    "id": 691181,
+    "name": "Emmanuel Rodriguez",
+    "team": "Minnesota Twins",
+    "teamId": 142
+  },
+  {
+    "id": 643377,
+    "name": "Griffin Jax",
+    "team": "Minnesota Twins",
+    "teamId": 142
+  },
+  {
+    "id": 664056,
+    "name": "Harrison Bader",
+    "team": "Minnesota Twins",
+    "teamId": 142
+  },
+  {
+    "id": 665856,
+    "name": "Jair Camargo",
+    "team": "Minnesota Twins",
+    "teamId": 142
+  },
+  {
+    "id": 661395,
+    "name": "Jhoan Duran",
+    "team": "Minnesota Twins",
+    "teamId": 142
+  },
+  {
+    "id": 657746,
+    "name": "Joe Ryan",
+    "team": "Minnesota Twins",
+    "teamId": 142
+  },
+  {
+    "id": 666214,
+    "name": "Joey Wentz",
+    "team": "Minnesota Twins",
+    "teamId": 142
+  },
+  {
+    "id": 681146,
+    "name": "Jonah Bride",
+    "team": "Minnesota Twins",
+    "teamId": 142
+  },
+  {
+    "id": 669304,
+    "name": "Jose Miranda",
+    "team": "Minnesota Twins",
+    "teamId": 142
+  },
+  {
+    "id": 623437,
+    "name": "Justin Topa",
+    "team": "Minnesota Twins",
+    "teamId": 142
+  },
+  {
+    "id": 665019,
+    "name": "Kody Clemens",
+    "team": "Minnesota Twins",
+    "teamId": 142
+  },
+  {
+    "id": 681892,
+    "name": "Kody Funderburk",
+    "team": "Minnesota Twins",
+    "teamId": 142
+  },
+  {
+    "id": 686973,
+    "name": "Louis Varland",
+    "team": "Minnesota Twins",
+    "teamId": 142
+  },
+  {
+    "id": 807712,
+    "name": "Luke Keaschall",
+    "team": "Minnesota Twins",
+    "teamId": 142
+  },
+  {
+    "id": 694397,
+    "name": "Marco Raya",
+    "team": "Minnesota Twins",
+    "teamId": 142
+  },
+  {
+    "id": 670242,
+    "name": "Matt Wallner",
+    "team": "Minnesota Twins",
+    "teamId": 142
+  },
+  {
+    "id": 543859,
+    "name": "Michael Tonkin",
+    "team": "Minnesota Twins",
+    "teamId": 142
+  },
+  {
+    "id": 681508,
+    "name": "Mickey Gasper",
+    "team": "Minnesota Twins",
+    "teamId": 142
+  },
+  {
+    "id": 641154,
+    "name": "Pablo López",
+    "team": "Minnesota Twins",
+    "teamId": 142
+  },
+  {
+    "id": 668904,
+    "name": "Royce Lewis",
+    "team": "Minnesota Twins",
+    "teamId": 142
+  },
+  {
+    "id": 680837,
+    "name": "Ryan Fitzgerald",
+    "team": "Minnesota Twins",
+    "teamId": 142
+  },
+  {
+    "id": 680777,
+    "name": "Ryan Jeffers",
+    "team": "Minnesota Twins",
+    "teamId": 142
+  },
+  {
+    "id": 680573,
+    "name": "Simeon Woods Richardson",
+    "team": "Minnesota Twins",
+    "teamId": 142
+  },
+  {
+    "id": 701519,
+    "name": "Travis Adams",
+    "team": "Minnesota Twins",
+    "teamId": 142
+  },
+  {
+    "id": 663616,
+    "name": "Trevor Larnach",
+    "team": "Minnesota Twins",
+    "teamId": 142
+  },
+  {
+    "id": 664034,
+    "name": "Ty France",
+    "team": "Minnesota Twins",
+    "teamId": 142
+  },
+  {
+    "id": 650489,
+    "name": "Willi Castro",
+    "team": "Minnesota Twins",
+    "teamId": 142
+  },
+  {
+    "id": 805673,
+    "name": "Zebby Matthews",
+    "team": "Minnesota Twins",
+    "teamId": 142
+  },
+  {
+    "id": 605400,
+    "name": "Aaron Nola",
+    "team": "Philadelphia Phillies",
+    "teamId": 143
+  },
+  {
+    "id": 660604,
+    "name": "Alan Rangel",
+    "team": "Philadelphia Phillies",
+    "teamId": 143
+  },
+  {
+    "id": 664761,
+    "name": "Alec Bohm",
+    "team": "Philadelphia Phillies",
+    "teamId": 143
+  },
+  {
+    "id": 669016,
+    "name": "Brandon Marsh",
+    "team": "Philadelphia Phillies",
+    "teamId": 143
+  },
+  {
+    "id": 676969,
+    "name": "Brett de Geus",
+    "team": "Philadelphia Phillies",
+    "teamId": 143
+  },
+  {
+    "id": 547180,
+    "name": "Bryce Harper",
+    "team": "Philadelphia Phillies",
+    "teamId": 143
+  },
+  {
+    "id": 681082,
+    "name": "Bryson Stott",
+    "team": "Philadelphia Phillies",
+    "teamId": 143
+  },
+  {
+    "id": 671083,
+    "name": "Buddy Kennedy",
+    "team": "Philadelphia Phillies",
+    "teamId": 143
+  },
+  {
+    "id": 670276,
+    "name": "Cal Stevenson",
+    "team": "Philadelphia Phillies",
+    "teamId": 143
+  },
+  {
+    "id": 650911,
+    "name": "Cristopher Sánchez",
+    "team": "Philadelphia Phillies",
+    "teamId": 143
+  },
+  {
+    "id": 642016,
+    "name": "Daniel Robert",
+    "team": "Philadelphia Phillies",
+    "teamId": 143
+  },
+  {
+    "id": 682967,
+    "name": "Devin Sweet",
+    "team": "Philadelphia Phillies",
+    "teamId": 143
+  },
+  {
+    "id": 624641,
+    "name": "Edmundo Sosa",
+    "team": "Philadelphia Phillies",
+    "teamId": 143
+  },
+  {
+    "id": 596117,
+    "name": "Garrett Stubbs",
+    "team": "Philadelphia Phillies",
+    "teamId": 143
+  },
+  {
+    "id": 592663,
+    "name": "J.T. Realmuto",
+    "team": "Philadelphia Phillies",
+    "teamId": 143
+  },
+  {
+    "id": 691893,
+    "name": "Jean Cabrera",
+    "team": "Philadelphia Phillies",
+    "teamId": 143
+  },
+  {
+    "id": 666200,
+    "name": "Jesús Luzardo",
+    "team": "Philadelphia Phillies",
+    "teamId": 143
+  },
+  {
+    "id": 605452,
+    "name": "Joe Ross",
+    "team": "Philadelphia Phillies",
+    "teamId": 143
+  },
+  {
+    "id": 679032,
+    "name": "Johan Rojas",
+    "team": "Philadelphia Phillies",
+    "teamId": 143
+  },
+  {
+    "id": 605447,
+    "name": "Jordan Romano",
+    "team": "Philadelphia Phillies",
+    "teamId": 143
+  },
+  {
+    "id": 677020,
+    "name": "Josh Walker",
+    "team": "Philadelphia Phillies",
+    "teamId": 143
+  },
+  {
+    "id": 656941,
+    "name": "Kyle Schwarber",
+    "team": "Philadelphia Phillies",
+    "teamId": 143
+  },
+  {
+    "id": 621381,
+    "name": "Matt Strahm",
+    "team": "Philadelphia Phillies",
+    "teamId": 143
+  },
+  {
+    "id": 596146,
+    "name": "Max Kepler",
+    "team": "Philadelphia Phillies",
+    "teamId": 143
+  },
+  {
+    "id": 676661,
+    "name": "Max Lazar",
+    "team": "Philadelphia Phillies",
+    "teamId": 143
+  },
+  {
+    "id": 675650,
+    "name": "Michael Mercado",
+    "team": "Philadelphia Phillies",
+    "teamId": 143
+  },
+  {
+    "id": 690953,
+    "name": "Mick Abel",
+    "team": "Philadelphia Phillies",
+    "teamId": 143
+  },
+  {
+    "id": 691330,
+    "name": "Moisés Chace",
+    "team": "Philadelphia Phillies",
+    "teamId": 143
+  },
+  {
+    "id": 592206,
+    "name": "Nick Castellanos",
+    "team": "Philadelphia Phillies",
+    "teamId": 143
+  },
+  {
+    "id": 676510,
+    "name": "Nolan Hoffman",
+    "team": "Philadelphia Phillies",
+    "teamId": 143
+  },
+  {
+    "id": 689147,
+    "name": "Orion Kerkering",
+    "team": "Philadelphia Phillies",
+    "teamId": 143
+  },
+  {
+    "id": 805249,
+    "name": "Otto Kemp",
+    "team": "Philadelphia Phillies",
+    "teamId": 143
+  },
+  {
+    "id": 665561,
+    "name": "Rafael Marchán",
+    "team": "Philadelphia Phillies",
+    "teamId": 143
+  },
+  {
+    "id": 624133,
+    "name": "Ranger Suárez",
+    "team": "Philadelphia Phillies",
+    "teamId": 143
+  },
+  {
+    "id": 680743,
+    "name": "Ryan Cusick",
+    "team": "Philadelphia Phillies",
+    "teamId": 143
+  },
+  {
+    "id": 686751,
+    "name": "Seth Johnson",
+    "team": "Philadelphia Phillies",
+    "teamId": 143
+  },
+  {
+    "id": 592836,
+    "name": "Taijuan Walker",
+    "team": "Philadelphia Phillies",
+    "teamId": 143
+  },
+  {
+    "id": 621383,
+    "name": "Tanner Banks",
+    "team": "Philadelphia Phillies",
+    "teamId": 143
+  },
+  {
+    "id": 607208,
+    "name": "Trea Turner",
+    "team": "Philadelphia Phillies",
+    "teamId": 143
+  },
+  {
+    "id": 642215,
+    "name": "Weston Wilson",
+    "team": "Philadelphia Phillies",
+    "teamId": 143
+  },
+  {
+    "id": 554430,
+    "name": "Zack Wheeler",
+    "team": "Philadelphia Phillies",
+    "teamId": 143
+  },
+  {
+    "id": 700363,
+    "name": "AJ Smith-Shawver",
+    "team": "Atlanta Braves",
+    "teamId": 144
+  },
+  {
+    "id": 607481,
+    "name": "Aaron Bummer",
+    "team": "Atlanta Braves",
+    "teamId": 144
+  },
+  {
+    "id": 657077,
+    "name": "Alex Verdugo",
+    "team": "Atlanta Braves",
+    "teamId": 144
+  },
+  {
+    "id": 680735,
+    "name": "Austin Cox",
+    "team": "Atlanta Braves",
+    "teamId": 144
+  },
+  {
+    "id": 663586,
+    "name": "Austin Riley",
+    "team": "Atlanta Braves",
+    "teamId": 144
+  },
+  {
+    "id": 693821,
+    "name": "Bryce Elder",
+    "team": "Atlanta Braves",
+    "teamId": 144
+  },
+  {
+    "id": 677578,
+    "name": "Carlos Rodríguez",
+    "team": "Atlanta Braves",
+    "teamId": 144
+  },
+  {
+    "id": 519242,
+    "name": "Chris Sale",
+    "team": "Atlanta Braves",
+    "teamId": 144
+  },
+  {
+    "id": 669721,
+    "name": "Davis Daniel",
+    "team": "Atlanta Braves",
+    "teamId": 144
+  },
+  {
+    "id": 678226,
+    "name": "Daysbel Hernández",
+    "team": "Atlanta Braves",
+    "teamId": 144
+  },
+  {
+    "id": 800311,
+    "name": "Didier Fuentes",
+    "team": "Atlanta Braves",
+    "teamId": 144
+  },
+  {
+    "id": 682445,
+    "name": "Domingo Gonzalez",
+    "team": "Atlanta Braves",
+    "teamId": 144
+  },
+  {
+    "id": 686948,
+    "name": "Drake Baldwin",
+    "team": "Atlanta Braves",
+    "teamId": 144
+  },
+  {
+    "id": 689266,
+    "name": "Dylan Dodd",
+    "team": "Atlanta Braves",
+    "teamId": 144
+  },
+  {
+    "id": 669276,
+    "name": "Dylan Lee",
+    "team": "Atlanta Braves",
+    "teamId": 144
+  },
+  {
+    "id": 642201,
+    "name": "Eli White",
+    "team": "Atlanta Braves",
+    "teamId": 144
+  },
+  {
+    "id": 660853,
+    "name": "Enyel De Los Santos",
+    "team": "Atlanta Braves",
+    "teamId": 144
+  },
+  {
+    "id": 656550,
+    "name": "Grant Holmes",
+    "team": "Atlanta Braves",
+    "teamId": 144
+  },
+  {
+    "id": 694462,
+    "name": "Hurston Waldrep",
+    "team": "Atlanta Braves",
+    "teamId": 144
+  },
+  {
+    "id": 672284,
+    "name": "Jarred Kelenic",
+    "team": "Atlanta Braves",
+    "teamId": 144
+  },
+  {
+    "id": 641511,
+    "name": "Jason Delay",
+    "team": "Atlanta Braves",
+    "teamId": 144
+  },
+  {
+    "id": 641729,
+    "name": "Joe Jiménez",
+    "team": "Atlanta Braves",
+    "teamId": 144
+  },
+  {
+    "id": 680716,
+    "name": "Jonathan Ornelas",
+    "team": "Atlanta Braves",
+    "teamId": 144
+  },
+  {
+    "id": 643361,
+    "name": "Kevin Herget",
+    "team": "Atlanta Braves",
+    "teamId": 144
+  },
+  {
+    "id": 663897,
+    "name": "Luke Williams",
+    "team": "Atlanta Braves",
+    "teamId": 144
+  },
+  {
+    "id": 542303,
+    "name": "Marcell Ozuna",
+    "team": "Atlanta Braves",
+    "teamId": 144
+  },
+  {
+    "id": 621566,
+    "name": "Matt Olson",
+    "team": "Atlanta Braves",
+    "teamId": 144
+  },
+  {
+    "id": 671739,
+    "name": "Michael Harris II",
+    "team": "Atlanta Braves",
+    "teamId": 144
+  },
+  {
+    "id": 656848,
+    "name": "Michael Petersen",
+    "team": "Atlanta Braves",
+    "teamId": 144
+  },
+  {
+    "id": 805373,
+    "name": "Nacho Alvarez Jr.",
+    "team": "Atlanta Braves",
+    "teamId": 144
+  },
+  {
+    "id": 686249,
+    "name": "Nathan Wiles",
+    "team": "Atlanta Braves",
+    "teamId": 144
+  },
+  {
+    "id": 669397,
+    "name": "Nick Allen",
+    "team": "Atlanta Braves",
+    "teamId": 144
+  },
+  {
+    "id": 645277,
+    "name": "Ozzie Albies",
+    "team": "Atlanta Braves",
+    "teamId": 144
+  },
+  {
+    "id": 572955,
+    "name": "Pierce Johnson",
+    "team": "Atlanta Braves",
+    "teamId": 144
+  },
+  {
+    "id": 606160,
+    "name": "Rafael Montero",
+    "team": "Atlanta Braves",
+    "teamId": 144
+  },
+  {
+    "id": 628452,
+    "name": "Raisel Iglesias",
+    "team": "Atlanta Braves",
+    "teamId": 144
+  },
+  {
+    "id": 625643,
+    "name": "Reynaldo López",
+    "team": "Atlanta Braves",
+    "teamId": 144
+  },
+  {
+    "id": 691548,
+    "name": "Rolddy Muñoz",
+    "team": "Atlanta Braves",
+    "teamId": 144
+  },
+  {
+    "id": 660670,
+    "name": "Ronald Acuña Jr.",
+    "team": "Atlanta Braves",
+    "teamId": 144
+  },
+  {
+    "id": 669221,
+    "name": "Sean Murphy",
+    "team": "Atlanta Braves",
+    "teamId": 144
+  },
+  {
+    "id": 680885,
+    "name": "Spencer Schwellenbach",
+    "team": "Atlanta Braves",
+    "teamId": 144
+  },
+  {
+    "id": 675911,
+    "name": "Spencer Strider",
+    "team": "Atlanta Braves",
+    "teamId": 144
+  },
+  {
+    "id": 656413,
+    "name": "Stuart Fairchild",
+    "team": "Atlanta Braves",
+    "teamId": 144
+  },
+  {
+    "id": 650644,
+    "name": "Aaron Civale",
+    "team": "Chicago White Sox",
+    "teamId": 145
+  },
+  {
+    "id": 605288,
+    "name": "Adrian Houser",
+    "team": "Chicago White Sox",
+    "teamId": 145
+  },
+  {
+    "id": 643217,
+    "name": "Andrew Benintendi",
+    "team": "Chicago White Sox",
+    "teamId": 145
+  },
+  {
+    "id": 596103,
+    "name": "Austin Slater",
+    "team": "Chicago White Sox",
+    "teamId": 145
+  },
+  {
+    "id": 685126,
+    "name": "Brandon Eisert",
+    "team": "Chicago White Sox",
+    "teamId": 145
+  },
+  {
+    "id": 681460,
+    "name": "Brooks Baldwin",
+    "team": "Chicago White Sox",
+    "teamId": 145
+  },
+  {
+    "id": 682868,
+    "name": "Bryan Ramos",
+    "team": "Chicago White Sox",
+    "teamId": 145
+  },
+  {
+    "id": 592155,
+    "name": "Cam Booser",
+    "team": "Chicago White Sox",
+    "teamId": 145
+  },
+  {
+    "id": 805367,
+    "name": "Chase Meidroth",
+    "team": "Chicago White Sox",
+    "teamId": 145
+  },
+  {
+    "id": 695657,
+    "name": "Colson Montgomery",
+    "team": "Chicago White Sox",
+    "teamId": 145
+  },
+  {
+    "id": 656186,
+    "name": "Dan Altavilla",
+    "team": "Chicago White Sox",
+    "teamId": 145
+  },
+  {
+    "id": 663436,
+    "name": "Davis Martin",
+    "team": "Chicago White Sox",
+    "teamId": 145
+  },
+  {
+    "id": 689672,
+    "name": "Drew Thorpe",
+    "team": "Chicago White Sox",
+    "teamId": 145
+  },
+  {
+    "id": 700337,
+    "name": "Edgar Quero",
+    "team": "Chicago White Sox",
+    "teamId": 145
+  },
+  {
+    "id": 686642,
+    "name": "Fraser Ellard",
+    "team": "Chicago White Sox",
+    "teamId": 145
+  },
+  {
+    "id": 691799,
+    "name": "Grant Taylor",
+    "team": "Chicago White Sox",
+    "teamId": 145
+  },
+  {
+    "id": 681402,
+    "name": "Gus Varland",
+    "team": "Chicago White Sox",
+    "teamId": 145
+  },
+  {
+    "id": 683568,
+    "name": "Jairo Iriarte",
+    "team": "Chicago White Sox",
+    "teamId": 145
+  },
+  {
+    "id": 669449,
+    "name": "Jake Palisch",
+    "team": "Chicago White Sox",
+    "teamId": 145
+  },
+  {
+    "id": 694363,
+    "name": "Jared Shuster",
+    "team": "Chicago White Sox",
+    "teamId": 145
+  },
+  {
+    "id": 669947,
+    "name": "Jesse Scholtens",
+    "team": "Chicago White Sox",
+    "teamId": 145
+  },
+  {
+    "id": 686563,
+    "name": "Jonathan Cannon",
+    "team": "Chicago White Sox",
+    "teamId": 145
+  },
+  {
+    "id": 673929,
+    "name": "Jordan Leasure",
+    "team": "Chicago White Sox",
+    "teamId": 145
+  },
+  {
+    "id": 668942,
+    "name": "Josh Rojas",
+    "team": "Chicago White Sox",
+    "teamId": 145
+  },
+  {
+    "id": 686676,
+    "name": "Korey Lee",
+    "team": "Chicago White Sox",
+    "teamId": 145
+  },
+  {
+    "id": 681066,
+    "name": "Ky Bush",
+    "team": "Chicago White Sox",
+    "teamId": 145
+  },
+  {
+    "id": 691019,
+    "name": "Kyle Teel",
+    "team": "Chicago White Sox",
+    "teamId": 145
+  },
+  {
+    "id": 672820,
+    "name": "Lenyn Sosa",
+    "team": "Chicago White Sox",
+    "teamId": 145
+  },
+  {
+    "id": 673357,
+    "name": "Luis Robert Jr.",
+    "team": "Chicago White Sox",
+    "teamId": 145
+  },
+  {
+    "id": 527048,
+    "name": "Martín Pérez",
+    "team": "Chicago White Sox",
+    "teamId": 145
+  },
+  {
+    "id": 572191,
+    "name": "Michael A. Taylor",
+    "team": "Chicago White Sox",
+    "teamId": 145
+  },
+  {
+    "id": 612434,
+    "name": "Miguel Castro",
+    "team": "Chicago White Sox",
+    "teamId": 145
+  },
+  {
+    "id": 678246,
+    "name": "Miguel Vargas",
+    "team": "Chicago White Sox",
+    "teamId": 145
+  },
+  {
+    "id": 643565,
+    "name": "Mike Tauchman",
+    "team": "Chicago White Sox",
+    "teamId": 145
+  },
+  {
+    "id": 678024,
+    "name": "Mike Vasil",
+    "team": "Chicago White Sox",
+    "teamId": 145
+  },
+  {
+    "id": 680897,
+    "name": "Nick Nastrini",
+    "team": "Chicago White Sox",
+    "teamId": 145
+  },
+  {
+    "id": 669391,
+    "name": "Owen White",
+    "team": "Chicago White Sox",
+    "teamId": 145
+  },
+  {
+    "id": 672860,
+    "name": "Prelander Berroa",
+    "team": "Chicago White Sox",
+    "teamId": 145
+  },
+  {
+    "id": 676116,
+    "name": "Ryan Noda",
+    "team": "Chicago White Sox",
+    "teamId": 145
+  },
+  {
+    "id": 680732,
+    "name": "Sean Burke",
+    "team": "Chicago White Sox",
+    "teamId": 145
+  },
+  {
+    "id": 681343,
+    "name": "Shane Smith",
+    "team": "Chicago White Sox",
+    "teamId": 145
+  },
+  {
+    "id": 621051,
+    "name": "Steven Wilson",
+    "team": "Chicago White Sox",
+    "teamId": 145
+  },
+  {
+    "id": 671284,
+    "name": "Tim Elko",
+    "team": "Chicago White Sox",
+    "teamId": 145
+  },
+  {
+    "id": 641302,
+    "name": "Tyler Alexander",
+    "team": "Chicago White Sox",
+    "teamId": 145
+  },
+  {
+    "id": 656457,
+    "name": "Tyler Gilbert",
+    "team": "Chicago White Sox",
+    "teamId": 145
+  },
+  {
+    "id": 681962,
+    "name": "Vinny Capra",
+    "team": "Chicago White Sox",
+    "teamId": 145
+  },
+  {
+    "id": 682790,
+    "name": "Wikelman González",
+    "team": "Chicago White Sox",
+    "teamId": 145
+  },
+  {
+    "id": 800049,
+    "name": "Adam Mazur",
+    "team": "Miami Marlins",
+    "teamId": 146
+  },
+  {
+    "id": 682663,
+    "name": "Agustín Ramírez",
+    "team": "Miami Marlins",
+    "teamId": 146
+  },
+  {
+    "id": 677053,
+    "name": "Andrew Nardi",
+    "team": "Miami Marlins",
+    "teamId": 146
+  },
+  {
+    "id": 669622,
+    "name": "Anthony Bender",
+    "team": "Miami Marlins",
+    "teamId": 146
+  },
+  {
+    "id": 685107,
+    "name": "Anthony Veneziano",
+    "team": "Miami Marlins",
+    "teamId": 146
+  },
+  {
+    "id": 666129,
+    "name": "Braxton Garrett",
+    "team": "Miami Marlins",
+    "teamId": 146
+  },
+  {
+    "id": 806188,
+    "name": "Cade Gibson",
+    "team": "Miami Marlins",
+    "teamId": 146
+  },
+  {
+    "id": 615698,
+    "name": "Cal Quantrill",
+    "team": "Miami Marlins",
+    "teamId": 146
+  },
+  {
+    "id": 676534,
+    "name": "Calvin Faucher",
+    "team": "Miami Marlins",
+    "teamId": 146
+  },
+  {
+    "id": 681393,
+    "name": "Connor Norby",
+    "team": "Miami Marlins",
+    "teamId": 146
+  },
+  {
+    "id": 667472,
+    "name": "Dane Myers",
+    "team": "Miami Marlins",
+    "teamId": 146
+  },
+  {
+    "id": 690978,
+    "name": "Dax Fulton",
+    "team": "Miami Marlins",
+    "teamId": 146
+  },
+  {
+    "id": 686539,
+    "name": "Declan Cronin",
+    "team": "Miami Marlins",
+    "teamId": 146
+  },
+  {
+    "id": 656537,
+    "name": "Derek Hill",
+    "team": "Miami Marlins",
+    "teamId": 146
+  },
+  {
+    "id": 691277,
+    "name": "Deyvison De Los Santos",
+    "team": "Miami Marlins",
+    "teamId": 146
+  },
+  {
+    "id": 665795,
+    "name": "Edward Cabrera",
+    "team": "Miami Marlins",
+    "teamId": 146
+  },
+  {
+    "id": 676572,
+    "name": "Eric Wagaman",
+    "team": "Miami Marlins",
+    "teamId": 146
+  },
+  {
+    "id": 691587,
+    "name": "Eury Pérez",
+    "team": "Miami Marlins",
+    "teamId": 146
+  },
+  {
+    "id": 676206,
+    "name": "Freddy Tarnok",
+    "team": "Miami Marlins",
+    "teamId": 146
+  },
+  {
+    "id": 666277,
+    "name": "George Soriano",
+    "team": "Miami Marlins",
+    "teamId": 146
+  },
+  {
+    "id": 688363,
+    "name": "Graham Pauley",
+    "team": "Miami Marlins",
+    "teamId": 146
+  },
+  {
+    "id": 665052,
+    "name": "Griffin Conine",
+    "team": "Miami Marlins",
+    "teamId": 146
+  },
+  {
+    "id": 681715,
+    "name": "Heriberto Hernandez",
+    "team": "Miami Marlins",
+    "teamId": 146
+  },
+  {
+    "id": 676466,
+    "name": "Jack Winkler",
+    "team": "Miami Marlins",
+    "teamId": 146
+  },
+  {
+    "id": 676083,
+    "name": "Janson Junk",
+    "team": "Miami Marlins",
+    "teamId": 146
+  },
+  {
+    "id": 691858,
+    "name": "Jared Serna",
+    "team": "Miami Marlins",
+    "teamId": 146
+  },
+  {
+    "id": 691594,
+    "name": "Javier Sanoja",
+    "team": "Miami Marlins",
+    "teamId": 146
+  },
+  {
+    "id": 660821,
+    "name": "Jesús Sánchez",
+    "team": "Miami Marlins",
+    "teamId": 146
+  },
+  {
+    "id": 622786,
+    "name": "Jesus Tinoco",
+    "team": "Miami Marlins",
+    "teamId": 146
+  },
+  {
+    "id": 681006,
+    "name": "Josh Simpson",
+    "team": "Miami Marlins",
+    "teamId": 146
+  },
+  {
+    "id": 669065,
+    "name": "Kyle Stowers",
+    "team": "Miami Marlins",
+    "teamId": 146
+  },
+  {
+    "id": 669199,
+    "name": "Lake Bachar",
+    "team": "Miami Marlins",
+    "teamId": 146
+  },
+  {
+    "id": 689414,
+    "name": "Liam Hicks",
+    "team": "Miami Marlins",
+    "teamId": 146
+  },
+  {
+    "id": 676974,
+    "name": "Max Meyer",
+    "team": "Miami Marlins",
+    "teamId": 146
+  },
+  {
+    "id": 691185,
+    "name": "Maximo Acosta",
+    "team": "Miami Marlins",
+    "teamId": 146
+  },
+  {
+    "id": 663743,
+    "name": "Nick Fortes",
+    "team": "Miami Marlins",
+    "teamId": 146
+  },
+  {
+    "id": 672640,
+    "name": "Otto Lopez",
+    "team": "Miami Marlins",
+    "teamId": 146
+  },
+  {
+    "id": 542963,
+    "name": "Rob Brantly",
+    "team": "Miami Marlins",
+    "teamId": 146
+  },
+  {
+    "id": 678692,
+    "name": "Ronny Henriquez",
+    "team": "Miami Marlins",
+    "teamId": 146
+  },
+  {
+    "id": 677960,
+    "name": "Ryan Weathers",
+    "team": "Miami Marlins",
+    "teamId": 146
+  },
+  {
+    "id": 645261,
+    "name": "Sandy Alcantara",
+    "team": "Miami Marlins",
+    "teamId": 146
+  },
+  {
+    "id": 663969,
+    "name": "Tyler Phillips",
+    "team": "Miami Marlins",
+    "teamId": 146
+  },
+  {
+    "id": 678368,
+    "name": "Valente Bellozo",
+    "team": "Miami Marlins",
+    "teamId": 146
+  },
+  {
+    "id": 683748,
+    "name": "Victor Mesa Jr.",
+    "team": "Miami Marlins",
+    "teamId": 146
+  },
+  {
+    "id": 669364,
+    "name": "Xavier Edwards",
+    "team": "Miami Marlins",
+    "teamId": 146
+  },
+  {
+    "id": 592450,
+    "name": "Aaron Judge",
+    "team": "New York Yankees",
+    "teamId": 147
+  },
+  {
+    "id": 642216,
+    "name": "Allan Winans",
+    "team": "New York Yankees",
+    "teamId": 147
+  },
+  {
+    "id": 683011,
+    "name": "Anthony Volpe",
+    "team": "New York Yankees",
+    "teamId": 147
+  },
+  {
+    "id": 669224,
+    "name": "Austin Wells",
+    "team": "New York Yankees",
+    "teamId": 147
+  },
+  {
+    "id": 700250,
+    "name": "Ben Rice",
+    "team": "New York Yankees",
+    "teamId": 147
+  },
+  {
+    "id": 669699,
+    "name": "Braden Shewmake",
+    "team": "New York Yankees",
+    "teamId": 147
+  },
+  {
+    "id": 687396,
+    "name": "Brent Headrick",
+    "team": "New York Yankees",
+    "teamId": 147
+  },
+  {
+    "id": 650559,
+    "name": "Bryan De La Cruz",
+    "team": "New York Yankees",
+    "teamId": 147
+  },
+  {
+    "id": 680769,
+    "name": "CJ Alexander",
+    "team": "New York Yankees",
+    "teamId": 147
+  },
+  {
+    "id": 607074,
+    "name": "Carlos Rodón",
+    "team": "New York Yankees",
+    "teamId": 147
+  },
+  {
+    "id": 657376,
+    "name": "Clarke Schmidt",
+    "team": "New York Yankees",
+    "teamId": 147
+  },
+  {
+    "id": 690925,
+    "name": "Clayton Beeter",
+    "team": "New York Yankees",
+    "teamId": 147
+  },
+  {
+    "id": 641355,
+    "name": "Cody Bellinger",
+    "team": "New York Yankees",
+    "teamId": 147
+  },
+  {
+    "id": 518934,
+    "name": "DJ LeMahieu",
+    "team": "New York Yankees",
+    "teamId": 147
+  },
+  {
+    "id": 642207,
+    "name": "Devin Williams",
+    "team": "New York Yankees",
+    "teamId": 147
+  },
+  {
+    "id": 677592,
+    "name": "Everson Pereira",
+    "team": "New York Yankees",
+    "teamId": 147
+  },
+  {
+    "id": 518585,
+    "name": "Fernando Cruz",
+    "team": "New York Yankees",
+    "teamId": 147
+  },
+  {
+    "id": 543037,
+    "name": "Gerrit Cole",
+    "team": "New York Yankees",
+    "teamId": 147
+  },
+  {
+    "id": 519317,
+    "name": "Giancarlo Stanton",
+    "team": "New York Yankees",
+    "teamId": 147
+  },
+  {
+    "id": 641656,
+    "name": "Ian Hamilton",
+    "team": "New York Yankees",
+    "teamId": 147
+  },
+  {
+    "id": 641555,
+    "name": "J.C. Escarra",
+    "team": "New York Yankees",
+    "teamId": 147
+  },
+  {
+    "id": 664141,
+    "name": "JT Brubaker",
+    "team": "New York Yankees",
+    "teamId": 147
+  },
+  {
+    "id": 664776,
+    "name": "Jake Cousins",
+    "team": "New York Yankees",
+    "teamId": 147
+  },
+  {
+    "id": 691176,
+    "name": "Jasson Domínguez",
+    "team": "New York Yankees",
+    "teamId": 147
+  },
+  {
+    "id": 682144,
+    "name": "Jayvien Sandridge",
+    "team": "New York Yankees",
+    "teamId": 147
+  },
+  {
+    "id": 665862,
+    "name": "Jazz Chisholm Jr.",
+    "team": "New York Yankees",
+    "teamId": 147
+  },
+  {
+    "id": 683679,
+    "name": "Jesus Rodriguez",
+    "team": "New York Yankees",
+    "teamId": 147
+  },
+  {
+    "id": 642528,
+    "name": "Jonathan Loáisiga",
+    "team": "New York Yankees",
+    "teamId": 147
+  },
+  {
+    "id": 678391,
+    "name": "Jorbit Vivas",
+    "team": "New York Yankees",
+    "teamId": 147
+  },
+  {
+    "id": 661563,
+    "name": "Luis Gil",
+    "team": "New York Yankees",
+    "teamId": 147
+  },
+  {
+    "id": 596133,
+    "name": "Luke Weaver",
+    "team": "New York Yankees",
+    "teamId": 147
+  },
+  {
+    "id": 573186,
+    "name": "Marcus Stroman",
+    "team": "New York Yankees",
+    "teamId": 147
+  },
+  {
+    "id": 643410,
+    "name": "Mark Leiter Jr.",
+    "team": "New York Yankees",
+    "teamId": 147
+  },
+  {
+    "id": 608331,
+    "name": "Max Fried",
+    "team": "New York Yankees",
+    "teamId": 147
+  },
+  {
+    "id": 683522,
+    "name": "Michael Arias",
+    "team": "New York Yankees",
+    "teamId": 147
+  },
+  {
+    "id": 672724,
+    "name": "Oswald Peraza",
+    "team": "New York Yankees",
+    "teamId": 147
+  },
+  {
+    "id": 665828,
+    "name": "Oswaldo Cabrera",
+    "team": "New York Yankees",
+    "teamId": 147
+  },
+  {
+    "id": 502671,
+    "name": "Paul Goldschmidt",
+    "team": "New York Yankees",
+    "teamId": 147
+  },
+  {
+    "id": 642232,
+    "name": "Ryan Yarbrough",
+    "team": "New York Yankees",
+    "teamId": 147
+  },
+  {
+    "id": 664123,
+    "name": "Scott Effross",
+    "team": "New York Yankees",
+    "teamId": 147
+  },
+  {
+    "id": 657612,
+    "name": "Tim Hill",
+    "team": "New York Yankees",
+    "teamId": 147
+  },
+  {
+    "id": 663757,
+    "name": "Trent Grisham",
+    "team": "New York Yankees",
+    "teamId": 147
+  },
+  {
+    "id": 701542,
+    "name": "Will Warren",
+    "team": "New York Yankees",
+    "teamId": 147
+  },
+  {
+    "id": 660787,
+    "name": "Yerry De los Santos",
+    "team": "New York Yankees",
+    "teamId": 147
+  },
+  {
+    "id": 676879,
+    "name": "Aaron Ashby",
+    "team": "Milwaukee Brewers",
+    "teamId": 158
+  },
+  {
+    "id": 682842,
+    "name": "Abner Uribe",
+    "team": "Milwaukee Brewers",
+    "teamId": 158
+  },
+  {
+    "id": 683734,
+    "name": "Andrew Vaughn",
+    "team": "Milwaukee Brewers",
+    "teamId": 158
+  },
+  {
+    "id": 655316,
+    "name": "Andruw Monasterio",
+    "team": "Milwaukee Brewers",
+    "teamId": 158
+  },
+  {
+    "id": 663368,
+    "name": "Blake Perkins",
+    "team": "Milwaukee Brewers",
+    "teamId": 158
+  },
+  {
+    "id": 605540,
+    "name": "Brandon Woodruff",
+    "team": "Milwaukee Brewers",
+    "teamId": 158
+  },
+  {
+    "id": 668930,
+    "name": "Brice Turang",
+    "team": "Milwaukee Brewers",
+    "teamId": 158
+  },
+  {
+    "id": 663542,
+    "name": "Bryan Hudson",
+    "team": "Milwaukee Brewers",
+    "teamId": 158
+  },
+  {
+    "id": 702332,
+    "name": "Caleb Durbin",
+    "team": "Milwaukee Brewers",
+    "teamId": 158
+  },
+  {
+    "id": 692230,
+    "name": "Carlos Rodriguez",
+    "team": "Milwaukee Brewers",
+    "teamId": 158
+  },
+  {
+    "id": 694477,
+    "name": "Chad Patrick",
+    "team": "Milwaukee Brewers",
+    "teamId": 158
+  },
+  {
+    "id": 592885,
+    "name": "Christian Yelich",
+    "team": "Milwaukee Brewers",
+    "teamId": 158
+  },
+  {
+    "id": 671162,
+    "name": "Connor Thomas",
+    "team": "Milwaukee Brewers",
+    "teamId": 158
+  },
+  {
+    "id": 684974,
+    "name": "Craig Yoho",
+    "team": "Milwaukee Brewers",
+    "teamId": 158
+  },
+  {
+    "id": 669084,
+    "name": "DL Hall",
+    "team": "Milwaukee Brewers",
+    "teamId": 158
+  },
+  {
+    "id": 663662,
+    "name": "Daz Cameron",
+    "team": "Milwaukee Brewers",
+    "teamId": 158
+  },
+  {
+    "id": 682183,
+    "name": "Drew Avans",
+    "team": "Milwaukee Brewers",
+    "teamId": 158
+  },
+  {
+    "id": 668834,
+    "name": "Easton McGee",
+    "team": "Milwaukee Brewers",
+    "teamId": 158
+  },
+  {
+    "id": 660730,
+    "name": "Elvin Rodriguez",
+    "team": "Milwaukee Brewers",
+    "teamId": 158
+  },
+  {
+    "id": 665625,
+    "name": "Elvis Peguero",
+    "team": "Milwaukee Brewers",
+    "teamId": 158
+  },
+  {
+    "id": 606992,
+    "name": "Eric Haase",
+    "team": "Milwaukee Brewers",
+    "teamId": 158
+  },
+  {
+    "id": 642547,
+    "name": "Freddy Peralta",
+    "team": "Milwaukee Brewers",
+    "teamId": 158
+  },
+  {
+    "id": 669003,
+    "name": "Garrett Mitchell",
+    "team": "Milwaukee Brewers",
+    "teamId": 158
+  },
+  {
+    "id": 681982,
+    "name": "Grant Anderson",
+    "team": "Milwaukee Brewers",
+    "teamId": 158
+  },
+  {
+    "id": 686555,
+    "name": "Isaac Collins",
+    "team": "Milwaukee Brewers",
+    "teamId": 158
+  },
+  {
+    "id": 694192,
+    "name": "Jackson Chourio",
+    "team": "Milwaukee Brewers",
+    "teamId": 158
+  },
+  {
+    "id": 694819,
+    "name": "Jacob Misiorowski",
+    "team": "Milwaukee Brewers",
+    "teamId": 158
+  },
+  {
+    "id": 641343,
+    "name": "Jake Bauers",
+    "team": "Milwaukee Brewers",
+    "teamId": 158
+  },
+  {
+    "id": 657649,
+    "name": "Jared Koenig",
+    "team": "Milwaukee Brewers",
+    "teamId": 158
+  },
+  {
+    "id": 691620,
+    "name": "Jeferson Quero",
+    "team": "Milwaukee Brewers",
+    "teamId": 158
+  },
+  {
+    "id": 687401,
+    "name": "Joey Ortiz",
+    "team": "Milwaukee Brewers",
+    "teamId": 158
+  },
+  {
+    "id": 500779,
+    "name": "Jose Quintana",
+    "team": "Milwaukee Brewers",
+    "teamId": 158
+  },
+  {
+    "id": 701656,
+    "name": "Logan Henderson",
+    "team": "Milwaukee Brewers",
+    "teamId": 158
+  },
+  {
+    "id": 641482,
+    "name": "Nestor Cortes",
+    "team": "Milwaukee Brewers",
+    "teamId": 158
+  },
+  {
+    "id": 683232,
+    "name": "Nick Mears",
+    "team": "Milwaukee Brewers",
+    "teamId": 158
+  },
+  {
+    "id": 686554,
+    "name": "Oliver Dunn",
+    "team": "Milwaukee Brewers",
+    "teamId": 158
+  },
+  {
+    "id": 682990,
+    "name": "Quinn Priester",
+    "team": "Milwaukee Brewers",
+    "teamId": 158
+  },
+  {
+    "id": 656555,
+    "name": "Rhys Hoskins",
+    "team": "Milwaukee Brewers",
+    "teamId": 158
+  },
+  {
+    "id": 642239,
+    "name": "Rob Zastryzny",
+    "team": "Milwaukee Brewers",
+    "teamId": 158
+  },
+  {
+    "id": 688107,
+    "name": "Robert Gasser",
+    "team": "Milwaukee Brewers",
+    "teamId": 158
+  },
+  {
+    "id": 686217,
+    "name": "Sal Frelick",
+    "team": "Milwaukee Brewers",
+    "teamId": 158
+  },
+  {
+    "id": 668964,
+    "name": "Tobias Myers",
+    "team": "Milwaukee Brewers",
+    "teamId": 158
+  },
+  {
+    "id": 656730,
+    "name": "Trevor Megill",
+    "team": "Milwaukee Brewers",
+    "teamId": 158
+  },
+  {
+    "id": 672012,
+    "name": "Tyler Black",
+    "team": "Milwaukee Brewers",
+    "teamId": 158
+  },
+  {
+    "id": 661388,
+    "name": "William Contreras",
+    "team": "Milwaukee Brewers",
+    "teamId": 158
+  },
+  {
+    "id": 543685,
+    "name": "Anthony Rendon",
+    "team": "Los Angeles Angels",
+    "teamId": 108
+  },
+  {
+    "id": 690829,
+    "name": "Ben Joyce",
+    "team": "Los Angeles Angels",
+    "teamId": 108
+  },
+  {
+    "id": 656271,
+    "name": "Brock Burke",
+    "team": "Los Angeles Angels",
+    "teamId": 108
+  },
+  {
+    "id": 702674,
+    "name": "Caden Dana",
+    "team": "Los Angeles Angels",
+    "teamId": 108
+  },
+  {
+    "id": 681217,
+    "name": "Chase Silseth",
+    "team": "Los Angeles Angels",
+    "teamId": 108
+  },
+  {
+    "id": 621035,
+    "name": "Chris Taylor",
+    "team": "Los Angeles Angels",
+    "teamId": 108
+  },
+  {
+    "id": 695681,
+    "name": "Christian Moore",
+    "team": "Los Angeles Angels",
+    "teamId": 108
+  },
+  {
+    "id": 641401,
+    "name": "Connor Brogdon",
+    "team": "Los Angeles Angels",
+    "teamId": 108
+  },
+  {
+    "id": 672569,
+    "name": "Gustavo Campero",
+    "team": "Los Angeles Angels",
+    "teamId": 108
+  },
+  {
+    "id": 593576,
+    "name": "Héctor Neris",
+    "team": "Los Angeles Angels",
+    "teamId": 108
+  },
+  {
+    "id": 519326,
+    "name": "Hunter Strickland",
+    "team": "Los Angeles Angels",
+    "teamId": 108
+  },
+  {
+    "id": 686799,
+    "name": "Jack Kochanowicz",
+    "team": "Los Angeles Angels",
+    "teamId": 108
+  },
+  {
+    "id": 671109,
+    "name": "Jake Eder",
+    "team": "Los Angeles Angels",
+    "teamId": 108
+  },
+  {
+    "id": 666176,
+    "name": "Jo Adell",
+    "team": "Los Angeles Angels",
+    "teamId": 108
+  },
+  {
+    "id": 624585,
+    "name": "Jorge Soler",
+    "team": "Los Angeles Angels",
+    "teamId": 108
+  },
+  {
+    "id": 820862,
+    "name": "José Fermin",
+    "team": "Los Angeles Angels",
+    "teamId": 108
+  },
+  {
+    "id": 667755,
+    "name": "José Soriano",
+    "team": "Los Angeles Angels",
+    "teamId": 108
+  },
+  {
+    "id": 445276,
+    "name": "Kenley Jansen",
+    "team": "Los Angeles Angels",
+    "teamId": 108
+  },
+  {
+    "id": 621028,
+    "name": "Kevin Newman",
+    "team": "Los Angeles Angels",
+    "teamId": 108
+  },
+  {
+    "id": 543294,
+    "name": "Kyle Hendricks",
+    "team": "Los Angeles Angels",
+    "teamId": 108
+  },
+  {
+    "id": 677347,
+    "name": "Kyren Paris",
+    "team": "Los Angeles Angels",
+    "teamId": 108
+  },
+  {
+    "id": 664774,
+    "name": "LaMonte Wade Jr.",
+    "team": "Los Angeles Angels",
+    "teamId": 108
+  },
+  {
+    "id": 681351,
+    "name": "Logan O'Hoppe",
+    "team": "Los Angeles Angels",
+    "teamId": 108
+  },
+  {
+    "id": 650859,
+    "name": "Luis Rengifo",
+    "team": "Los Angeles Angels",
+    "teamId": 108
+  },
+  {
+    "id": 683090,
+    "name": "Matthew Lugo",
+    "team": "Los Angeles Angels",
+    "teamId": 108
+  },
+  {
+    "id": 545361,
+    "name": "Mike Trout",
+    "team": "Los Angeles Angels",
+    "teamId": 108
+  },
+  {
+    "id": 694359,
+    "name": "Niko Kavadas",
+    "team": "Los Angeles Angels",
+    "teamId": 108
+  },
+  {
+    "id": 694384,
+    "name": "Nolan Schanuel",
+    "team": "Los Angeles Angels",
+    "teamId": 108
+  },
+  {
+    "id": 672282,
+    "name": "Reid Detmers",
+    "team": "Los Angeles Angels",
+    "teamId": 108
+  },
+  {
+    "id": 596112,
+    "name": "Robert Stephenson",
+    "team": "Los Angeles Angels",
+    "teamId": 108
+  },
+  {
+    "id": 696270,
+    "name": "Ryan Johnson",
+    "team": "Los Angeles Angels",
+    "teamId": 108
+  },
+  {
+    "id": 666171,
+    "name": "Ryan Zeferjahn",
+    "team": "Los Angeles Angels",
+    "teamId": 108
+  },
+  {
+    "id": 691951,
+    "name": "Sam Aldegheri",
+    "team": "Los Angeles Angels",
+    "teamId": 108
+  },
+  {
+    "id": 696147,
+    "name": "Sam Bachman",
+    "team": "Los Angeles Angels",
+    "teamId": 108
+  },
+  {
+    "id": 664068,
+    "name": "Scott Kingery",
+    "team": "Los Angeles Angels",
+    "teamId": 108
+  },
+  {
+    "id": 621493,
+    "name": "Taylor Ward",
+    "team": "Los Angeles Angels",
+    "teamId": 108
+  },
+  {
+    "id": 518595,
+    "name": "Travis d'Arnaud",
+    "team": "Los Angeles Angels",
+    "teamId": 108
+  },
+  {
+    "id": 542881,
+    "name": "Tyler Anderson",
+    "team": "Los Angeles Angels",
+    "teamId": 108
+  },
+  {
+    "id": 682989,
+    "name": "Victor Mederos",
+    "team": "Los Angeles Angels",
+    "teamId": 108
+  },
+  {
+    "id": 660162,
+    "name": "Yoán Moncada",
+    "team": "Los Angeles Angels",
+    "teamId": 108
+  },
+  {
+    "id": 579328,
+    "name": "Yusei Kikuchi",
+    "team": "Los Angeles Angels",
+    "teamId": 108
+  },
+  {
+    "id": 687263,
+    "name": "Zach Neto",
+    "team": "Los Angeles Angels",
+    "teamId": 108
+  },
+  {
+    "id": 640462,
+    "name": "A.J. Puk",
+    "team": "Arizona Diamondbacks",
+    "teamId": 109
+  },
+  {
+    "id": 680728,
+    "name": "Adrian Del Castillo",
+    "team": "Arizona Diamondbacks",
+    "teamId": 109
+  },
+  {
+    "id": 677950,
+    "name": "Alek Thomas",
+    "team": "Arizona Diamondbacks",
+    "teamId": 109
+  },
+  {
+    "id": 685314,
+    "name": "Andrew Saalfrank",
+    "team": "Arizona Diamondbacks",
+    "teamId": 109
+  },
+  {
+    "id": 543101,
+    "name": "Anthony DeSclafani",
+    "team": "Arizona Diamondbacks",
+    "teamId": 109
+  },
+  {
+    "id": 686796,
+    "name": "Blake Walston",
+    "team": "Arizona Diamondbacks",
+    "teamId": 109
+  },
+  {
+    "id": 677942,
+    "name": "Blaze Alexander",
+    "team": "Arizona Diamondbacks",
+    "teamId": 109
+  },
+  {
+    "id": 694297,
+    "name": "Brandon Pfaadt",
+    "team": "Arizona Diamondbacks",
+    "teamId": 109
+  },
+  {
+    "id": 686826,
+    "name": "Bryce Jarvis",
+    "team": "Arizona Diamondbacks",
+    "teamId": 109
+  },
+  {
+    "id": 801216,
+    "name": "Christian Montes De Oca",
+    "team": "Arizona Diamondbacks",
+    "teamId": 109
+  },
+  {
+    "id": 669203,
+    "name": "Corbin Burnes",
+    "team": "Arizona Diamondbacks",
+    "teamId": 109
+  },
+  {
+    "id": 682998,
+    "name": "Corbin Carroll",
+    "team": "Arizona Diamondbacks",
+    "teamId": 109
+  },
+  {
+    "id": 691441,
+    "name": "Cristian Mena",
+    "team": "Arizona Diamondbacks",
+    "teamId": 109
+  },
+  {
+    "id": 686753,
+    "name": "Drey Jameson",
+    "team": "Arizona Diamondbacks",
+    "teamId": 109
+  },
+  {
+    "id": 593958,
+    "name": "Eduardo Rodriguez",
+    "team": "Arizona Diamondbacks",
+    "teamId": 109
+  },
+  {
+    "id": 553993,
+    "name": "Eugenio Suárez",
+    "team": "Arizona Diamondbacks",
+    "teamId": 109
+  },
+  {
+    "id": 672515,
+    "name": "Gabriel Moreno",
+    "team": "Arizona Diamondbacks",
+    "teamId": 109
+  },
+  {
+    "id": 672695,
+    "name": "Geraldo Perdomo",
+    "team": "Arizona Diamondbacks",
+    "teamId": 109
+  },
+  {
+    "id": 545121,
+    "name": "Ildemaro Vargas",
+    "team": "Arizona Diamondbacks",
+    "teamId": 109
+  },
+  {
+    "id": 664983,
+    "name": "Jake McCarthy",
+    "team": "Arizona Diamondbacks",
+    "teamId": 109
+  },
+  {
+    "id": 656222,
+    "name": "Jalen Beeks",
+    "team": "Arizona Diamondbacks",
+    "teamId": 109
+  },
+  {
+    "id": 543510,
+    "name": "James McCann",
+    "team": "Arizona Diamondbacks",
+    "teamId": 109
+  },
+  {
+    "id": 656257,
+    "name": "Jeff Brigham",
+    "team": "Arizona Diamondbacks",
+    "teamId": 109
+  },
+  {
+    "id": 691783,
+    "name": "Jordan Lawlar",
+    "team": "Arizona Diamondbacks",
+    "teamId": 109
+  },
+  {
+    "id": 656756,
+    "name": "Jordan Montgomery",
+    "team": "Arizona Diamondbacks",
+    "teamId": 109
+  },
+  {
+    "id": 678489,
+    "name": "Jorge Barrosa",
+    "team": "Arizona Diamondbacks",
+    "teamId": 109
+  },
+  {
+    "id": 645444,
+    "name": "Jose Herrera",
+    "team": "Arizona Diamondbacks",
+    "teamId": 109
+  },
+  {
+    "id": 647304,
+    "name": "Josh Naylor",
+    "team": "Arizona Diamondbacks",
+    "teamId": 109
+  },
+  {
+    "id": 666661,
+    "name": "Juan Morillo",
+    "team": "Arizona Diamondbacks",
+    "teamId": 109
+  },
+  {
+    "id": 679885,
+    "name": "Justin Martinez",
+    "team": "Arizona Diamondbacks",
+    "teamId": 109
+  },
+  {
+    "id": 608665,
+    "name": "Kendall Graveman",
+    "team": "Arizona Diamondbacks",
+    "teamId": 109
+  },
+  {
+    "id": 606466,
+    "name": "Ketel Marte",
+    "team": "Arizona Diamondbacks",
+    "teamId": 109
+  },
+  {
+    "id": 656464,
+    "name": "Kevin Ginkel",
+    "team": "Arizona Diamondbacks",
+    "teamId": 109
+  },
+  {
+    "id": 679775,
+    "name": "Kyle Backhus",
+    "team": "Arizona Diamondbacks",
+    "teamId": 109
+  },
+  {
+    "id": 669459,
+    "name": "Kyle Nelson",
+    "team": "Arizona Diamondbacks",
+    "teamId": 109
+  },
+  {
+    "id": 666971,
+    "name": "Lourdes Gurriel Jr.",
+    "team": "Arizona Diamondbacks",
+    "teamId": 109
+  },
+  {
+    "id": 518876,
+    "name": "Merrill Kelly",
+    "team": "Arizona Diamondbacks",
+    "teamId": 109
+  },
+  {
+    "id": 656976,
+    "name": "Pavin Smith",
+    "team": "Arizona Diamondbacks",
+    "teamId": 109
+  },
+  {
+    "id": 545341,
+    "name": "Randal Grichuk",
+    "team": "Arizona Diamondbacks",
+    "teamId": 109
+  },
+  {
+    "id": 657044,
+    "name": "Ryan Thompson",
+    "team": "Arizona Diamondbacks",
+    "teamId": 109
+  },
+  {
+    "id": 669194,
+    "name": "Ryne Nelson",
+    "team": "Arizona Diamondbacks",
+    "teamId": 109
+  },
+  {
+    "id": 571946,
+    "name": "Shelby Miller",
+    "team": "Arizona Diamondbacks",
+    "teamId": 109
+  },
+  {
+    "id": 605463,
+    "name": "Tayler Scott",
+    "team": "Arizona Diamondbacks",
+    "teamId": 109
+  },
+  {
+    "id": 694374,
+    "name": "Tim Tawa",
+    "team": "Arizona Diamondbacks",
+    "teamId": 109
+  },
+  {
+    "id": 674072,
+    "name": "Tommy Henry",
+    "team": "Arizona Diamondbacks",
+    "teamId": 109
+  },
+  {
+    "id": 700270,
+    "name": "Yilber Díaz",
+    "team": "Arizona Diamondbacks",
+    "teamId": 109
+  },
+  {
+    "id": 668678,
+    "name": "Zac Gallen",
+    "team": "Arizona Diamondbacks",
+    "teamId": 109
+  },
+  {
+    "id": 668939,
+    "name": "Adley Rutschman",
+    "team": "Baltimore Orioles",
+    "teamId": 110
+  },
+  {
+    "id": 544150,
+    "name": "Albert Suárez",
+    "team": "Baltimore Orioles",
+    "teamId": 110
+  },
+  {
+    "id": 552640,
+    "name": "Andrew Kittredge",
+    "team": "Baltimore Orioles",
+    "teamId": 110
+  },
+  {
+    "id": 687064,
+    "name": "Brandon Young",
+    "team": "Baltimore Orioles",
+    "teamId": 110
+  },
+  {
+    "id": 641329,
+    "name": "Bryan Baker",
+    "team": "Baltimore Orioles",
+    "teamId": 110
+  },
+  {
+    "id": 700249,
+    "name": "Cade Povich",
+    "team": "Baltimore Orioles",
+    "teamId": 110
+  },
+  {
+    "id": 656775,
+    "name": "Cedric Mullins",
+    "team": "Baltimore Orioles",
+    "teamId": 110
+  },
+  {
+    "id": 644433,
+    "name": "Chadwick Tromp",
+    "team": "Baltimore Orioles",
+    "teamId": 110
+  },
+  {
+    "id": 450203,
+    "name": "Charlie Morton",
+    "team": "Baltimore Orioles",
+    "teamId": 110
+  },
+  {
+    "id": 694646,
+    "name": "Chayce McDermott",
+    "team": "Baltimore Orioles",
+    "teamId": 110
+  },
+  {
+    "id": 691723,
+    "name": "Coby Mayo",
+    "team": "Baltimore Orioles",
+    "teamId": 110
+  },
+  {
+    "id": 547001,
+    "name": "Cody Poteet",
+    "team": "Baltimore Orioles",
+    "teamId": 110
+  },
+  {
+    "id": 681882,
+    "name": "Colin Selby",
+    "team": "Baltimore Orioles",
+    "teamId": 110
+  },
+  {
+    "id": 681297,
+    "name": "Colton Cowser",
+    "team": "Baltimore Orioles",
+    "teamId": 110
+  },
+  {
+    "id": 665152,
+    "name": "Dean Kremer",
+    "team": "Baltimore Orioles",
+    "teamId": 110
+  },
+  {
+    "id": 666185,
+    "name": "Dylan Carlson",
+    "team": "Baltimore Orioles",
+    "teamId": 110
+  },
+  {
+    "id": 642585,
+    "name": "Félix Bautista",
+    "team": "Baltimore Orioles",
+    "teamId": 110
+  },
+  {
+    "id": 596142,
+    "name": "Gary Sánchez",
+    "team": "Baltimore Orioles",
+    "teamId": 110
+  },
+  {
+    "id": 664991,
+    "name": "Grant Wolfram",
+    "team": "Baltimore Orioles",
+    "teamId": 110
+  },
+  {
+    "id": 680570,
+    "name": "Grayson Rodriguez",
+    "team": "Baltimore Orioles",
+    "teamId": 110
+  },
+  {
+    "id": 642397,
+    "name": "Gregory Soto",
+    "team": "Baltimore Orioles",
+    "teamId": 110
+  },
+  {
+    "id": 683002,
+    "name": "Gunnar Henderson",
+    "team": "Baltimore Orioles",
+    "teamId": 110
+  },
+  {
+    "id": 677008,
+    "name": "Heston Kjerstad",
+    "team": "Baltimore Orioles",
+    "teamId": 110
+  },
+  {
+    "id": 702616,
+    "name": "Jackson Holliday",
+    "team": "Baltimore Orioles",
+    "teamId": 110
+  },
+  {
+    "id": 676059,
+    "name": "Jordan Westburg",
+    "team": "Baltimore Orioles",
+    "teamId": 110
+  },
+  {
+    "id": 622761,
+    "name": "Jorge Mateo",
+    "team": "Baltimore Orioles",
+    "teamId": 110
+  },
+  {
+    "id": 669704,
+    "name": "Kade Strowd",
+    "team": "Baltimore Orioles",
+    "teamId": 110
+  },
+  {
+    "id": 669211,
+    "name": "Keegan Akin",
+    "team": "Baltimore Orioles",
+    "teamId": 110
+  },
+  {
+    "id": 680694,
+    "name": "Kyle Bradish",
+    "team": "Baltimore Orioles",
+    "teamId": 110
+  },
+  {
+    "id": 667725,
+    "name": "Kyle Tyler",
+    "team": "Baltimore Orioles",
+    "teamId": 110
+  },
+  {
+    "id": 622379,
+    "name": "Luis F. Castillo",
+    "team": "Baltimore Orioles",
+    "teamId": 110
+  },
+  {
+    "id": 676679,
+    "name": "Luis Vázquez",
+    "team": "Baltimore Orioles",
+    "teamId": 110
+  },
+  {
+    "id": 668974,
+    "name": "Maverick Handley",
+    "team": "Baltimore Orioles",
+    "teamId": 110
+  },
+  {
+    "id": 657656,
+    "name": "Ramón Laureano",
+    "team": "Baltimore Orioles",
+    "teamId": 110
+  },
+  {
+    "id": 602104,
+    "name": "Ramón Urías",
+    "team": "Baltimore Orioles",
+    "teamId": 110
+  },
+  {
+    "id": 663624,
+    "name": "Ryan Mountcastle",
+    "team": "Baltimore Orioles",
+    "teamId": 110
+  },
+  {
+    "id": 656811,
+    "name": "Ryan O'Hearn",
+    "team": "Baltimore Orioles",
+    "teamId": 110
+  },
+  {
+    "id": 656240,
+    "name": "Scott Blewett",
+    "team": "Baltimore Orioles",
+    "teamId": 110
+  },
+  {
+    "id": 622554,
+    "name": "Seranthony Domínguez",
+    "team": "Baltimore Orioles",
+    "teamId": 110
+  },
+  {
+    "id": 608372,
+    "name": "Tomoyuki Sugano",
+    "team": "Baltimore Orioles",
+    "teamId": 110
+  },
+  {
+    "id": 669432,
+    "name": "Trevor Rogers",
+    "team": "Baltimore Orioles",
+    "teamId": 110
+  },
+  {
+    "id": 641933,
+    "name": "Tyler O'Neill",
+    "team": "Baltimore Orioles",
+    "teamId": 110
+  },
+  {
+    "id": 669330,
+    "name": "Tyler Wells",
+    "team": "Baltimore Orioles",
+    "teamId": 110
+  },
+  {
+    "id": 682274,
+    "name": "Yaramil Hiraldo",
+    "team": "Baltimore Orioles",
+    "teamId": 110
+  },
+  {
+    "id": 666974,
+    "name": "Yennier Cano",
+    "team": "Baltimore Orioles",
+    "teamId": 110
+  },
+  {
+    "id": 621107,
+    "name": "Zach Eflin",
+    "team": "Baltimore Orioles",
+    "teamId": 110
+  },
+  {
+    "id": 647351,
+    "name": "Abraham Toro",
+    "team": "Boston Red Sox",
+    "teamId": 111
+  },
+  {
+    "id": 608324,
+    "name": "Alex Bregman",
+    "team": "Boston Red Sox",
+    "teamId": 111
+  },
+  {
+    "id": 547973,
+    "name": "Aroldis Chapman",
+    "team": "Boston Red Sox",
+    "teamId": 111
+  },
+  {
+    "id": 678394,
+    "name": "Brayan Bello",
+    "team": "Boston Red Sox",
+    "teamId": 111
+  },
+  {
+    "id": 657514,
+    "name": "Brennan Bernardino",
+    "team": "Boston Red Sox",
+    "teamId": 111
+  },
+  {
+    "id": 665966,
+    "name": "Carlos Narváez",
+    "team": "Boston Red Sox",
+    "teamId": 111
+  },
+  {
+    "id": 678882,
+    "name": "Ceddanne Rafaela",
+    "team": "Boston Red Sox",
+    "teamId": 111
+  },
+  {
+    "id": 669684,
+    "name": "Chris Murphy",
+    "team": "Boston Red Sox",
+    "teamId": 111
+  },
+  {
+    "id": 657136,
+    "name": "Connor Wong",
+    "team": "Boston Red Sox",
+    "teamId": 111
+  },
+  {
+    "id": 681867,
+    "name": "Cooper Criswell",
+    "team": "Boston Red Sox",
+    "teamId": 111
+  },
+  {
+    "id": 666152,
+    "name": "David Hamilton",
+    "team": "Boston Red Sox",
+    "teamId": 111
+  },
+  {
+    "id": 676979,
+    "name": "Garrett Crochet",
+    "team": "Boston Red Sox",
+    "teamId": 111
+  },
+  {
+    "id": 676477,
+    "name": "Garrett Whitlock",
+    "team": "Boston Red Sox",
+    "teamId": 111
+  },
+  {
+    "id": 669711,
+    "name": "Greg Weissert",
+    "team": "Boston Red Sox",
+    "teamId": 111
+  },
+  {
+    "id": 690928,
+    "name": "Hunter Dobbins",
+    "team": "Boston Red Sox",
+    "teamId": 111
+  },
+  {
+    "id": 680776,
+    "name": "Jarren Duran",
+    "team": "Boston Red Sox",
+    "teamId": 111
+  },
+  {
+    "id": 691373,
+    "name": "Jhostynxon Garcia",
+    "team": "Boston Red Sox",
+    "teamId": 111
+  },
+  {
+    "id": 663855,
+    "name": "Jordan Hicks",
+    "team": "Boston Red Sox",
+    "teamId": 111
+  },
+  {
+    "id": 660896,
+    "name": "Jorge Alcala",
+    "team": "Boston Red Sox",
+    "teamId": 111
+  },
+  {
+    "id": 670174,
+    "name": "Josh Winckowski",
+    "team": "Boston Red Sox",
+    "teamId": 111
+  },
+  {
+    "id": 686580,
+    "name": "Justin Slaten",
+    "team": "Boston Red Sox",
+    "teamId": 111
+  },
+  {
+    "id": 458677,
+    "name": "Justin Wilson",
+    "team": "Boston Red Sox",
+    "teamId": 111
+  },
+  {
+    "id": 692225,
+    "name": "Kristian Campbell",
+    "team": "Boston Red Sox",
+    "teamId": 111
+  },
+  {
+    "id": 676710,
+    "name": "Kutter Crawford",
+    "team": "Boston Red Sox",
+    "teamId": 111
+  },
+  {
+    "id": 690986,
+    "name": "Kyle Harrison",
+    "team": "Boston Red Sox",
+    "teamId": 111
+  },
+  {
+    "id": 521230,
+    "name": "Liam Hendriks",
+    "team": "Boston Red Sox",
+    "teamId": 111
+  },
+  {
+    "id": 608337,
+    "name": "Lucas Giolito",
+    "team": "Boston Red Sox",
+    "teamId": 111
+  },
+  {
+    "id": 692285,
+    "name": "Luis Guerrero",
+    "team": "Boston Red Sox",
+    "teamId": 111
+  },
+  {
+    "id": 691384,
+    "name": "Luis Perales",
+    "team": "Boston Red Sox",
+    "teamId": 111
+  },
+  {
+    "id": 691785,
+    "name": "Marcelo Mayer",
+    "team": "Boston Red Sox",
+    "teamId": 111
+  },
+  {
+    "id": 807799,
+    "name": "Masataka Yoshida",
+    "team": "Boston Red Sox",
+    "teamId": 111
+  },
+  {
+    "id": 681987,
+    "name": "Nate Eaton",
+    "team": "Boston Red Sox",
+    "teamId": 111
+  },
+  {
+    "id": 595897,
+    "name": "Nick Burdi",
+    "team": "Boston Red Sox",
+    "teamId": 111
+  },
+  {
+    "id": 686765,
+    "name": "Nick Sogard",
+    "team": "Boston Red Sox",
+    "teamId": 111
+  },
+  {
+    "id": 663776,
+    "name": "Patrick Sandoval",
+    "team": "Boston Red Sox",
+    "teamId": 111
+  },
+  {
+    "id": 690916,
+    "name": "Richard Fitts",
+    "team": "Boston Red Sox",
+    "teamId": 111
+  },
+  {
+    "id": 608701,
+    "name": "Rob Refsnyder",
+    "team": "Boston Red Sox",
+    "teamId": 111
+  },
+  {
+    "id": 701350,
+    "name": "Roman Anthony",
+    "team": "Boston Red Sox",
+    "teamId": 111
+  },
+  {
+    "id": 663853,
+    "name": "Romy Gonzalez",
+    "team": "Boston Red Sox",
+    "teamId": 111
+  },
+  {
+    "id": 656557,
+    "name": "Tanner Houck",
+    "team": "Boston Red Sox",
+    "teamId": 111
+  },
+  {
+    "id": 596115,
+    "name": "Trevor Story",
+    "team": "Boston Red Sox",
+    "teamId": 111
+  },
+  {
+    "id": 671213,
+    "name": "Triston Casas",
+    "team": "Boston Red Sox",
+    "teamId": 111
+  },
+  {
+    "id": 687093,
+    "name": "Vaughn Grissom",
+    "team": "Boston Red Sox",
+    "teamId": 111
+  },
+  {
+    "id": 621111,
+    "name": "Walker Buehler",
+    "team": "Boston Red Sox",
+    "teamId": 111
+  },
+  {
+    "id": 677800,
+    "name": "Wilyer Abreu",
+    "team": "Boston Red Sox",
+    "teamId": 111
+  },
+  {
+    "id": 677161,
+    "name": "Zack Kelly",
+    "team": "Boston Red Sox",
+    "teamId": 111
+  },
+  {
+    "id": 676962,
+    "name": "Ben Brown",
+    "team": "Chicago Cubs",
+    "teamId": 112
+  },
+  {
+    "id": 701496,
+    "name": "Ben Cowles",
+    "team": "Chicago Cubs",
+    "teamId": 112
+  },
+  {
+    "id": 641745,
+    "name": "Brad Keller",
+    "team": "Chicago Cubs",
+    "teamId": 112
+  },
+  {
+    "id": 690990,
+    "name": "Cade Horton",
+    "team": "Chicago Cubs",
+    "teamId": 112
+  },
+  {
+    "id": 573204,
+    "name": "Caleb Thielbar",
+    "team": "Chicago Cubs",
+    "teamId": 112
+  },
+  {
+    "id": 608348,
+    "name": "Carson Kelly",
+    "team": "Chicago Cubs",
+    "teamId": 112
+  },
+  {
+    "id": 623167,
+    "name": "Chris Flexen",
+    "team": "Chicago Cubs",
+    "teamId": 112
+  },
+  {
+    "id": 607067,
+    "name": "Colin Rea",
+    "team": "Chicago Cubs",
+    "teamId": 112
+  },
+  {
+    "id": 694037,
+    "name": "Daniel Palencia",
+    "team": "Chicago Cubs",
+    "teamId": 112
+  },
+  {
+    "id": 621020,
+    "name": "Dansby Swanson",
+    "team": "Chicago Cubs",
+    "teamId": 112
+  },
+  {
+    "id": 519141,
+    "name": "Drew Pomeranz",
+    "team": "Chicago Cubs",
+    "teamId": 112
+  },
+  {
+    "id": 669212,
+    "name": "Eli Morgan",
+    "team": "Chicago Cubs",
+    "teamId": 112
+  },
+  {
+    "id": 681799,
+    "name": "Ethan Roberts",
+    "team": "Chicago Cubs",
+    "teamId": 112
+  },
+  {
+    "id": 668970,
+    "name": "Gavin Hollowell",
+    "team": "Chicago Cubs",
+    "teamId": 112
+  },
+  {
+    "id": 664023,
+    "name": "Ian Happ",
+    "team": "Chicago Cubs",
+    "teamId": 112
+  },
+  {
+    "id": 680891,
+    "name": "Jack Neely",
+    "team": "Chicago Cubs",
+    "teamId": 112
+  },
+  {
+    "id": 592791,
+    "name": "Jameson Taillon",
+    "team": "Chicago Cubs",
+    "teamId": 112
+  },
+  {
+    "id": 665871,
+    "name": "Javier Assad",
+    "team": "Chicago Cubs",
+    "teamId": 112
+  },
+  {
+    "id": 542932,
+    "name": "Jon Berti",
+    "team": "Chicago Cubs",
+    "teamId": 112
+  },
+  {
+    "id": 696136,
+    "name": "Jordan Wicks",
+    "team": "Chicago Cubs",
+    "teamId": 112
+  },
+  {
+    "id": 657006,
+    "name": "Justin Steele",
+    "team": "Chicago Cubs",
+    "teamId": 112
+  },
+  {
+    "id": 457759,
+    "name": "Justin Turner",
+    "team": "Chicago Cubs",
+    "teamId": 112
+  },
+  {
+    "id": 682634,
+    "name": "Kevin Alcántara",
+    "team": "Chicago Cubs",
+    "teamId": 112
+  },
+  {
+    "id": 663656,
+    "name": "Kyle Tucker",
+    "team": "Chicago Cubs",
+    "teamId": 112
+  },
+  {
+    "id": 681432,
+    "name": "Luke Little",
+    "team": "Chicago Cubs",
+    "teamId": 112
+  },
+  {
+    "id": 807713,
+    "name": "Matt Shaw",
+    "team": "Chicago Cubs",
+    "teamId": 112
+  },
+  {
+    "id": 571510,
+    "name": "Matthew Boyd",
+    "team": "Chicago Cubs",
+    "teamId": 112
+  },
+  {
+    "id": 683737,
+    "name": "Michael Busch",
+    "team": "Chicago Cubs",
+    "teamId": 112
+  },
+  {
+    "id": 665804,
+    "name": "Miguel Amaya",
+    "team": "Chicago Cubs",
+    "teamId": 112
+  },
+  {
+    "id": 694208,
+    "name": "Moisés Ballesteros",
+    "team": "Chicago Cubs",
+    "teamId": 112
+  },
+  {
+    "id": 663878,
+    "name": "Nate Pearson",
+    "team": "Chicago Cubs",
+    "teamId": 112
+  },
+  {
+    "id": 663538,
+    "name": "Nico Hoerner",
+    "team": "Chicago Cubs",
+    "teamId": 112
+  },
+  {
+    "id": 683357,
+    "name": "Owen Caissie",
+    "team": "Chicago Cubs",
+    "teamId": 112
+  },
+  {
+    "id": 691718,
+    "name": "Pete Crow-Armstrong",
+    "team": "Chicago Cubs",
+    "teamId": 112
+  },
+  {
+    "id": 687863,
+    "name": "Porter Hodge",
+    "team": "Chicago Cubs",
+    "teamId": 112
+  },
+  {
+    "id": 624512,
+    "name": "Reese McGuire",
+    "team": "Chicago Cubs",
+    "teamId": 112
+  },
+  {
+    "id": 518489,
+    "name": "Ryan Brasier",
+    "team": "Chicago Cubs",
+    "teamId": 112
+  },
+  {
+    "id": 519151,
+    "name": "Ryan Pressly",
+    "team": "Chicago Cubs",
+    "teamId": 112
+  },
+  {
+    "id": 673548,
+    "name": "Seiya Suzuki",
+    "team": "Chicago Cubs",
+    "teamId": 112
+  },
+  {
+    "id": 684007,
+    "name": "Shota Imanaga",
+    "team": "Chicago Cubs",
+    "teamId": 112
+  },
+  {
+    "id": 676680,
+    "name": "Tom Cosgrove",
+    "team": "Chicago Cubs",
+    "teamId": 112
+  },
+  {
+    "id": 660644,
+    "name": "Vidal Bruján",
+    "team": "Chicago Cubs",
+    "teamId": 112
+  },
+  {
+    "id": 671096,
+    "name": "Andrew Abbott",
+    "team": "Cincinnati Reds",
+    "teamId": 113
+  },
+  {
+    "id": 669720,
+    "name": "Austin Hays",
+    "team": "Cincinnati Reds",
+    "teamId": 113
+  },
+  {
+    "id": 694362,
+    "name": "Blake Dunn",
+    "team": "Cincinnati Reds",
+    "teamId": 113
+  },
+  {
+    "id": 663903,
+    "name": "Brady Singer",
+    "team": "Cincinnati Reds",
+    "teamId": 113
+  },
+  {
+    "id": 682227,
+    "name": "Brandon Williamson",
+    "team": "Cincinnati Reds",
+    "teamId": 113
+  },
+  {
+    "id": 608718,
+    "name": "Brent Suter",
+    "team": "Cincinnati Reds",
+    "teamId": 113
+  },
+  {
+    "id": 687003,
+    "name": "Brian Van Belle",
+    "team": "Cincinnati Reds",
+    "teamId": 113
+  },
+  {
+    "id": 686730,
+    "name": "Carson Spiers",
+    "team": "Cincinnati Reds",
+    "teamId": 113
+  },
+  {
+    "id": 695505,
+    "name": "Chase Burns",
+    "team": "Cincinnati Reds",
+    "teamId": 113
+  },
+  {
+    "id": 695534,
+    "name": "Chase Petty",
+    "team": "Cincinnati Reds",
+    "teamId": 113
+  },
+  {
+    "id": 687952,
+    "name": "Christian Encarnacion-Strand",
+    "team": "Cincinnati Reds",
+    "teamId": 113
+  },
+  {
+    "id": 656582,
+    "name": "Connor Joe",
+    "team": "Cincinnati Reds",
+    "teamId": 113
+  },
+  {
+    "id": 683175,
+    "name": "Connor Phillips",
+    "team": "Cincinnati Reds",
+    "teamId": 113
+  },
+  {
+    "id": 682829,
+    "name": "Elly De La Cruz",
+    "team": "Cincinnati Reds",
+    "teamId": 113
+  },
+  {
+    "id": 641941,
+    "name": "Emilio Pagán",
+    "team": "Cincinnati Reds",
+    "teamId": 113
+  },
+  {
+    "id": 666158,
+    "name": "Gavin Lux",
+    "team": "Cincinnati Reds",
+    "teamId": 113
+  },
+  {
+    "id": 668933,
+    "name": "Graham Ashcraft",
+    "team": "Cincinnati Reds",
+    "teamId": 113
+  },
+  {
+    "id": 668881,
+    "name": "Hunter Greene",
+    "team": "Cincinnati Reds",
+    "teamId": 113
+  },
+  {
+    "id": 664139,
+    "name": "Ian Gibaut",
+    "team": "Cincinnati Reds",
+    "teamId": 113
+  },
+  {
+    "id": 641584,
+    "name": "Jake Fraley",
+    "team": "Cincinnati Reds",
+    "teamId": 113
+  },
+  {
+    "id": 686747,
+    "name": "Joe La Sorsa",
+    "team": "Cincinnati Reds",
+    "teamId": 113
+  },
+  {
+    "id": 624431,
+    "name": "Jose Trevino",
+    "team": "Cincinnati Reds",
+    "teamId": 113
+  },
+  {
+    "id": 687924,
+    "name": "Julian Aguiar",
+    "team": "Cincinnati Reds",
+    "teamId": 113
+  },
+  {
+    "id": 682825,
+    "name": "Luis Mey",
+    "team": "Cincinnati Reds",
+    "teamId": 113
+  },
+  {
+    "id": 680689,
+    "name": "Lyon Richardson",
+    "team": "Cincinnati Reds",
+    "teamId": 113
+  },
+  {
+    "id": 680574,
+    "name": "Matt McLain",
+    "team": "Cincinnati Reds",
+    "teamId": 113
+  },
+  {
+    "id": 666157,
+    "name": "Nick Lodolo",
+    "team": "Cincinnati Reds",
+    "teamId": 113
+  },
+  {
+    "id": 607259,
+    "name": "Nick Martinez",
+    "team": "Cincinnati Reds",
+    "teamId": 113
+  },
+  {
+    "id": 682622,
+    "name": "Noelvi Marte",
+    "team": "Cincinnati Reds",
+    "teamId": 113
+  },
+  {
+    "id": 677956,
+    "name": "Rece Hinds",
+    "team": "Cincinnati Reds",
+    "teamId": 113
+  },
+  {
+    "id": 695076,
+    "name": "Rhett Lowder",
+    "team": "Cincinnati Reds",
+    "teamId": 113
+  },
+  {
+    "id": 668723,
+    "name": "Ryan Vilade",
+    "team": "Cincinnati Reds",
+    "teamId": 113
+  },
+  {
+    "id": 594580,
+    "name": "Sam Moll",
+    "team": "Cincinnati Reds",
+    "teamId": 113
+  },
+  {
+    "id": 669289,
+    "name": "Santiago Espinal",
+    "team": "Cincinnati Reds",
+    "teamId": 113
+  },
+  {
+    "id": 605130,
+    "name": "Scott Barlow",
+    "team": "Cincinnati Reds",
+    "teamId": 113
+  },
+  {
+    "id": 668715,
+    "name": "Spencer Steer",
+    "team": "Cincinnati Reds",
+    "teamId": 113
+  },
+  {
+    "id": 670770,
+    "name": "TJ Friedl",
+    "team": "Cincinnati Reds",
+    "teamId": 113
+  },
+  {
+    "id": 573124,
+    "name": "Taylor Rogers",
+    "team": "Cincinnati Reds",
+    "teamId": 113
+  },
+  {
+    "id": 663574,
+    "name": "Tony Santillan",
+    "team": "Cincinnati Reds",
+    "teamId": 113
+  },
+  {
+    "id": 682997,
+    "name": "Tyler Callihan",
+    "team": "Cincinnati Reds",
+    "teamId": 113
+  },
+  {
+    "id": 663886,
+    "name": "Tyler Stephenson",
+    "team": "Cincinnati Reds",
+    "teamId": 113
+  },
+  {
+    "id": 489119,
+    "name": "Wade Miley",
+    "team": "Cincinnati Reds",
+    "teamId": 113
+  },
+  {
+    "id": 666181,
+    "name": "Will Benson",
+    "team": "Cincinnati Reds",
+    "teamId": 113
+  },
+  {
+    "id": 691172,
+    "name": "Yosver Zulueta",
+    "team": "Cincinnati Reds",
+    "teamId": 113
+  },
+  {
+    "id": 689958,
+    "name": "Andrew Walters",
+    "team": "Cleveland Guardians",
+    "teamId": 114
+  },
+  {
+    "id": 682657,
+    "name": "Angel Martínez",
+    "team": "Cleveland Guardians",
+    "teamId": 114
+  },
+  {
+    "id": 595978,
+    "name": "Austin Hedges",
+    "team": "Cleveland Guardians",
+    "teamId": 114
+  },
+  {
+    "id": 594902,
+    "name": "Ben Lively",
+    "team": "Cleveland Guardians",
+    "teamId": 114
+  },
+  {
+    "id": 666310,
+    "name": "Bo Naylor",
+    "team": "Cleveland Guardians",
+    "teamId": 114
+  },
+  {
+    "id": 677587,
+    "name": "Brayan Rocchio",
+    "team": "Cleveland Guardians",
+    "teamId": 114
+  },
+  {
+    "id": 671922,
+    "name": "Cade Smith",
+    "team": "Cleveland Guardians",
+    "teamId": 114
+  },
+  {
+    "id": 467793,
+    "name": "Carlos Santana",
+    "team": "Cleveland Guardians",
+    "teamId": 114
+  },
+  {
+    "id": 682982,
+    "name": "Daniel Espino",
+    "team": "Cleveland Guardians",
+    "teamId": 114
+  },
+  {
+    "id": 682177,
+    "name": "Daniel Schneemann",
+    "team": "Cleveland Guardians",
+    "teamId": 114
+  },
+  {
+    "id": 681807,
+    "name": "David Fry",
+    "team": "Cleveland Guardians",
+    "teamId": 114
+  },
+  {
+    "id": 624513,
+    "name": "Dom Nuñez",
+    "team": "Cleveland Guardians",
+    "teamId": 114
+  },
+  {
+    "id": 680951,
+    "name": "Doug Nikhazy",
+    "team": "Cleveland Guardians",
+    "teamId": 114
+  },
+  {
+    "id": 661403,
+    "name": "Emmanuel Clase",
+    "team": "Cleveland Guardians",
+    "teamId": 114
+  },
+  {
+    "id": 681870,
+    "name": "Erik Sabrowski",
+    "team": "Cleveland Guardians",
+    "teamId": 114
+  },
+  {
+    "id": 680916,
+    "name": "Franco Aleman",
+    "team": "Cleveland Guardians",
+    "teamId": 114
+  },
+  {
+    "id": 672356,
+    "name": "Gabriel Arias",
+    "team": "Cleveland Guardians",
+    "teamId": 114
+  },
+  {
+    "id": 668909,
+    "name": "Gavin Williams",
+    "team": "Cleveland Guardians",
+    "teamId": 114
+  },
+  {
+    "id": 683769,
+    "name": "Hunter Gaddis",
+    "team": "Cleveland Guardians",
+    "teamId": 114
+  },
+  {
+    "id": 596001,
+    "name": "Jakob Junis",
+    "team": "Cleveland Guardians",
+    "teamId": 114
+  },
+  {
+    "id": 678877,
+    "name": "Jhonkensy Noel",
+    "team": "Cleveland Guardians",
+    "teamId": 114
+  },
+  {
+    "id": 676282,
+    "name": "Joey Cantillo",
+    "team": "Cleveland Guardians",
+    "teamId": 114
+  },
+  {
+    "id": 607644,
+    "name": "John Means",
+    "team": "Cleveland Guardians",
+    "teamId": 114
+  },
+  {
+    "id": 671286,
+    "name": "Johnathan Rodríguez",
+    "team": "Cleveland Guardians",
+    "teamId": 114
+  },
+  {
+    "id": 608070,
+    "name": "José Ramírez",
+    "team": "Cleveland Guardians",
+    "teamId": 114
+  },
+  {
+    "id": 682877,
+    "name": "Juan Brito",
+    "team": "Cleveland Guardians",
+    "teamId": 114
+  },
+  {
+    "id": 663465,
+    "name": "Kolby Allard",
+    "team": "Cleveland Guardians",
+    "teamId": 114
+  },
+  {
+    "id": 700932,
+    "name": "Kyle Manzardo",
+    "team": "Cleveland Guardians",
+    "teamId": 114
+  },
+  {
+    "id": 657041,
+    "name": "Lane Thomas",
+    "team": "Cleveland Guardians",
+    "teamId": 114
+  },
+  {
+    "id": 671106,
+    "name": "Logan Allen",
+    "team": "Cleveland Guardians",
+    "teamId": 114
+  },
+  {
+    "id": 682847,
+    "name": "Luis L. Ortiz",
+    "team": "Cleveland Guardians",
+    "teamId": 114
+  },
+  {
+    "id": 670036,
+    "name": "Matt Festa",
+    "team": "Cleveland Guardians",
+    "teamId": 114
+  },
+  {
+    "id": 640454,
+    "name": "Matt Krook",
+    "team": "Cleveland Guardians",
+    "teamId": 114
+  },
+  {
+    "id": 663671,
+    "name": "Nic Enright",
+    "team": "Cleveland Guardians",
+    "teamId": 114
+  },
+  {
+    "id": 666134,
+    "name": "Nolan Jones",
+    "team": "Cleveland Guardians",
+    "teamId": 114
+  },
+  {
+    "id": 623149,
+    "name": "Paul Sewald",
+    "team": "Cleveland Guardians",
+    "teamId": 114
+  },
+  {
+    "id": 690984,
+    "name": "Petey Halpin",
+    "team": "Cleveland Guardians",
+    "teamId": 114
+  },
+  {
+    "id": 656529,
+    "name": "Sam Hentges",
+    "team": "Cleveland Guardians",
+    "teamId": 114
+  },
+  {
+    "id": 669456,
+    "name": "Shane Bieber",
+    "team": "Cleveland Guardians",
+    "teamId": 114
+  },
+  {
+    "id": 677944,
+    "name": "Slade Cecconi",
+    "team": "Cleveland Guardians",
+    "teamId": 114
+  },
+  {
+    "id": 680757,
+    "name": "Steven Kwan",
+    "team": "Cleveland Guardians",
+    "teamId": 114
+  },
+  {
+    "id": 676440,
+    "name": "Tanner Bibee",
+    "team": "Cleveland Guardians",
+    "teamId": 114
+  },
+  {
+    "id": 682120,
+    "name": "Tim Herrin",
+    "team": "Cleveland Guardians",
+    "teamId": 114
+  },
+  {
+    "id": 663986,
+    "name": "Trevor Stephan",
+    "team": "Cleveland Guardians",
+    "teamId": 114
+  },
+  {
+    "id": 686823,
+    "name": "Will Brennan",
+    "team": "Cleveland Guardians",
+    "teamId": 114
+  },
+  {
+    "id": 669717,
+    "name": "Will Wilson",
+    "team": "Cleveland Guardians",
+    "teamId": 114
+  },
+  {
+    "id": 687849,
+    "name": "Zak Kent",
+    "team": "Cleveland Guardians",
+    "teamId": 114
+  },
+  {
+    "id": 691182,
+    "name": "Adael Amador",
+    "team": "Colorado Rockies",
+    "teamId": 115
+  },
+  {
+    "id": 683409,
+    "name": "Angel Chivilli",
+    "team": "Colorado Rockies",
+    "teamId": 115
+  },
+  {
+    "id": 683627,
+    "name": "Anthony Molina",
+    "team": "Colorado Rockies",
+    "teamId": 115
+  },
+  {
+    "id": 622608,
+    "name": "Antonio Senzatela",
+    "team": "Colorado Rockies",
+    "teamId": 115
+  },
+  {
+    "id": 596295,
+    "name": "Austin Gomber",
+    "team": "Colorado Rockies",
+    "teamId": 115
+  },
+  {
+    "id": 687134,
+    "name": "Bradley Blalock",
+    "team": "Colorado Rockies",
+    "teamId": 115
+  },
+  {
+    "id": 690924,
+    "name": "Braxton Fulford",
+    "team": "Colorado Rockies",
+    "teamId": 115
+  },
+  {
+    "id": 686668,
+    "name": "Brenton Doyle",
+    "team": "Colorado Rockies",
+    "teamId": 115
+  },
+  {
+    "id": 687223,
+    "name": "Carson Palmquist",
+    "team": "Colorado Rockies",
+    "teamId": 115
+  },
+  {
+    "id": 801403,
+    "name": "Chase Dollander",
+    "team": "Colorado Rockies",
+    "teamId": 115
+  },
+  {
+    "id": 691011,
+    "name": "Drew Romo",
+    "team": "Colorado Rockies",
+    "teamId": 115
+  },
+  {
+    "id": 678662,
+    "name": "Ezequiel Tovar",
+    "team": "Colorado Rockies",
+    "teamId": 115
+  },
+  {
+    "id": 608566,
+    "name": "Germán Márquez",
+    "team": "Colorado Rockies",
+    "teamId": 115
+  },
+  {
+    "id": 696100,
+    "name": "Hunter Goodman",
+    "team": "Colorado Rockies",
+    "teamId": 115
+  },
+  {
+    "id": 677955,
+    "name": "Jaden Hill",
+    "team": "Colorado Rockies",
+    "teamId": 115
+  },
+  {
+    "id": 656234,
+    "name": "Jake Bird",
+    "team": "Colorado Rockies",
+    "teamId": 115
+  },
+  {
+    "id": 676105,
+    "name": "Jeff Criswell",
+    "team": "Colorado Rockies",
+    "teamId": 115
+  },
+  {
+    "id": 623474,
+    "name": "Jimmy Herget",
+    "team": "Colorado Rockies",
+    "teamId": 115
+  },
+  {
+    "id": 687597,
+    "name": "Jordan Beck",
+    "team": "Colorado Rockies",
+    "teamId": 115
+  },
+  {
+    "id": 675848,
+    "name": "Juan Mejia",
+    "team": "Colorado Rockies",
+    "teamId": 115
+  },
+  {
+    "id": 592178,
+    "name": "Kris Bryant",
+    "team": "Colorado Rockies",
+    "teamId": 115
+  },
+  {
+    "id": 571657,
+    "name": "Kyle Farmer",
+    "team": "Colorado Rockies",
+    "teamId": 115
+  },
+  {
+    "id": 607536,
+    "name": "Kyle Freeland",
+    "team": "Colorado Rockies",
+    "teamId": 115
+  },
+  {
+    "id": 678821,
+    "name": "Luis Peralta",
+    "team": "Colorado Rockies",
+    "teamId": 115
+  },
+  {
+    "id": 669911,
+    "name": "Michael Toglia",
+    "team": "Colorado Rockies",
+    "teamId": 115
+  },
+  {
+    "id": 666160,
+    "name": "Mickey Moniak",
+    "team": "Colorado Rockies",
+    "teamId": 115
+  },
+  {
+    "id": 606115,
+    "name": "Orlando Arcia",
+    "team": "Colorado Rockies",
+    "teamId": 115
+  },
+  {
+    "id": 663372,
+    "name": "Ryan Feltner",
+    "team": "Colorado Rockies",
+    "teamId": 115
+  },
+  {
+    "id": 641857,
+    "name": "Ryan McMahon",
+    "team": "Colorado Rockies",
+    "teamId": 115
+  },
+  {
+    "id": 690022,
+    "name": "Ryan Ritter",
+    "team": "Colorado Rockies",
+    "teamId": 115
+  },
+  {
+    "id": 669020,
+    "name": "Ryan Rolison",
+    "team": "Colorado Rockies",
+    "teamId": 115
+  },
+  {
+    "id": 656541,
+    "name": "Sam Hilliard",
+    "team": "Colorado Rockies",
+    "teamId": 115
+  },
+  {
+    "id": 656248,
+    "name": "Sean Bouchard",
+    "team": "Colorado Rockies",
+    "teamId": 115
+  },
+  {
+    "id": 678020,
+    "name": "Seth Halvorsen",
+    "team": "Colorado Rockies",
+    "teamId": 115
+  },
+  {
+    "id": 685299,
+    "name": "Tanner Gordon",
+    "team": "Colorado Rockies",
+    "teamId": 115
+  },
+  {
+    "id": 642731,
+    "name": "Thairo Estrada",
+    "team": "Colorado Rockies",
+    "teamId": 115
+  },
+  {
+    "id": 671289,
+    "name": "Tyler Freeman",
+    "team": "Colorado Rockies",
+    "teamId": 115
+  },
+  {
+    "id": 641755,
+    "name": "Tyler Kinley",
+    "team": "Colorado Rockies",
+    "teamId": 115
+  },
+  {
+    "id": 680767,
+    "name": "Victor Vodnik",
+    "team": "Colorado Rockies",
+    "teamId": 115
+  },
+  {
+    "id": 692585,
+    "name": "Yanquiel Fernández",
+    "team": "Colorado Rockies",
+    "teamId": 115
+  },
+  {
+    "id": 691728,
+    "name": "Zac Veen",
+    "team": "Colorado Rockies",
+    "teamId": 115
+  },
+  {
+    "id": 688642,
+    "name": "Zach Agnos",
+    "team": "Colorado Rockies",
+    "teamId": 115
+  },
+  {
+    "id": 502171,
+    "name": "Alex Cobb",
+    "team": "Detroit Tigers",
+    "teamId": 116
+  },
+  {
+    "id": 656638,
+    "name": "Alex Lange",
+    "team": "Detroit Tigers",
+    "teamId": 116
+  },
+  {
+    "id": 628451,
+    "name": "Andy Ibáñez",
+    "team": "Detroit Tigers",
+    "teamId": 116
+  },
+  {
+    "id": 690544,
+    "name": "Bailey Horn",
+    "team": "Detroit Tigers",
+    "teamId": 116
+  },
+  {
+    "id": 689225,
+    "name": "Beau Brieske",
+    "team": "Detroit Tigers",
+    "teamId": 116
+  },
+  {
+    "id": 676428,
+    "name": "Brant Hurter",
+    "team": "Detroit Tigers",
+    "teamId": 116
+  },
+  {
+    "id": 669724,
+    "name": "Brenan Hanifee",
+    "team": "Detroit Tigers",
+    "teamId": 116
+  },
+  {
+    "id": 676551,
+    "name": "Brewer Hicklen",
+    "team": "Detroit Tigers",
+    "teamId": 116
+  },
+  {
+    "id": 672578,
+    "name": "Carlos Hernández",
+    "team": "Detroit Tigers",
+    "teamId": 116
+  },
+  {
+    "id": 663554,
+    "name": "Casey Mize",
+    "team": "Detroit Tigers",
+    "teamId": 116
+  },
+  {
+    "id": 695445,
+    "name": "Chase Lee",
+    "team": "Detroit Tigers",
+    "teamId": 116
+  },
+  {
+    "id": 690993,
+    "name": "Colt Keith",
+    "team": "Detroit Tigers",
+    "teamId": 116
+  },
+  {
+    "id": 608650,
+    "name": "Dietrich Enns",
+    "team": "Detroit Tigers",
+    "teamId": 116
+  },
+  {
+    "id": 693307,
+    "name": "Dillon Dingler",
+    "team": "Detroit Tigers",
+    "teamId": 116
+  },
+  {
+    "id": 681916,
+    "name": "Dylan Smith",
+    "team": "Detroit Tigers",
+    "teamId": 116
+  },
+  {
+    "id": 650402,
+    "name": "Gleyber Torres",
+    "team": "Detroit Tigers",
+    "teamId": 116
+  },
+  {
+    "id": 690291,
+    "name": "Jace Jung",
+    "team": "Detroit Tigers",
+    "teamId": 116
+  },
+  {
+    "id": 656427,
+    "name": "Jack Flaherty",
+    "team": "Detroit Tigers",
+    "teamId": 116
+  },
+  {
+    "id": 695549,
+    "name": "Jackson Jobe",
+    "team": "Detroit Tigers",
+    "teamId": 116
+  },
+  {
+    "id": 663330,
+    "name": "Jahmai Jones",
+    "team": "Detroit Tigers",
+    "teamId": 116
+  },
+  {
+    "id": 668670,
+    "name": "Jake Rogers",
+    "team": "Detroit Tigers",
+    "teamId": 116
+  },
+  {
+    "id": 671345,
+    "name": "Jason Foley",
+    "team": "Detroit Tigers",
+    "teamId": 116
+  },
+  {
+    "id": 595879,
+    "name": "Javier Báez",
+    "team": "Detroit Tigers",
+    "teamId": 116
+  },
+  {
+    "id": 664353,
+    "name": "José Urquidy",
+    "team": "Detroit Tigers",
+    "teamId": 116
+  },
+  {
+    "id": 669234,
+    "name": "Justyn-Henry Malloy",
+    "team": "Detroit Tigers",
+    "teamId": 116
+  },
+  {
+    "id": 672456,
+    "name": "Keider Montero",
+    "team": "Detroit Tigers",
+    "teamId": 116
+  },
+  {
+    "id": 681481,
+    "name": "Kerry Carpenter",
+    "team": "Detroit Tigers",
+    "teamId": 116
+  },
+  {
+    "id": 666159,
+    "name": "Matt Manning",
+    "team": "Detroit Tigers",
+    "teamId": 116
+  },
+  {
+    "id": 663837,
+    "name": "Matt Vierling",
+    "team": "Detroit Tigers",
+    "teamId": 116
+  },
+  {
+    "id": 678009,
+    "name": "Parker Meadows",
+    "team": "Detroit Tigers",
+    "teamId": 116
+  },
+  {
+    "id": 681857,
+    "name": "Reese Olson",
+    "team": "Detroit Tigers",
+    "teamId": 116
+  },
+  {
+    "id": 682985,
+    "name": "Riley Greene",
+    "team": "Detroit Tigers",
+    "teamId": 116
+  },
+  {
+    "id": 668952,
+    "name": "Ryan Kreidler",
+    "team": "Detroit Tigers",
+    "teamId": 116
+  },
+  {
+    "id": 687830,
+    "name": "Sawyer Gipson-Long",
+    "team": "Detroit Tigers",
+    "teamId": 116
+  },
+  {
+    "id": 674944,
+    "name": "Sean Guenther",
+    "team": "Detroit Tigers",
+    "teamId": 116
+  },
+  {
+    "id": 679529,
+    "name": "Spencer Torkelson",
+    "team": "Detroit Tigers",
+    "teamId": 116
+  },
+  {
+    "id": 669373,
+    "name": "Tarik Skubal",
+    "team": "Detroit Tigers",
+    "teamId": 116
+  },
+  {
+    "id": 592454,
+    "name": "Tommy Kahnle",
+    "team": "Detroit Tigers",
+    "teamId": 116
+  },
+  {
+    "id": 700242,
+    "name": "Trey Sweeney",
+    "team": "Detroit Tigers",
+    "teamId": 116
+  },
+  {
+    "id": 680744,
+    "name": "Ty Madden",
+    "team": "Detroit Tigers",
+    "teamId": 116
+  },
+  {
+    "id": 663947,
+    "name": "Tyler Holton",
+    "team": "Detroit Tigers",
+    "teamId": 116
+  },
+  {
+    "id": 694331,
+    "name": "Tyler Mattison",
+    "team": "Detroit Tigers",
+    "teamId": 116
+  },
+  {
+    "id": 687074,
+    "name": "Tyler Owens",
+    "team": "Detroit Tigers",
+    "teamId": 116
+  },
+  {
+    "id": 672761,
+    "name": "Wenceel Pérez",
+    "team": "Detroit Tigers",
+    "teamId": 116
+  },
+  {
+    "id": 676684,
+    "name": "Will Vest",
+    "team": "Detroit Tigers",
+    "teamId": 116
+  },
+  {
+    "id": 656716,
+    "name": "Zach McKinstry",
+    "team": "Detroit Tigers",
+    "teamId": 116
+  },
+  {
+    "id": 805123,
+    "name": "AJ Blubaugh",
+    "team": "Houston Astros",
+    "teamId": 117
+  },
+  {
+    "id": 656986,
+    "name": "Bennett Sousa",
+    "team": "Houston Astros",
+    "teamId": 117
+  },
+  {
+    "id": 687888,
+    "name": "Brandon Walter",
+    "team": "Houston Astros",
+    "teamId": 117
+  },
+  {
+    "id": 663898,
+    "name": "Brendan Rodgers",
+    "team": "Houston Astros",
+    "teamId": 117
+  },
+  {
+    "id": 650556,
+    "name": "Bryan Abreu",
+    "team": "Houston Astros",
+    "teamId": 117
+  },
+  {
+    "id": 687911,
+    "name": "Bryan King",
+    "team": "Houston Astros",
+    "teamId": 117
+  },
+  {
+    "id": 701358,
+    "name": "Cam Smith",
+    "team": "Houston Astros",
+    "teamId": 117
+  },
+  {
+    "id": 663967,
+    "name": "César Salazar",
+    "team": "Houston Astros",
+    "teamId": 117
+  },
+  {
+    "id": 676801,
+    "name": "Chas McCormick",
+    "team": "Houston Astros",
+    "teamId": 117
+  },
+  {
+    "id": 572233,
+    "name": "Christian Walker",
+    "team": "Houston Astros",
+    "teamId": 117
+  },
+  {
+    "id": 676467,
+    "name": "Colton Gordon",
+    "team": "Houston Astros",
+    "teamId": 117
+  },
+  {
+    "id": 669450,
+    "name": "Cooper Hummel",
+    "team": "Houston Astros",
+    "teamId": 117
+  },
+  {
+    "id": 664299,
+    "name": "Cristian Javier",
+    "team": "Houston Astros",
+    "teamId": 117
+  },
+  {
+    "id": 664285,
+    "name": "Framber Valdez",
+    "team": "Houston Astros",
+    "teamId": 117
+  },
+  {
+    "id": 669713,
+    "name": "Hayden Wesneski",
+    "team": "Houston Astros",
+    "teamId": 117
+  },
+  {
+    "id": 686613,
+    "name": "Hunter Brown",
+    "team": "Houston Astros",
+    "teamId": 117
+  },
+  {
+    "id": 670623,
+    "name": "Isaac Paredes",
+    "team": "Houston Astros",
+    "teamId": 117
+  },
+  {
+    "id": 641585,
+    "name": "J.P. France",
+    "team": "Houston Astros",
+    "teamId": 117
+  },
+  {
+    "id": 689200,
+    "name": "Jacob Melton",
+    "team": "Houston Astros",
+    "teamId": 117
+  },
+  {
+    "id": 676694,
+    "name": "Jake Meyers",
+    "team": "Houston Astros",
+    "teamId": 117
+  },
+  {
+    "id": 669920,
+    "name": "Jason Alexander",
+    "team": "Houston Astros",
+    "teamId": 117
+  },
+  {
+    "id": 665161,
+    "name": "Jeremy Peña",
+    "team": "Houston Astros",
+    "teamId": 117
+  },
+  {
+    "id": 607179,
+    "name": "Jordan Weems",
+    "team": "Houston Astros",
+    "teamId": 117
+  },
+  {
+    "id": 514888,
+    "name": "Jose Altuve",
+    "team": "Houston Astros",
+    "teamId": 117
+  },
+  {
+    "id": 623352,
+    "name": "Josh Hader",
+    "team": "Houston Astros",
+    "teamId": 117
+  },
+  {
+    "id": 672391,
+    "name": "Kaleb Ort",
+    "team": "Houston Astros",
+    "teamId": 117
+  },
+  {
+    "id": 685744,
+    "name": "Kenedy Corona",
+    "team": "Houston Astros",
+    "teamId": 117
+  },
+  {
+    "id": 621121,
+    "name": "Lance McCullers Jr.",
+    "team": "Houston Astros",
+    "teamId": 117
+  },
+  {
+    "id": 701121,
+    "name": "Logan VanWey",
+    "team": "Houston Astros",
+    "teamId": 117
+  },
+  {
+    "id": 664351,
+    "name": "Luis Contreras",
+    "team": "Houston Astros",
+    "teamId": 117
+  },
+  {
+    "id": 677651,
+    "name": "Luis Garcia",
+    "team": "Houston Astros",
+    "teamId": 117
+  },
+  {
+    "id": 641645,
+    "name": "Luis Guillorme",
+    "team": "Houston Astros",
+    "teamId": 117
+  },
+  {
+    "id": 643289,
+    "name": "Mauricio Dubón",
+    "team": "Houston Astros",
+    "teamId": 117
+  },
+  {
+    "id": 663321,
+    "name": "Nick Hernandez",
+    "team": "Houston Astros",
+    "teamId": 117
+  },
+  {
+    "id": 687798,
+    "name": "Nick Robertson",
+    "team": "Houston Astros",
+    "teamId": 117
+  },
+  {
+    "id": 694175,
+    "name": "Pedro León",
+    "team": "Houston Astros",
+    "teamId": 117
+  },
+  {
+    "id": 669854,
+    "name": "Ronel Blanco",
+    "team": "Houston Astros",
+    "teamId": 117
+  },
+  {
+    "id": 687473,
+    "name": "Ryan Gusto",
+    "team": "Houston Astros",
+    "teamId": 117
+  },
+  {
+    "id": 681869,
+    "name": "Shawn Dubin",
+    "team": "Houston Astros",
+    "teamId": 117
+  },
+  {
+    "id": 694376,
+    "name": "Shay Whitcomb",
+    "team": "Houston Astros",
+    "teamId": 117
+  },
+  {
+    "id": 681293,
+    "name": "Spencer Arrighetti",
+    "team": "Houston Astros",
+    "teamId": 117
+  },
+  {
+    "id": 595345,
+    "name": "Steven Okert",
+    "team": "Houston Astros",
+    "teamId": 117
+  },
+  {
+    "id": 666211,
+    "name": "Taylor Trammell",
+    "team": "Houston Astros",
+    "teamId": 117
+  },
+  {
+    "id": 605170,
+    "name": "Victor Caratini",
+    "team": "Houston Astros",
+    "teamId": 117
+  },
+  {
+    "id": 673237,
+    "name": "Yainer Diaz",
+    "team": "Houston Astros",
+    "teamId": 117
+  },
+  {
+    "id": 670541,
+    "name": "Yordan Alvarez",
+    "team": "Houston Astros",
+    "teamId": 117
+  },
+  {
+    "id": 701305,
+    "name": "Zach Dezenzo",
+    "team": "Houston Astros",
+    "teamId": 117
+  },
+  {
+    "id": 679525,
+    "name": "Alec Marsh",
+    "team": "Kansas City Royals",
+    "teamId": 118
+  },
+  {
+    "id": 694851,
+    "name": "Andrew Hoffmann",
+    "team": "Kansas City Royals",
+    "teamId": 118
+  },
+  {
+    "id": 672582,
+    "name": "Angel Zerpa",
+    "team": "Kansas City Royals",
+    "teamId": 118
+  },
+  {
+    "id": 677951,
+    "name": "Bobby Witt Jr.",
+    "team": "Kansas City Royals",
+    "teamId": 118
+  },
+  {
+    "id": 608032,
+    "name": "Carlos Estévez",
+    "team": "Kansas City Royals",
+    "teamId": 118
+  },
+  {
+    "id": 624415,
+    "name": "Cavan Biggio",
+    "team": "Kansas City Royals",
+    "teamId": 118
+  },
+  {
+    "id": 666142,
+    "name": "Cole Ragans",
+    "team": "Kansas City Royals",
+    "teamId": 118
+  },
+  {
+    "id": 680118,
+    "name": "Dairon Blanco",
+    "team": "Kansas City Royals",
+    "teamId": 118
+  },
+  {
+    "id": 663738,
+    "name": "Daniel Lynch IV",
+    "team": "Kansas City Royals",
+    "teamId": 118
+  },
+  {
+    "id": 671221,
+    "name": "Drew Waters",
+    "team": "Kansas City Royals",
+    "teamId": 118
+  },
+  {
+    "id": 672021,
+    "name": "Eric Cerantola",
+    "team": "Kansas City Royals",
+    "teamId": 118
+  },
+  {
+    "id": 681895,
+    "name": "Evan Sisk",
+    "team": "Kansas City Royals",
+    "teamId": 118
+  },
+  {
+    "id": 666023,
+    "name": "Freddy Fermin",
+    "team": "Kansas City Royals",
+    "teamId": 118
+  },
+  {
+    "id": 640451,
+    "name": "Hunter Harvey",
+    "team": "Kansas City Royals",
+    "teamId": 118
+  },
+  {
+    "id": 695506,
+    "name": "Jac Caglianone",
+    "team": "Kansas City Royals",
+    "teamId": 118
+  },
+  {
+    "id": 663704,
+    "name": "James McArthur",
+    "team": "Kansas City Royals",
+    "teamId": 118
+  },
+  {
+    "id": 686894,
+    "name": "Joey Wiemer",
+    "team": "Kansas City Royals",
+    "teamId": 118
+  },
+  {
+    "id": 670231,
+    "name": "John Rave",
+    "team": "Kansas City Royals",
+    "teamId": 118
+  },
+  {
+    "id": 670167,
+    "name": "John Schreiber",
+    "team": "Kansas City Royals",
+    "teamId": 118
+  },
+  {
+    "id": 680742,
+    "name": "Jonathan Bowlan",
+    "team": "Kansas City Royals",
+    "teamId": 118
+  },
+  {
+    "id": 663697,
+    "name": "Jonathan India",
+    "team": "Kansas City Royals",
+    "teamId": 118
+  },
+  {
+    "id": 663460,
+    "name": "Kris Bubic",
+    "team": "Kansas City Royals",
+    "teamId": 118
+  },
+  {
+    "id": 664728,
+    "name": "Kyle Isbel",
+    "team": "Kansas City Royals",
+    "teamId": 118
+  },
+  {
+    "id": 657140,
+    "name": "Kyle Wright",
+    "team": "Kansas City Royals",
+    "teamId": 118
+  },
+  {
+    "id": 668674,
+    "name": "Lucas Erceg",
+    "team": "Kansas City Royals",
+    "teamId": 118
+  },
+  {
+    "id": 679883,
+    "name": "Luinder Avila",
+    "team": "Kansas City Royals",
+    "teamId": 118
+  },
+  {
+    "id": 669004,
+    "name": "MJ Melendez",
+    "team": "Kansas City Royals",
+    "teamId": 118
+  },
+  {
+    "id": 672580,
+    "name": "Maikel Garcia",
+    "team": "Kansas City Royals",
+    "teamId": 118
+  },
+  {
+    "id": 592192,
+    "name": "Mark Canha",
+    "team": "Kansas City Royals",
+    "teamId": 118
+  },
+  {
+    "id": 547179,
+    "name": "Michael Lorenzen",
+    "team": "Kansas City Royals",
+    "teamId": 118
+  },
+  {
+    "id": 686681,
+    "name": "Michael Massey",
+    "team": "Kansas City Royals",
+    "teamId": 118
+  },
+  {
+    "id": 608379,
+    "name": "Michael Wacha",
+    "team": "Kansas City Royals",
+    "teamId": 118
+  },
+  {
+    "id": 679845,
+    "name": "Nick Loftin",
+    "team": "Kansas City Royals",
+    "teamId": 118
+  },
+  {
+    "id": 702070,
+    "name": "Noah Cameron",
+    "team": "Kansas City Royals",
+    "teamId": 118
+  },
+  {
+    "id": 521692,
+    "name": "Salvador Perez",
+    "team": "Kansas City Royals",
+    "teamId": 118
+  },
+  {
+    "id": 669674,
+    "name": "Sam Long",
+    "team": "Kansas City Royals",
+    "teamId": 118
+  },
+  {
+    "id": 607625,
+    "name": "Seth Lugo",
+    "team": "Kansas City Royals",
+    "teamId": 118
+  },
+  {
+    "id": 674444,
+    "name": "Steven Cruz",
+    "team": "Kansas City Royals",
+    "teamId": 118
+  },
+  {
+    "id": 664199,
+    "name": "Taylor Clarke",
+    "team": "Kansas City Royals",
+    "teamId": 118
+  },
+  {
+    "id": 694355,
+    "name": "Tyler Gentry",
+    "team": "Kansas City Royals",
+    "teamId": 118
+  },
+  {
+    "id": 686475,
+    "name": "Tyler Tolbert",
+    "team": "Kansas City Royals",
+    "teamId": 118
+  },
+  {
+    "id": 686469,
+    "name": "Vinnie Pasquantino",
+    "team": "Kansas City Royals",
+    "teamId": 118
+  },
+  {
+    "id": 681911,
+    "name": "Alex Vesia",
+    "team": "Los Angeles Dodgers",
+    "teamId": 119
+  },
+  {
+    "id": 664747,
+    "name": "Alexis Díaz",
+    "team": "Los Angeles Dodgers",
+    "teamId": 119
+  },
+  {
+    "id": 681624,
+    "name": "Andy Pages",
+    "team": "Los Angeles Dodgers",
+    "teamId": 119
+  },
+  {
+    "id": 607455,
+    "name": "Anthony Banda",
+    "team": "Los Angeles Dodgers",
+    "teamId": 119
+  },
+  {
+    "id": 676508,
+    "name": "Ben Casparius",
+    "team": "Los Angeles Dodgers",
+    "teamId": 119
+  },
+  {
+    "id": 605483,
+    "name": "Blake Snell",
+    "team": "Los Angeles Dodgers",
+    "teamId": 119
+  },
+  {
+    "id": 595014,
+    "name": "Blake Treinen",
+    "team": "Los Angeles Dodgers",
+    "teamId": 119
+  },
+  {
+    "id": 676272,
+    "name": "Bobby Miller",
+    "team": "Los Angeles Dodgers",
+    "teamId": 119
+  },
+  {
+    "id": 660813,
+    "name": "Brusdar Graterol",
+    "team": "Los Angeles Dodgers",
+    "teamId": 119
+  },
+  {
+    "id": 477132,
+    "name": "Clayton Kershaw",
+    "team": "Los Angeles Dodgers",
+    "teamId": 119
+  },
+  {
+    "id": 687221,
+    "name": "Dalton Rushing",
+    "team": "Los Angeles Dodgers",
+    "teamId": 119
+  },
+  {
+    "id": 669160,
+    "name": "Dustin May",
+    "team": "Los Angeles Dodgers",
+    "teamId": 119
+  },
+  {
+    "id": 683618,
+    "name": "Edgardo Henriquez",
+    "team": "Los Angeles Dodgers",
+    "teamId": 119
+  },
+  {
+    "id": 686218,
+    "name": "Emmet Sheehan",
+    "team": "Los Angeles Dodgers",
+    "teamId": 119
+  },
+  {
+    "id": 571771,
+    "name": "Enrique Hernández",
+    "team": "Los Angeles Dodgers",
+    "teamId": 119
+  },
+  {
+    "id": 665923,
+    "name": "Esteury Ruiz",
+    "team": "Los Angeles Dodgers",
+    "teamId": 119
+  },
+  {
+    "id": 623465,
+    "name": "Evan Phillips",
+    "team": "Los Angeles Dodgers",
+    "teamId": 119
+  },
+  {
+    "id": 518692,
+    "name": "Freddie Freeman",
+    "team": "Los Angeles Dodgers",
+    "teamId": 119
+  },
+  {
+    "id": 694813,
+    "name": "Gavin Stone",
+    "team": "Los Angeles Dodgers",
+    "teamId": 119
+  },
+  {
+    "id": 676439,
+    "name": "Hunter Feduccia",
+    "team": "Los Angeles Dodgers",
+    "teamId": 119
+  },
+  {
+    "id": 808975,
+    "name": "Hyeseong Kim",
+    "team": "Los Angeles Dodgers",
+    "teamId": 119
+  },
+  {
+    "id": 676263,
+    "name": "Jack Dreyer",
+    "team": "Los Angeles Dodgers",
+    "teamId": 119
+  },
+  {
+    "id": 669193,
+    "name": "Jack Little",
+    "team": "Los Angeles Dodgers",
+    "teamId": 119
+  },
+  {
+    "id": 681546,
+    "name": "James Outman",
+    "team": "Los Angeles Dodgers",
+    "teamId": 119
+  },
+  {
+    "id": 680736,
+    "name": "Justin Wrobleski",
+    "team": "Los Angeles Dodgers",
+    "teamId": 119
+  },
+  {
+    "id": 489446,
+    "name": "Kirby Yates",
+    "team": "Los Angeles Dodgers",
+    "teamId": 119
+  },
+  {
+    "id": 669165,
+    "name": "Kyle Hurt",
+    "team": "Los Angeles Dodgers",
+    "teamId": 119
+  },
+  {
+    "id": 689017,
+    "name": "Landon Knack",
+    "team": "Los Angeles Dodgers",
+    "teamId": 119
+  },
+  {
+    "id": 642152,
+    "name": "Lou Trivino",
+    "team": "Los Angeles Dodgers",
+    "teamId": 119
+  },
+  {
+    "id": 472610,
+    "name": "Luis García",
+    "team": "Los Angeles Dodgers",
+    "teamId": 119
+  },
+  {
+    "id": 669422,
+    "name": "Matt Sauer",
+    "team": "Los Angeles Dodgers",
+    "teamId": 119
+  },
+  {
+    "id": 571970,
+    "name": "Max Muncy",
+    "team": "Los Angeles Dodgers",
+    "teamId": 119
+  },
+  {
+    "id": 624424,
+    "name": "Michael Conforto",
+    "team": "Los Angeles Dodgers",
+    "teamId": 119
+  },
+  {
+    "id": 675627,
+    "name": "Michael Grove",
+    "team": "Los Angeles Dodgers",
+    "teamId": 119
+  },
+  {
+    "id": 656629,
+    "name": "Michael Kopech",
+    "team": "Los Angeles Dodgers",
+    "teamId": 119
+  },
+  {
+    "id": 500743,
+    "name": "Miguel Rojas",
+    "team": "Los Angeles Dodgers",
+    "teamId": 119
+  },
+  {
+    "id": 605141,
+    "name": "Mookie Betts",
+    "team": "Los Angeles Dodgers",
+    "teamId": 119
+  },
+  {
+    "id": 693308,
+    "name": "Nick Frasso",
+    "team": "Los Angeles Dodgers",
+    "teamId": 119
+  },
+  {
+    "id": 663562,
+    "name": "Noah Davis",
+    "team": "Los Angeles Dodgers",
+    "teamId": 119
+  },
+  {
+    "id": 689981,
+    "name": "River Ryan",
+    "team": "Los Angeles Dodgers",
+    "teamId": 119
+  },
+  {
+    "id": 808963,
+    "name": "Roki Sasaki",
+    "team": "Los Angeles Dodgers",
+    "teamId": 119
+  },
+  {
+    "id": 660271,
+    "name": "Shohei Ohtani",
+    "team": "Los Angeles Dodgers",
+    "teamId": 119
+  },
+  {
+    "id": 672642,
+    "name": "Steward Berroa",
+    "team": "Los Angeles Dodgers",
+    "teamId": 119
+  },
+  {
+    "id": 656945,
+    "name": "Tanner Scott",
+    "team": "Los Angeles Dodgers",
+    "teamId": 119
+  },
+  {
+    "id": 606192,
+    "name": "Teoscar Hernández",
+    "team": "Los Angeles Dodgers",
+    "teamId": 119
+  },
+  {
+    "id": 669242,
+    "name": "Tommy Edman",
+    "team": "Los Angeles Dodgers",
+    "teamId": 119
+  },
+  {
+    "id": 664062,
+    "name": "Tony Gonsolin",
+    "team": "Los Angeles Dodgers",
+    "teamId": 119
+  },
+  {
+    "id": 607192,
+    "name": "Tyler Glasnow",
+    "team": "Los Angeles Dodgers",
+    "teamId": 119
+  },
+  {
+    "id": 694361,
+    "name": "Will Klein",
+    "team": "Los Angeles Dodgers",
+    "teamId": 119
+  },
+  {
+    "id": 669257,
+    "name": "Will Smith",
+    "team": "Los Angeles Dodgers",
+    "teamId": 119
+  },
+  {
+    "id": 808967,
+    "name": "Yoshinobu Yamamoto",
+    "team": "Los Angeles Dodgers",
+    "teamId": 119
+  },
+  {
+    "id": 683068,
+    "name": "Zach Penrod",
+    "team": "Los Angeles Dodgers",
+    "teamId": 119
+  },
+  {
+    "id": 669743,
+    "name": "Alex Call",
+    "team": "Washington Nationals",
+    "teamId": 120
+  },
+  {
+    "id": 642708,
+    "name": "Amed Rosario",
+    "team": "Washington Nationals",
+    "teamId": 120
+  },
+  {
+    "id": 665953,
+    "name": "Andrés Chaparro",
+    "team": "Washington Nationals",
+    "teamId": 120
+  },
+  {
+    "id": 605177,
+    "name": "Andrew Chafin",
+    "team": "Washington Nationals",
+    "teamId": 120
+  },
+  {
+    "id": 691251,
+    "name": "Andry Lara",
+    "team": "Washington Nationals",
+    "teamId": 120
+  },
+  {
+    "id": 695418,
+    "name": "Brad Lord",
+    "team": "Washington Nationals",
+    "teamId": 120
+  },
+  {
+    "id": 691781,
+    "name": "Brady House",
+    "team": "Washington Nationals",
+    "teamId": 120
+  },
+  {
+    "id": 682928,
+    "name": "CJ Abrams",
+    "team": "Washington Nationals",
+    "teamId": 120
+  },
+  {
+    "id": 676917,
+    "name": "Cade Cavalli",
+    "team": "Washington Nationals",
+    "teamId": 120
+  },
+  {
+    "id": 669371,
+    "name": "Cole Henry",
+    "team": "Washington Nationals",
+    "teamId": 120
+  },
+  {
+    "id": 687792,
+    "name": "DJ Herz",
+    "team": "Washington Nationals",
+    "teamId": 120
+  },
+  {
+    "id": 671117,
+    "name": "Darren Baker",
+    "team": "Washington Nationals",
+    "teamId": 120
+  },
+  {
+    "id": 695734,
+    "name": "Daylen Lile",
+    "team": "Washington Nationals",
+    "teamId": 120
+  },
+  {
+    "id": 571882,
+    "name": "Derek Law",
+    "team": "Washington Nationals",
+    "teamId": 120
+  },
+  {
+    "id": 686452,
+    "name": "Drew Millas",
+    "team": "Washington Nationals",
+    "teamId": 120
+  },
+  {
+    "id": 686611,
+    "name": "Dylan Crews",
+    "team": "Washington Nationals",
+    "teamId": 120
+  },
+  {
+    "id": 674285,
+    "name": "Eduardo Salazar",
+    "team": "Washington Nationals",
+    "teamId": 120
+  },
+  {
+    "id": 671131,
+    "name": "Jackson Rutledge",
+    "team": "Washington Nationals",
+    "teamId": 120
+  },
+  {
+    "id": 696285,
+    "name": "Jacob Young",
+    "team": "Washington Nationals",
+    "teamId": 120
+  },
+  {
+    "id": 663623,
+    "name": "Jake Irvin",
+    "team": "Washington Nationals",
+    "teamId": 120
+  },
+  {
+    "id": 695578,
+    "name": "James Wood",
+    "team": "Washington Nationals",
+    "teamId": 120
+  },
+  {
+    "id": 678606,
+    "name": "Jose A. Ferrer",
+    "team": "Washington Nationals",
+    "teamId": 120
+  },
+  {
+    "id": 677588,
+    "name": "José Tena",
+    "team": "Washington Nationals",
+    "teamId": 120
+  },
+  {
+    "id": 605137,
+    "name": "Josh Bell",
+    "team": "Washington Nationals",
+    "teamId": 120
+  },
+  {
+    "id": 680686,
+    "name": "Josiah Gray",
+    "team": "Washington Nationals",
+    "teamId": 120
+  },
+  {
+    "id": 660688,
+    "name": "Keibert Ruiz",
+    "team": "Washington Nationals",
+    "teamId": 120
+  },
+  {
+    "id": 640448,
+    "name": "Kyle Finnegan",
+    "team": "Washington Nationals",
+    "teamId": 120
+  },
+  {
+    "id": 671277,
+    "name": "Luis García Jr.",
+    "team": "Washington Nationals",
+    "teamId": 120
+  },
+  {
+    "id": 669022,
+    "name": "MacKenzie Gore",
+    "team": "Washington Nationals",
+    "teamId": 120
+  },
+  {
+    "id": 666168,
+    "name": "Mason Thompson",
+    "team": "Washington Nationals",
+    "teamId": 120
+  },
+  {
+    "id": 647336,
+    "name": "Michael Soroka",
+    "team": "Washington Nationals",
+    "teamId": 120
+  },
+  {
+    "id": 680730,
+    "name": "Mitchell Parker",
+    "team": "Washington Nationals",
+    "teamId": 120
+  },
+  {
+    "id": 683083,
+    "name": "Nasim Nuñez",
+    "team": "Washington Nationals",
+    "teamId": 120
+  },
+  {
+    "id": 663993,
+    "name": "Nathaniel Lowe",
+    "team": "Washington Nationals",
+    "teamId": 120
+  },
+  {
+    "id": 687377,
+    "name": "Orlando Ribalta",
+    "team": "Washington Nationals",
+    "teamId": 120
+  },
+  {
+    "id": 657557,
+    "name": "Paul DeJong",
+    "team": "Washington Nationals",
+    "teamId": 120
+  },
+  {
+    "id": 656180,
+    "name": "Riley Adams",
+    "team": "Washington Nationals",
+    "teamId": 120
+  },
+  {
+    "id": 690987,
+    "name": "Robert Hassell III",
+    "team": "Washington Nationals",
+    "teamId": 120
+  },
+  {
+    "id": 702795,
+    "name": "Ryan Loutos",
+    "team": "Washington Nationals",
+    "teamId": 120
+  },
+  {
+    "id": 829272,
+    "name": "Shinnosuke Ogasawara",
+    "team": "Washington Nationals",
+    "teamId": 120
+  },
+  {
+    "id": 592866,
+    "name": "Trevor Williams",
+    "team": "Washington Nationals",
+    "teamId": 120
+  },
+  {
+    "id": 702358,
+    "name": "Trey Lipscomb",
+    "team": "Washington Nationals",
+    "teamId": 120
+  },
+  {
+    "id": 694350,
+    "name": "Zach Brzykcy",
+    "team": "Washington Nationals",
+    "teamId": 120
+  },
+  {
+    "id": 621345,
+    "name": "A.J. Minter",
+    "team": "New York Mets",
+    "teamId": 121
+  },
+  {
+    "id": 681810,
+    "name": "Austin Warren",
+    "team": "New York Mets",
+    "teamId": 121
+  },
+  {
+    "id": 694918,
+    "name": "Blade Tidwell",
+    "team": "New York Mets",
+    "teamId": 121
+  },
+  {
+    "id": 607043,
+    "name": "Brandon Nimmo",
+    "team": "New York Mets",
+    "teamId": 121
+  },
+  {
+    "id": 663399,
+    "name": "Brandon Waddell",
+    "team": "New York Mets",
+    "teamId": 121
+  },
+  {
+    "id": 683146,
+    "name": "Brett Baty",
+    "team": "New York Mets",
+    "teamId": 121
+  },
+  {
+    "id": 548384,
+    "name": "Brooks Raley",
+    "team": "New York Mets",
+    "teamId": 121
+  },
+  {
+    "id": 606965,
+    "name": "Chris Devenski",
+    "team": "New York Mets",
+    "teamId": 121
+  },
+  {
+    "id": 681035,
+    "name": "Christian Scott",
+    "team": "New York Mets",
+    "teamId": 121
+  },
+  {
+    "id": 605280,
+    "name": "Clay Holmes",
+    "team": "New York Mets",
+    "teamId": 121
+  },
+  {
+    "id": 621363,
+    "name": "Colin Poche",
+    "team": "New York Mets",
+    "teamId": 121
+  },
+  {
+    "id": 664849,
+    "name": "Danny Young",
+    "team": "New York Mets",
+    "teamId": 121
+  },
+  {
+    "id": 656849,
+    "name": "David Peterson",
+    "team": "New York Mets",
+    "teamId": 121
+  },
+  {
+    "id": 673380,
+    "name": "Dedniel Núñez",
+    "team": "New York Mets",
+    "teamId": 121
+  },
+  {
+    "id": 622098,
+    "name": "Drew Smith",
+    "team": "New York Mets",
+    "teamId": 121
+  },
+  {
+    "id": 621242,
+    "name": "Edwin Díaz",
+    "team": "New York Mets",
+    "teamId": 121
+  },
+  {
+    "id": 682626,
+    "name": "Francisco Alvarez",
+    "team": "New York Mets",
+    "teamId": 121
+  },
+  {
+    "id": 596019,
+    "name": "Francisco Lindor",
+    "team": "New York Mets",
+    "teamId": 121
+  },
+  {
+    "id": 593423,
+    "name": "Frankie Montas",
+    "team": "New York Mets",
+    "teamId": 121
+  },
+  {
+    "id": 656288,
+    "name": "Griffin Canning",
+    "team": "New York Mets",
+    "teamId": 121
+  },
+  {
+    "id": 663584,
+    "name": "Hayden Senger",
+    "team": "New York Mets",
+    "teamId": 121
+  },
+  {
+    "id": 623211,
+    "name": "Huascar Brazobán",
+    "team": "New York Mets",
+    "teamId": 121
+  },
+  {
+    "id": 676724,
+    "name": "Jared Young",
+    "team": "New York Mets",
+    "teamId": 121
+  },
+  {
+    "id": 643446,
+    "name": "Jeff McNeil",
+    "team": "New York Mets",
+    "teamId": 121
+  },
+  {
+    "id": 608385,
+    "name": "Jesse Winker",
+    "team": "New York Mets",
+    "teamId": 121
+  },
+  {
+    "id": 702752,
+    "name": "Jonathan Pintaro",
+    "team": "New York Mets",
+    "teamId": 121
+  },
+  {
+    "id": 676130,
+    "name": "José Buttó",
+    "team": "New York Mets",
+    "teamId": 121
+  },
+  {
+    "id": 642350,
+    "name": "Jose Siri",
+    "team": "New York Mets",
+    "teamId": 121
+  },
+  {
+    "id": 665742,
+    "name": "Juan Soto",
+    "team": "New York Mets",
+    "teamId": 121
+  },
+  {
+    "id": 621057,
+    "name": "Justin Garza",
+    "team": "New York Mets",
+    "teamId": 121
+  },
+  {
+    "id": 663795,
+    "name": "Justin Hagenman",
+    "team": "New York Mets",
+    "teamId": 121
+  },
+  {
+    "id": 673540,
+    "name": "Kodai Senga",
+    "team": "New York Mets",
+    "teamId": 121
+  },
+  {
+    "id": 620443,
+    "name": "Luis Torrens",
+    "team": "New York Mets",
+    "teamId": 121
+  },
+  {
+    "id": 682668,
+    "name": "Luisangel Acuña",
+    "team": "New York Mets",
+    "teamId": 121
+  },
+  {
+    "id": 668901,
+    "name": "Mark Vientos",
+    "team": "New York Mets",
+    "teamId": 121
+  },
+  {
+    "id": 668820,
+    "name": "Max Kranick",
+    "team": "New York Mets",
+    "teamId": 121
+  },
+  {
+    "id": 663611,
+    "name": "Nick Madrigal",
+    "team": "New York Mets",
+    "teamId": 121
+  },
+  {
+    "id": 621112,
+    "name": "Paul Blackburn",
+    "team": "New York Mets",
+    "teamId": 121
+  },
+  {
+    "id": 624413,
+    "name": "Pete Alonso",
+    "team": "New York Mets",
+    "teamId": 121
+  },
+  {
+    "id": 657585,
+    "name": "Reed Garrett",
+    "team": "New York Mets",
+    "teamId": 121
+  },
+  {
+    "id": 677595,
+    "name": "Ronny Mauricio",
+    "team": "New York Mets",
+    "teamId": 121
+  },
+  {
+    "id": 592773,
+    "name": "Ryne Stanek",
+    "team": "New York Mets",
+    "teamId": 121
+  },
+  {
+    "id": 640455,
+    "name": "Sean Manaea",
+    "team": "New York Mets",
+    "teamId": 121
+  },
+  {
+    "id": 516782,
+    "name": "Starling Marte",
+    "team": "New York Mets",
+    "teamId": 121
+  },
+  {
+    "id": 608671,
+    "name": "Travis Jankowski",
+    "team": "New York Mets",
+    "teamId": 121
+  },
+  {
+    "id": 686654,
+    "name": "Ty Adcock",
+    "team": "New York Mets",
+    "teamId": 121
+  },
+  {
+    "id": 676604,
+    "name": "Tyler Zuber",
+    "team": "New York Mets",
+    "teamId": 121
+  },
+  {
+    "id": 656731,
+    "name": "Tylor Megill",
+    "team": "New York Mets",
+    "teamId": 121
+  },
+  {
+    "id": 621438,
+    "name": "Tyrone Taylor",
+    "team": "New York Mets",
+    "teamId": 121
+  }
+]

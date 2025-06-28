@@ -1,0 +1,17 @@
+import fs from "fs";
+import fetch from "node-fetch";
+
+async function fetchAndCacheTeams() {
+  const res = await fetch("https://statsapi.mlb.com/api/v1/teams?sportId=1");
+  const { teams } = await res.json();
+
+  const simplifiedTeams = teams.map((team) => ({
+    id: team.id,
+    name: team.name,
+  }));
+
+  fs.writeFileSync("./teams.json", JSON.stringify(simplifiedTeams, null, 2));
+  console.log("Cached teams to teams.json");
+}
+
+fetchAndCacheTeams();
