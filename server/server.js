@@ -119,6 +119,25 @@ app.get("/api/articles", (req, res) => {
   });
 });
 
+app.get("/api/articles/by-tag", (req, res) => {
+  const tag = req.query.tag;
+
+  if (!tag) {
+    return res.status(400).json({ error: "Tag is required" });
+  }
+
+  const sql = "SELECT * FROM articles WHERE tag = ?";
+
+  db.all(sql, [tag], (err, rows) => {
+    if (err) {
+      console.error("DB error:", err);
+      return res.status(500).json({ error: err.message });
+    }
+
+    res.json(rows);
+  });
+});
+
 app.get("/api/articles/:id", (req, res) => {
   const id = parseInt(req.params.id);
   db.get("SELECT * FROM articles WHERE id = ?", [id], (err, row) => {

@@ -1,5 +1,3 @@
-import React, { useState } from "react";
-
 function OptionButtons({ selectedOption, setSelectedOption }) {
   const handleChange = (event) => {
     setSelectedOption(event.target.value);
