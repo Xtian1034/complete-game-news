@@ -12,6 +12,12 @@
     "teamId": 133
   },
   {
+    "id": 641386,
+    "name": "Ben Bowden",
+    "team": "Athletics",
+    "teamId": 133
+  },
+  {
     "id": 669620,
     "name": "Brady Basso",
     "team": "Athletics",
@@ -30,6 +36,18 @@
     "teamId": 133
   },
   {
+    "id": 666126,
+    "name": "Carlos Cortes",
+    "team": "Athletics",
+    "teamId": 133
+  },
+  {
+    "id": 687515,
+    "name": "Colby Thomas",
+    "team": "Athletics",
+    "teamId": 133
+  },
+  {
     "id": 687231,
     "name": "Darell Hernaiz",
     "team": "Athletics",
@@ -38,6 +56,12 @@
   {
     "id": 672016,
     "name": "Denzel Clarke",
+    "team": "Athletics",
+    "teamId": 133
+  },
+  {
+    "id": 674384,
+    "name": "Eduarniel Núñez",
     "team": "Athletics",
     "teamId": 133
   },
@@ -66,6 +90,12 @@
     "teamId": 133
   },
   {
+    "id": 692013,
+    "name": "Henry Baez",
+    "team": "Athletics",
+    "teamId": 133
+  },
+  {
     "id": 663687,
     "name": "Hogan Harris",
     "team": "Athletics",
@@ -80,12 +110,6 @@
   {
     "id": 668709,
     "name": "JJ Bleday",
-    "team": "Athletics",
-    "teamId": 133
-  },
-  {
-    "id": 676664,
-    "name": "JP Sears",
     "team": "Athletics",
     "teamId": 133
   },
@@ -110,12 +134,6 @@
   {
     "id": 605488,
     "name": "Jeffrey Springs",
-    "team": "Athletics",
-    "teamId": 133
-  },
-  {
-    "id": 640902,
-    "name": "Jhonny Pereda",
     "team": "Athletics",
     "teamId": 133
   },
@@ -150,14 +168,14 @@
     "teamId": 133
   },
   {
-    "id": 669722,
-    "name": "Logan Davidson",
+    "id": 665622,
+    "name": "Luis Medina",
     "team": "Athletics",
     "teamId": 133
   },
   {
-    "id": 665622,
-    "name": "Luis Medina",
+    "id": 806960,
+    "name": "Luis Morales",
     "team": "Athletics",
     "teamId": 133
   },
@@ -170,12 +188,6 @@
   {
     "id": 649966,
     "name": "Luis Urías",
-    "team": "Athletics",
-    "teamId": 133
-  },
-  {
-    "id": 695243,
-    "name": "Mason Miller",
     "team": "Athletics",
     "teamId": 133
   },
@@ -200,12 +212,6 @@
   {
     "id": 671305,
     "name": "Michel Otañez",
-    "team": "Athletics",
-    "teamId": 133
-  },
-  {
-    "id": 609280,
-    "name": "Miguel Andujar",
     "team": "Athletics",
     "teamId": 133
   },
@@ -264,12 +270,6 @@
     "teamId": 133
   },
   {
-    "id": 624428,
-    "name": "Adam Frazier",
-    "team": "Pittsburgh Pirates",
-    "teamId": 134
-  },
-  {
     "id": 672744,
     "name": "Alexander Canario",
     "team": "Pittsburgh Pirates",
@@ -284,12 +284,6 @@
   {
     "id": 457705,
     "name": "Andrew McCutchen",
-    "team": "Pittsburgh Pirates",
-    "teamId": 134
-  },
-  {
-    "id": 663559,
-    "name": "Bailey Falter",
     "team": "Pittsburgh Pirates",
     "teamId": 134
   },
@@ -312,8 +306,14 @@
     "teamId": 134
   },
   {
-    "id": 657571,
-    "name": "Caleb Ferguson",
+    "id": 687478,
+    "name": "Cam Devanney",
+    "team": "Pittsburgh Pirates",
+    "teamId": 134
+  },
+  {
+    "id": 676742,
+    "name": "Cam Sanders",
     "team": "Pittsburgh Pirates",
     "teamId": 134
   },
@@ -342,12 +342,6 @@
     "teamId": 134
   },
   {
-    "id": 670280,
-    "name": "David Bednar",
-    "team": "Pittsburgh Pirates",
-    "teamId": 134
-  },
-  {
     "id": 642701,
     "name": "Dennis Santana",
     "team": "Pittsburgh Pirates",
@@ -366,8 +360,8 @@
     "teamId": 134
   },
   {
-    "id": 650893,
-    "name": "Génesis Cabrera",
+    "id": 681895,
+    "name": "Evan Sisk",
     "team": "Pittsburgh Pirates",
     "teamId": 134
   },
@@ -386,6 +380,12 @@
   {
     "id": 643396,
     "name": "Isiah Kiner-Falefa",
+    "team": "Pittsburgh Pirates",
+    "teamId": 134
+  },
+  {
+    "id": 669193,
+    "name": "Jack Little",
     "team": "Pittsburgh Pirates",
     "teamId": 134
   },
@@ -432,12 +432,6 @@
     "teamId": 134
   },
   {
-    "id": 663647,
-    "name": "Ke'Bryan Hayes",
-    "team": "Pittsburgh Pirates",
-    "teamId": 134
-  },
-  {
     "id": 693312,
     "name": "Kyle Nicolas",
     "team": "Pittsburgh Pirates",
@@ -446,12 +440,6 @@
   {
     "id": 678894,
     "name": "Liover Peguero",
-    "team": "Pittsburgh Pirates",
-    "teamId": 134
-  },
-  {
-    "id": 685301,
-    "name": "Matt Gorski",
     "team": "Pittsburgh Pirates",
     "teamId": 134
   },
@@ -540,6 +528,12 @@
     "teamId": 134
   },
   {
+    "id": 670990,
+    "name": "Yohan Ramírez",
+    "team": "Pittsburgh Pirates",
+    "teamId": 134
+  },
+  {
     "id": 670970,
     "name": "Adrian Morejon",
     "team": "San Diego Padres",
@@ -554,12 +548,6 @@
   {
     "id": 699134,
     "name": "Bradgley Rodriguez",
-    "team": "San Diego Padres",
-    "teamId": 135
-  },
-  {
-    "id": 663604,
-    "name": "Brandon Lockridge",
     "team": "San Diego Padres",
     "teamId": 135
   },
@@ -600,14 +588,20 @@
     "teamId": 135
   },
   {
+    "id": 666023,
+    "name": "Freddy Fermin",
+    "team": "San Diego Padres",
+    "teamId": 135
+  },
+  {
     "id": 657757,
     "name": "Gavin Sheets",
     "team": "San Diego Padres",
     "teamId": 135
   },
   {
-    "id": 692013,
-    "name": "Henry Baez",
+    "id": 676664,
+    "name": "JP Sears",
     "team": "San Diego Padres",
     "teamId": 135
   },
@@ -660,12 +654,6 @@
     "teamId": 135
   },
   {
-    "id": 670810,
-    "name": "Logan Gillaspie",
-    "team": "San Diego Padres",
-    "teamId": 135
-  },
-  {
     "id": 650333,
     "name": "Luis Arraez",
     "team": "San Diego Padres",
@@ -684,14 +672,14 @@
     "teamId": 135
   },
   {
-    "id": 455117,
-    "name": "Martín Maldonado",
+    "id": 669200,
+    "name": "Mason McCoy",
     "team": "San Diego Padres",
     "teamId": 135
   },
   {
-    "id": 669200,
-    "name": "Mason McCoy",
+    "id": 695243,
+    "name": "Mason Miller",
     "team": "San Diego Padres",
     "teamId": 135
   },
@@ -708,6 +696,12 @@
     "teamId": 135
   },
   {
+    "id": 641482,
+    "name": "Nestor Cortes",
+    "team": "San Diego Padres",
+    "teamId": 135
+  },
+  {
     "id": 601713,
     "name": "Nick Pivetta",
     "team": "San Diego Padres",
@@ -716,6 +710,12 @@
   {
     "id": 678316,
     "name": "Omar Cruz",
+    "team": "San Diego Padres",
+    "teamId": 135
+  },
+  {
+    "id": 657656,
+    "name": "Ramón Laureano",
     "team": "San Diego Padres",
     "teamId": 135
   },
@@ -738,8 +738,8 @@
     "teamId": 135
   },
   {
-    "id": 686701,
-    "name": "Ryan Bergert",
+    "id": 656811,
+    "name": "Ryan O'Hearn",
     "team": "San Diego Padres",
     "teamId": 135
   },
@@ -750,32 +750,20 @@
     "teamId": 135
   },
   {
-    "id": 663568,
-    "name": "Stephen Kolek",
-    "team": "San Diego Padres",
-    "teamId": 135
-  },
-  {
     "id": 672359,
     "name": "Tirso Ornelas",
     "team": "San Diego Padres",
     "teamId": 135
   },
   {
-    "id": 670092,
-    "name": "Trenton Brooks",
-    "team": "San Diego Padres",
-    "teamId": 135
-  },
-  {
-    "id": 642180,
-    "name": "Tyler Wade",
-    "team": "San Diego Padres",
-    "teamId": 135
-  },
-  {
     "id": 593974,
     "name": "Wandy Peralta",
+    "team": "San Diego Padres",
+    "teamId": 135
+  },
+  {
+    "id": 695238,
+    "name": "Will Wagner",
     "team": "San Diego Padres",
     "teamId": 135
   },
@@ -834,6 +822,12 @@
     "teamId": 136
   },
   {
+    "id": 657571,
+    "name": "Caleb Ferguson",
+    "team": "Seattle Mariners",
+    "teamId": 136
+  },
+  {
     "id": 672841,
     "name": "Carlos Vargas",
     "team": "Seattle Mariners",
@@ -848,12 +842,6 @@
   {
     "id": 702284,
     "name": "Cole Young",
-    "team": "Seattle Mariners",
-    "teamId": 136
-  },
-  {
-    "id": 676092,
-    "name": "Collin Snider",
     "team": "Seattle Mariners",
     "teamId": 136
   },
@@ -888,6 +876,12 @@
     "teamId": 136
   },
   {
+    "id": 553993,
+    "name": "Eugenio Suárez",
+    "team": "Seattle Mariners",
+    "teamId": 136
+  },
+  {
     "id": 642100,
     "name": "Gabe Speier",
     "team": "Seattle Mariners",
@@ -918,20 +912,26 @@
     "teamId": 136
   },
   {
-    "id": 674441,
-    "name": "Jacob Hurtubise",
-    "team": "Seattle Mariners",
-    "teamId": 136
-  },
-  {
     "id": 646242,
     "name": "Jhonathan Díaz",
     "team": "Seattle Mariners",
     "teamId": 136
   },
   {
+    "id": 682175,
+    "name": "Joe Jacques",
+    "team": "Seattle Mariners",
+    "teamId": 136
+  },
+  {
     "id": 593871,
     "name": "Jorge Polanco",
+    "team": "Seattle Mariners",
+    "teamId": 136
+  },
+  {
+    "id": 647304,
+    "name": "Josh Naylor",
     "team": "Seattle Mariners",
     "teamId": 136
   },
@@ -1032,20 +1032,8 @@
     "teamId": 136
   },
   {
-    "id": 682988,
-    "name": "Tyler Locklear",
-    "team": "Seattle Mariners",
-    "teamId": 136
-  },
-  {
     "id": 645302,
     "name": "Victor Robles",
-    "team": "Seattle Mariners",
-    "teamId": 136
-  },
-  {
-    "id": 647315,
-    "name": "Zach Pop",
     "team": "Seattle Mariners",
     "teamId": 136
   },
@@ -1056,26 +1044,26 @@
     "teamId": 137
   },
   {
+    "id": 694918,
+    "name": "Blade Tidwell",
+    "team": "San Francisco Giants",
+    "teamId": 137
+  },
+  {
     "id": 689172,
     "name": "Brett Wisely",
     "team": "San Francisco Giants",
     "teamId": 137
   },
   {
-    "id": 666808,
-    "name": "Camilo Doval",
-    "team": "San Francisco Giants",
-    "teamId": 137
-  },
-  {
-    "id": 685068,
-    "name": "Carson Ragsdale",
-    "team": "San Francisco Giants",
-    "teamId": 137
-  },
-  {
     "id": 693313,
     "name": "Carson Seymour",
+    "team": "San Francisco Giants",
+    "teamId": 137
+  },
+  {
+    "id": 687931,
+    "name": "Carson Whisenhunt",
     "team": "San Francisco Giants",
     "teamId": 137
   },
@@ -1140,6 +1128,12 @@
     "teamId": 137
   },
   {
+    "id": 676130,
+    "name": "José Buttó",
+    "team": "San Francisco Giants",
+    "teamId": 137
+  },
+  {
     "id": 808982,
     "name": "Jung Hoo Lee",
     "team": "San Francisco Giants",
@@ -1152,6 +1146,12 @@
     "teamId": 137
   },
   {
+    "id": 678906,
+    "name": "Kai-Wei Teng",
+    "team": "San Francisco Giants",
+    "teamId": 137
+  },
+  {
     "id": 676775,
     "name": "Keaton Winn",
     "team": "San Francisco Giants",
@@ -1160,12 +1160,6 @@
   {
     "id": 694738,
     "name": "Landen Roupp",
-    "team": "San Francisco Giants",
-    "teamId": 137
-  },
-  {
-    "id": 682515,
-    "name": "Logan Porter",
     "team": "San Francisco Giants",
     "teamId": 137
   },
@@ -1200,8 +1194,8 @@
     "teamId": 137
   },
   {
-    "id": 573262,
-    "name": "Mike Yastrzemski",
+    "id": 657424,
+    "name": "Matt Gage",
     "team": "San Francisco Giants",
     "teamId": 137
   },
@@ -1236,12 +1230,6 @@
     "teamId": 137
   },
   {
-    "id": 663546,
-    "name": "Sean Hjelle",
-    "team": "San Francisco Giants",
-    "teamId": 137
-  },
-  {
     "id": 702352,
     "name": "Spencer Bivens",
     "team": "San Francisco Giants",
@@ -1268,12 +1256,6 @@
   {
     "id": 666149,
     "name": "Tyler Fitzgerald",
-    "team": "San Francisco Giants",
-    "teamId": 137
-  },
-  {
-    "id": 643511,
-    "name": "Tyler Rogers",
     "team": "San Francisco Giants",
     "teamId": 137
   },
@@ -1314,6 +1296,12 @@
     "teamId": 138
   },
   {
+    "id": 685107,
+    "name": "Anthony Veneziano",
+    "team": "St. Louis Cardinals",
+    "teamId": 138
+  },
+  {
     "id": 680977,
     "name": "Brendan Donovan",
     "team": "St. Louis Cardinals",
@@ -1322,12 +1310,6 @@
   {
     "id": 688297,
     "name": "Chris Roycroft",
-    "team": "St. Louis Cardinals",
-    "teamId": 138
-  },
-  {
-    "id": 607200,
-    "name": "Erick Fedde",
     "team": "St. Louis Cardinals",
     "teamId": 138
   },
@@ -1368,6 +1350,12 @@
     "teamId": 138
   },
   {
+    "id": 660896,
+    "name": "Jorge Alcala",
+    "team": "St. Louis Cardinals",
+    "teamId": 138
+  },
+  {
     "id": 665877,
     "name": "José Fermín",
     "team": "St. Louis Cardinals",
@@ -1382,12 +1370,6 @@
   {
     "id": 663457,
     "name": "Lars Nootbaar",
-    "team": "St. Louis Cardinals",
-    "teamId": 138
-  },
-  {
-    "id": 663609,
-    "name": "Luken Baker",
     "team": "St. Louis Cardinals",
     "teamId": 138
   },
@@ -1452,12 +1434,6 @@
     "teamId": 138
   },
   {
-    "id": 664208,
-    "name": "Phil Maton",
-    "team": "St. Louis Cardinals",
-    "teamId": 138
-  },
-  {
     "id": 676617,
     "name": "Riley O'Brien",
     "team": "St. Louis Cardinals",
@@ -1476,12 +1452,6 @@
     "teamId": 138
   },
   {
-    "id": 664854,
-    "name": "Ryan Helsley",
-    "team": "St. Louis Cardinals",
-    "teamId": 138
-  },
-  {
     "id": 691828,
     "name": "Sem Robberse",
     "team": "St. Louis Cardinals",
@@ -1490,12 +1460,6 @@
   {
     "id": 543243,
     "name": "Sonny Gray",
-    "team": "St. Louis Cardinals",
-    "teamId": 138
-  },
-  {
-    "id": 571927,
-    "name": "Steven Matz",
     "team": "St. Louis Cardinals",
     "teamId": 138
   },
@@ -1542,6 +1506,12 @@
     "teamId": 138
   },
   {
+    "id": 605288,
+    "name": "Adrian Houser",
+    "team": "Tampa Bay Rays",
+    "teamId": 139
+  },
+  {
     "id": 656412,
     "name": "Alex Faedo",
     "team": "Tampa Bay Rays",
@@ -1550,6 +1520,18 @@
   {
     "id": 664040,
     "name": "Brandon Lowe",
+    "team": "Tampa Bay Rays",
+    "teamId": 139
+  },
+  {
+    "id": 687003,
+    "name": "Brian Van Belle",
+    "team": "Tampa Bay Rays",
+    "teamId": 139
+  },
+  {
+    "id": 641329,
+    "name": "Bryan Baker",
     "team": "Tampa Bay Rays",
     "teamId": 139
   },
@@ -1566,12 +1548,6 @@
     "teamId": 139
   },
   {
-    "id": 663796,
-    "name": "Coco Montes",
-    "team": "Tampa Bay Rays",
-    "teamId": 139
-  },
-  {
     "id": 642121,
     "name": "Cole Sulser",
     "team": "Tampa Bay Rays",
@@ -1580,18 +1556,6 @@
   {
     "id": 657756,
     "name": "Connor Seabold",
-    "team": "Tampa Bay Rays",
-    "teamId": 139
-  },
-  {
-    "id": 678554,
-    "name": "Curtis Mead",
-    "team": "Tampa Bay Rays",
-    "teamId": 139
-  },
-  {
-    "id": 643376,
-    "name": "Danny Jansen",
     "team": "Tampa Bay Rays",
     "teamId": 139
   },
@@ -1614,14 +1578,20 @@
     "teamId": 139
   },
   {
-    "id": 666215,
-    "name": "Forrest Whitley",
+    "id": 677592,
+    "name": "Everson Pereira",
     "team": "Tampa Bay Rays",
     "teamId": 139
   },
   {
     "id": 664076,
     "name": "Garrett Cleavinger",
+    "team": "Tampa Bay Rays",
+    "teamId": 139
+  },
+  {
+    "id": 643377,
+    "name": "Griffin Jax",
     "team": "Tampa Bay Rays",
     "teamId": 139
   },
@@ -1638,20 +1608,26 @@
     "teamId": 139
   },
   {
+    "id": 676439,
+    "name": "Hunter Feduccia",
+    "team": "Tampa Bay Rays",
+    "teamId": 139
+  },
+  {
     "id": 693855,
     "name": "Ian Seymour",
     "team": "Tampa Bay Rays",
     "teamId": 139
   },
   {
-    "id": 621097,
-    "name": "Jacob Waguespack",
+    "id": 663968,
+    "name": "Jake Mangum",
     "team": "Tampa Bay Rays",
     "teamId": 139
   },
   {
-    "id": 663968,
-    "name": "Jake Mangum",
+    "id": 669947,
+    "name": "Jesse Scholtens",
     "team": "Tampa Bay Rays",
     "teamId": 139
   },
@@ -1668,6 +1644,12 @@
     "teamId": 139
   },
   {
+    "id": 680702,
+    "name": "Joey Gerber",
+    "team": "Tampa Bay Rays",
+    "teamId": 139
+  },
+  {
     "id": 666018,
     "name": "Jonathan Aranda",
     "team": "Tampa Bay Rays",
@@ -1676,12 +1658,6 @@
   {
     "id": 676356,
     "name": "Jonny DeLuca",
-    "team": "Tampa Bay Rays",
-    "teamId": 139
-  },
-  {
-    "id": 676609,
-    "name": "José Caballero",
     "team": "Tampa Bay Rays",
     "teamId": 139
   },
@@ -1734,20 +1710,14 @@
     "teamId": 139
   },
   {
-    "id": 642136,
-    "name": "Matt Thaiss",
-    "team": "Tampa Bay Rays",
-    "teamId": 139
-  },
-  {
     "id": 681320,
     "name": "Nate Lavender",
     "team": "Tampa Bay Rays",
     "teamId": 139
   },
   {
-    "id": 801434,
-    "name": "Paul Gervase",
+    "id": 663743,
+    "name": "Nick Fortes",
     "team": "Tampa Bay Rays",
     "teamId": 139
   },
@@ -1782,14 +1752,20 @@
     "teamId": 139
   },
   {
-    "id": 671737,
-    "name": "Taj Bradley",
+    "id": 656413,
+    "name": "Stuart Fairchild",
     "team": "Tampa Bay Rays",
     "teamId": 139
   },
   {
     "id": 670764,
     "name": "Taylor Walls",
+    "team": "Tampa Bay Rays",
+    "teamId": 139
+  },
+  {
+    "id": 656484,
+    "name": "Tristan Gray",
     "team": "Tampa Bay Rays",
     "teamId": 139
   },
@@ -1806,12 +1782,6 @@
     "teamId": 139
   },
   {
-    "id": 641793,
-    "name": "Zack Littell",
-    "team": "Tampa Bay Rays",
-    "teamId": 139
-  },
-  {
     "id": 666969,
     "name": "Adolis García",
     "team": "Texas Rangers",
@@ -1820,12 +1790,6 @@
   {
     "id": 696030,
     "name": "Alejandro Osuna",
-    "team": "Texas Rangers",
-    "teamId": 140
-  },
-  {
-    "id": 688760,
-    "name": "Blaine Crim",
     "team": "Texas Rangers",
     "teamId": 140
   },
@@ -1842,14 +1806,14 @@
     "teamId": 140
   },
   {
-    "id": 676051,
-    "name": "Codi Heuer",
+    "id": 674003,
+    "name": "Cody Bradford",
     "team": "Texas Rangers",
     "teamId": 140
   },
   {
-    "id": 674003,
-    "name": "Cody Bradford",
+    "id": 683227,
+    "name": "Cody Freeman",
     "team": "Texas Rangers",
     "teamId": 140
   },
@@ -1866,14 +1830,8 @@
     "teamId": 140
   },
   {
-    "id": 641540,
-    "name": "Dane Dunning",
-    "team": "Texas Rangers",
-    "teamId": 140
-  },
-  {
-    "id": 687957,
-    "name": "Dustin Harris",
+    "id": 543056,
+    "name": "Danny Coulombe",
     "team": "Texas Rangers",
     "teamId": 140
   },
@@ -1998,12 +1956,6 @@
     "teamId": 140
   },
   {
-    "id": 592426,
-    "name": "Luke Jackson",
-    "team": "Texas Rangers",
-    "teamId": 140
-  },
-  {
     "id": 687847,
     "name": "Marc Church",
     "team": "Texas Rangers",
@@ -2012,6 +1964,12 @@
   {
     "id": 543760,
     "name": "Marcus Semien",
+    "team": "Texas Rangers",
+    "teamId": 140
+  },
+  {
+    "id": 518876,
+    "name": "Merrill Kelly",
     "team": "Texas Rangers",
     "teamId": 140
   },
@@ -2034,8 +1992,20 @@
     "teamId": 140
   },
   {
+    "id": 664208,
+    "name": "Phil Maton",
+    "team": "Texas Rangers",
+    "teamId": 140
+  },
+  {
     "id": 676395,
     "name": "Robert Garcia",
+    "team": "Texas Rangers",
+    "teamId": 140
+  },
+  {
+    "id": 642133,
+    "name": "Rowdy Tellez",
     "team": "Texas Rangers",
     "teamId": 140
   },
@@ -2078,12 +2048,6 @@
   {
     "id": 680718,
     "name": "Addison Barger",
-    "team": "Toronto Blue Jays",
-    "teamId": 141
-  },
-  {
-    "id": 702176,
-    "name": "Alan Roden",
     "team": "Toronto Blue Jays",
     "teamId": 141
   },
@@ -2142,8 +2106,8 @@
     "teamId": 141
   },
   {
-    "id": 643338,
-    "name": "Chad Green",
+    "id": 671083,
+    "name": "Buddy Kennedy",
     "team": "Toronto Blue Jays",
     "teamId": 141
   },
@@ -2232,8 +2196,20 @@
     "teamId": 141
   },
   {
+    "id": 681751,
+    "name": "Lazaro Estrada",
+    "team": "Toronto Blue Jays",
+    "teamId": 141
+  },
+  {
     "id": 677870,
     "name": "Leo Jiménez",
+    "team": "Toronto Blue Jays",
+    "teamId": 141
+  },
+  {
+    "id": 686973,
+    "name": "Louis Varland",
     "team": "Toronto Blue Jays",
     "teamId": 141
   },
@@ -2292,6 +2268,30 @@
     "teamId": 141
   },
   {
+    "id": 622554,
+    "name": "Seranthony Domínguez",
+    "team": "Toronto Blue Jays",
+    "teamId": 141
+  },
+  {
+    "id": 669456,
+    "name": "Shane Bieber",
+    "team": "Toronto Blue Jays",
+    "teamId": 141
+  },
+  {
+    "id": 667297,
+    "name": "Tommy Nance",
+    "team": "Toronto Blue Jays",
+    "teamId": 141
+  },
+  {
+    "id": 664034,
+    "name": "Ty France",
+    "team": "Toronto Blue Jays",
+    "teamId": 141
+  },
+  {
     "id": 623168,
     "name": "Tyler Heineman",
     "team": "Toronto Blue Jays",
@@ -2300,18 +2300,6 @@
   {
     "id": 665489,
     "name": "Vladimir Guerrero Jr.",
-    "team": "Toronto Blue Jays",
-    "teamId": 141
-  },
-  {
-    "id": 683770,
-    "name": "Will Robertson",
-    "team": "Toronto Blue Jays",
-    "teamId": 141
-  },
-  {
-    "id": 695238,
-    "name": "Will Wagner",
     "team": "Toronto Blue Jays",
     "teamId": 141
   },
@@ -2328,6 +2316,18 @@
     "teamId": 141
   },
   {
+    "id": 702176,
+    "name": "Alan Roden",
+    "team": "Minnesota Twins",
+    "teamId": 142
+  },
+  {
+    "id": 664948,
+    "name": "Anthony Misiewicz",
+    "team": "Minnesota Twins",
+    "teamId": 142
+  },
+  {
     "id": 668885,
     "name": "Austin Martin",
     "team": "Minnesota Twins",
@@ -2340,8 +2340,8 @@
     "teamId": 142
   },
   {
-    "id": 592779,
-    "name": "Brock Stewart",
+    "id": 621139,
+    "name": "Brooks Kriske",
     "team": "Minnesota Twins",
     "teamId": 142
   },
@@ -2358,20 +2358,8 @@
     "teamId": 142
   },
   {
-    "id": 621043,
-    "name": "Carlos Correa",
-    "team": "Minnesota Twins",
-    "teamId": 142
-  },
-  {
     "id": 676812,
     "name": "Carson McCusker",
-    "team": "Minnesota Twins",
-    "teamId": 142
-  },
-  {
-    "id": 663978,
-    "name": "Chris Paddack",
     "team": "Minnesota Twins",
     "teamId": 142
   },
@@ -2388,20 +2376,8 @@
     "teamId": 142
   },
   {
-    "id": 687362,
-    "name": "Connor Gillispie",
-    "team": "Minnesota Twins",
-    "teamId": 142
-  },
-  {
     "id": 680577,
     "name": "DaShawn Keirsey Jr.",
-    "team": "Minnesota Twins",
-    "teamId": 142
-  },
-  {
-    "id": 543056,
-    "name": "Danny Coulombe",
     "team": "Minnesota Twins",
     "teamId": 142
   },
@@ -2424,26 +2400,20 @@
     "teamId": 142
   },
   {
-    "id": 643377,
-    "name": "Griffin Jax",
+    "id": 541640,
+    "name": "Erasmo Ramírez",
     "team": "Minnesota Twins",
     "teamId": 142
   },
   {
-    "id": 664056,
-    "name": "Harrison Bader",
+    "id": 681546,
+    "name": "James Outman",
     "team": "Minnesota Twins",
     "teamId": 142
   },
   {
-    "id": 665856,
-    "name": "Jair Camargo",
-    "team": "Minnesota Twins",
-    "teamId": 142
-  },
-  {
-    "id": 661395,
-    "name": "Jhoan Duran",
+    "id": 640902,
+    "name": "Jhonny Pereda",
     "team": "Minnesota Twins",
     "teamId": 142
   },
@@ -2454,20 +2424,14 @@
     "teamId": 142
   },
   {
-    "id": 666214,
-    "name": "Joey Wentz",
-    "team": "Minnesota Twins",
-    "teamId": 142
-  },
-  {
-    "id": 681146,
-    "name": "Jonah Bride",
-    "team": "Minnesota Twins",
-    "teamId": 142
-  },
-  {
     "id": 669304,
     "name": "Jose Miranda",
+    "team": "Minnesota Twins",
+    "teamId": 142
+  },
+  {
+    "id": 570632,
+    "name": "José Ureña",
     "team": "Minnesota Twins",
     "teamId": 142
   },
@@ -2486,12 +2450,6 @@
   {
     "id": 681892,
     "name": "Kody Funderburk",
-    "team": "Minnesota Twins",
-    "teamId": 142
-  },
-  {
-    "id": 686973,
-    "name": "Louis Varland",
     "team": "Minnesota Twins",
     "teamId": 142
   },
@@ -2520,14 +2478,32 @@
     "teamId": 142
   },
   {
+    "id": 690953,
+    "name": "Mick Abel",
+    "team": "Minnesota Twins",
+    "teamId": 142
+  },
+  {
     "id": 681508,
     "name": "Mickey Gasper",
     "team": "Minnesota Twins",
     "teamId": 142
   },
   {
+    "id": 663562,
+    "name": "Noah Davis",
+    "team": "Minnesota Twins",
+    "teamId": 142
+  },
+  {
     "id": 641154,
     "name": "Pablo López",
+    "team": "Minnesota Twins",
+    "teamId": 142
+  },
+  {
+    "id": 701487,
+    "name": "Pierson Ohl",
     "team": "Minnesota Twins",
     "teamId": 142
   },
@@ -2556,6 +2532,18 @@
     "teamId": 142
   },
   {
+    "id": 671737,
+    "name": "Taj Bradley",
+    "team": "Minnesota Twins",
+    "teamId": 142
+  },
+  {
+    "id": 641672,
+    "name": "Thomas Hatch",
+    "team": "Minnesota Twins",
+    "teamId": 142
+  },
+  {
     "id": 701519,
     "name": "Travis Adams",
     "team": "Minnesota Twins",
@@ -2564,18 +2552,6 @@
   {
     "id": 663616,
     "name": "Trevor Larnach",
-    "team": "Minnesota Twins",
-    "teamId": 142
-  },
-  {
-    "id": 664034,
-    "name": "Ty France",
-    "team": "Minnesota Twins",
-    "teamId": 142
-  },
-  {
-    "id": 650489,
-    "name": "Willi Castro",
     "team": "Minnesota Twins",
     "teamId": 142
   },
@@ -2610,8 +2586,8 @@
     "teamId": 143
   },
   {
-    "id": 676969,
-    "name": "Brett de Geus",
+    "id": 676551,
+    "name": "Brewer Hicklen",
     "team": "Philadelphia Phillies",
     "teamId": 143
   },
@@ -2624,12 +2600,6 @@
   {
     "id": 681082,
     "name": "Bryson Stott",
-    "team": "Philadelphia Phillies",
-    "teamId": 143
-  },
-  {
-    "id": 671083,
-    "name": "Buddy Kennedy",
     "team": "Philadelphia Phillies",
     "teamId": 143
   },
@@ -2652,8 +2622,8 @@
     "teamId": 143
   },
   {
-    "id": 682967,
-    "name": "Devin Sweet",
+    "id": 502085,
+    "name": "David Robertson",
     "team": "Philadelphia Phillies",
     "teamId": 143
   },
@@ -2666,6 +2636,12 @@
   {
     "id": 596117,
     "name": "Garrett Stubbs",
+    "team": "Philadelphia Phillies",
+    "teamId": 143
+  },
+  {
+    "id": 664056,
+    "name": "Harrison Bader",
     "team": "Philadelphia Phillies",
     "teamId": 143
   },
@@ -2684,6 +2660,12 @@
   {
     "id": 666200,
     "name": "Jesús Luzardo",
+    "team": "Philadelphia Phillies",
+    "teamId": 143
+  },
+  {
+    "id": 661395,
+    "name": "Jhoan Duran",
     "team": "Philadelphia Phillies",
     "teamId": 143
   },
@@ -2718,6 +2700,12 @@
     "teamId": 143
   },
   {
+    "id": 666159,
+    "name": "Matt Manning",
+    "team": "Philadelphia Phillies",
+    "teamId": 143
+  },
+  {
     "id": 621381,
     "name": "Matt Strahm",
     "team": "Philadelphia Phillies",
@@ -2738,12 +2726,6 @@
   {
     "id": 675650,
     "name": "Michael Mercado",
-    "team": "Philadelphia Phillies",
-    "teamId": 143
-  },
-  {
-    "id": 690953,
-    "name": "Mick Abel",
     "team": "Philadelphia Phillies",
     "teamId": 143
   },
@@ -2786,12 +2768,6 @@
   {
     "id": 624133,
     "name": "Ranger Suárez",
-    "team": "Philadelphia Phillies",
-    "teamId": 143
-  },
-  {
-    "id": 680743,
-    "name": "Ryan Cusick",
     "team": "Philadelphia Phillies",
     "teamId": 143
   },
@@ -2844,12 +2820,6 @@
     "teamId": 144
   },
   {
-    "id": 657077,
-    "name": "Alex Verdugo",
-    "team": "Atlanta Braves",
-    "teamId": 144
-  },
-  {
     "id": 680735,
     "name": "Austin Cox",
     "team": "Atlanta Braves",
@@ -2868,6 +2838,12 @@
     "teamId": 144
   },
   {
+    "id": 471911,
+    "name": "Carlos Carrasco",
+    "team": "Atlanta Braves",
+    "teamId": 144
+  },
+  {
     "id": 677578,
     "name": "Carlos Rodríguez",
     "team": "Atlanta Braves",
@@ -2876,6 +2852,12 @@
   {
     "id": 519242,
     "name": "Chris Sale",
+    "team": "Atlanta Braves",
+    "teamId": 144
+  },
+  {
+    "id": 641540,
+    "name": "Dane Dunning",
     "team": "Atlanta Braves",
     "teamId": 144
   },
@@ -2928,14 +2910,20 @@
     "teamId": 144
   },
   {
-    "id": 660853,
-    "name": "Enyel De Los Santos",
+    "id": 607200,
+    "name": "Erick Fedde",
     "team": "Atlanta Braves",
     "teamId": 144
   },
   {
     "id": 656550,
     "name": "Grant Holmes",
+    "team": "Atlanta Braves",
+    "teamId": 144
+  },
+  {
+    "id": 676702,
+    "name": "Hunter Stratton",
     "team": "Atlanta Braves",
     "teamId": 144
   },
@@ -2952,14 +2940,14 @@
     "teamId": 144
   },
   {
-    "id": 641511,
-    "name": "Jason Delay",
+    "id": 641729,
+    "name": "Joe Jiménez",
     "team": "Atlanta Braves",
     "teamId": 144
   },
   {
-    "id": 641729,
-    "name": "Joe Jiménez",
+    "id": 666214,
+    "name": "Joey Wentz",
     "team": "Atlanta Braves",
     "teamId": 144
   },
@@ -2970,8 +2958,8 @@
     "teamId": 144
   },
   {
-    "id": 643361,
-    "name": "Kevin Herget",
+    "id": 595777,
+    "name": "Jurickson Profar",
     "team": "Atlanta Braves",
     "teamId": 144
   },
@@ -2996,12 +2984,6 @@
   {
     "id": 671739,
     "name": "Michael Harris II",
-    "team": "Atlanta Braves",
-    "teamId": 144
-  },
-  {
-    "id": 656848,
-    "name": "Michael Petersen",
     "team": "Atlanta Braves",
     "teamId": 144
   },
@@ -3036,12 +3018,6 @@
     "teamId": 144
   },
   {
-    "id": 606160,
-    "name": "Rafael Montero",
-    "team": "Atlanta Braves",
-    "teamId": 144
-  },
-  {
     "id": 628452,
     "name": "Raisel Iglesias",
     "team": "Atlanta Braves",
@@ -3066,6 +3042,12 @@
     "teamId": 144
   },
   {
+    "id": 506702,
+    "name": "Sandy León",
+    "team": "Atlanta Braves",
+    "teamId": 144
+  },
+  {
     "id": 669221,
     "name": "Sean Murphy",
     "team": "Atlanta Braves",
@@ -3084,8 +3066,14 @@
     "teamId": 144
   },
   {
-    "id": 656413,
-    "name": "Stuart Fairchild",
+    "id": 641755,
+    "name": "Tyler Kinley",
+    "team": "Atlanta Braves",
+    "teamId": 144
+  },
+  {
+    "id": 593833,
+    "name": "Wander Suero",
     "team": "Atlanta Braves",
     "teamId": 144
   },
@@ -3096,20 +3084,8 @@
     "teamId": 145
   },
   {
-    "id": 605288,
-    "name": "Adrian Houser",
-    "team": "Chicago White Sox",
-    "teamId": 145
-  },
-  {
     "id": 643217,
     "name": "Andrew Benintendi",
-    "team": "Chicago White Sox",
-    "teamId": 145
-  },
-  {
-    "id": 596103,
-    "name": "Austin Slater",
     "team": "Chicago White Sox",
     "teamId": 145
   },
@@ -3122,6 +3098,12 @@
   {
     "id": 681460,
     "name": "Brooks Baldwin",
+    "team": "Chicago White Sox",
+    "teamId": 145
+  },
+  {
+    "id": 663542,
+    "name": "Bryan Hudson",
     "team": "Chicago White Sox",
     "teamId": 145
   },
@@ -3150,6 +3132,18 @@
     "teamId": 145
   },
   {
+    "id": 667452,
+    "name": "Corey Julks",
+    "team": "Chicago White Sox",
+    "teamId": 145
+  },
+  {
+    "id": 678554,
+    "name": "Curtis Mead",
+    "team": "Chicago White Sox",
+    "teamId": 145
+  },
+  {
     "id": 656186,
     "name": "Dan Altavilla",
     "team": "Chicago White Sox",
@@ -3174,6 +3168,12 @@
     "teamId": 145
   },
   {
+    "id": 665625,
+    "name": "Elvis Peguero",
+    "team": "Chicago White Sox",
+    "teamId": 145
+  },
+  {
     "id": 686642,
     "name": "Fraser Ellard",
     "team": "Chicago White Sox",
@@ -3186,8 +3186,8 @@
     "teamId": 145
   },
   {
-    "id": 681402,
-    "name": "Gus Varland",
+    "id": 676070,
+    "name": "Jacob Amaya",
     "team": "Chicago White Sox",
     "teamId": 145
   },
@@ -3198,20 +3198,8 @@
     "teamId": 145
   },
   {
-    "id": 669449,
-    "name": "Jake Palisch",
-    "team": "Chicago White Sox",
-    "teamId": 145
-  },
-  {
     "id": 694363,
     "name": "Jared Shuster",
-    "team": "Chicago White Sox",
-    "teamId": 145
-  },
-  {
-    "id": 669947,
-    "name": "Jesse Scholtens",
     "team": "Chicago White Sox",
     "teamId": 145
   },
@@ -3300,12 +3288,6 @@
     "teamId": 145
   },
   {
-    "id": 680897,
-    "name": "Nick Nastrini",
-    "team": "Chicago White Sox",
-    "teamId": 145
-  },
-  {
     "id": 669391,
     "name": "Owen White",
     "team": "Chicago White Sox",
@@ -3314,12 +3296,6 @@
   {
     "id": 672860,
     "name": "Prelander Berroa",
-    "team": "Chicago White Sox",
-    "teamId": 145
-  },
-  {
-    "id": 676116,
-    "name": "Ryan Noda",
     "team": "Chicago White Sox",
     "teamId": 145
   },
@@ -3360,14 +3336,14 @@
     "teamId": 145
   },
   {
-    "id": 681962,
-    "name": "Vinny Capra",
+    "id": 682790,
+    "name": "Wikelman González",
     "team": "Chicago White Sox",
     "teamId": 145
   },
   {
-    "id": 682790,
-    "name": "Wikelman González",
+    "id": 683770,
+    "name": "Will Robertson",
     "team": "Chicago White Sox",
     "teamId": 145
   },
@@ -3392,12 +3368,6 @@
   {
     "id": 669622,
     "name": "Anthony Bender",
-    "team": "Miami Marlins",
-    "teamId": 146
-  },
-  {
-    "id": 685107,
-    "name": "Anthony Veneziano",
     "team": "Miami Marlins",
     "teamId": 146
   },
@@ -3510,8 +3480,8 @@
     "teamId": 146
   },
   {
-    "id": 676466,
-    "name": "Jack Winkler",
+    "id": 805300,
+    "name": "Jakob Marsee",
     "team": "Miami Marlins",
     "teamId": 146
   },
@@ -3534,14 +3504,14 @@
     "teamId": 146
   },
   {
-    "id": 660821,
-    "name": "Jesús Sánchez",
+    "id": 622786,
+    "name": "Jesus Tinoco",
     "team": "Miami Marlins",
     "teamId": 146
   },
   {
-    "id": 622786,
-    "name": "Jesus Tinoco",
+    "id": 686894,
+    "name": "Joey Wiemer",
     "team": "Miami Marlins",
     "teamId": 146
   },
@@ -3582,8 +3552,8 @@
     "teamId": 146
   },
   {
-    "id": 663743,
-    "name": "Nick Fortes",
+    "id": 656848,
+    "name": "Michael Petersen",
     "team": "Miami Marlins",
     "teamId": 146
   },
@@ -3594,14 +3564,14 @@
     "teamId": 146
   },
   {
-    "id": 542963,
-    "name": "Rob Brantly",
+    "id": 678692,
+    "name": "Ronny Henriquez",
     "team": "Miami Marlins",
     "teamId": 146
   },
   {
-    "id": 678692,
-    "name": "Ronny Henriquez",
+    "id": 687473,
+    "name": "Ryan Gusto",
     "team": "Miami Marlins",
     "teamId": 146
   },
@@ -3618,8 +3588,20 @@
     "teamId": 146
   },
   {
+    "id": 687859,
+    "name": "Troy Johnston",
+    "team": "Miami Marlins",
+    "teamId": 146
+  },
+  {
     "id": 663969,
     "name": "Tyler Phillips",
+    "team": "Miami Marlins",
+    "teamId": 146
+  },
+  {
+    "id": 676604,
+    "name": "Tyler Zuber",
     "team": "Miami Marlins",
     "teamId": 146
   },
@@ -3654,8 +3636,20 @@
     "teamId": 147
   },
   {
+    "id": 642708,
+    "name": "Amed Rosario",
+    "team": "New York Yankees",
+    "teamId": 147
+  },
+  {
     "id": 683011,
     "name": "Anthony Volpe",
+    "team": "New York Yankees",
+    "teamId": 147
+  },
+  {
+    "id": 596103,
+    "name": "Austin Slater",
     "team": "New York Yankees",
     "teamId": 147
   },
@@ -3684,14 +3678,14 @@
     "teamId": 147
   },
   {
-    "id": 650559,
-    "name": "Bryan De La Cruz",
+    "id": 693645,
+    "name": "Cam Schlittler",
     "team": "New York Yankees",
     "teamId": 147
   },
   {
-    "id": 680769,
-    "name": "CJ Alexander",
+    "id": 666808,
+    "name": "Camilo Doval",
     "team": "New York Yankees",
     "teamId": 147
   },
@@ -3708,32 +3702,20 @@
     "teamId": 147
   },
   {
-    "id": 690925,
-    "name": "Clayton Beeter",
-    "team": "New York Yankees",
-    "teamId": 147
-  },
-  {
     "id": 641355,
     "name": "Cody Bellinger",
     "team": "New York Yankees",
     "teamId": 147
   },
   {
-    "id": 518934,
-    "name": "DJ LeMahieu",
+    "id": 670280,
+    "name": "David Bednar",
     "team": "New York Yankees",
     "teamId": 147
   },
   {
     "id": 642207,
     "name": "Devin Williams",
-    "team": "New York Yankees",
-    "teamId": 147
-  },
-  {
-    "id": 677592,
-    "name": "Everson Pereira",
     "team": "New York Yankees",
     "teamId": 147
   },
@@ -3768,8 +3750,8 @@
     "teamId": 147
   },
   {
-    "id": 664141,
-    "name": "JT Brubaker",
+    "id": 656234,
+    "name": "Jake Bird",
     "team": "New York Yankees",
     "teamId": 147
   },
@@ -3798,12 +3780,6 @@
     "teamId": 147
   },
   {
-    "id": 683679,
-    "name": "Jesus Rodriguez",
-    "team": "New York Yankees",
-    "teamId": 147
-  },
-  {
     "id": 642528,
     "name": "Jonathan Loáisiga",
     "team": "New York Yankees",
@@ -3816,6 +3792,12 @@
     "teamId": 147
   },
   {
+    "id": 676609,
+    "name": "José Caballero",
+    "team": "New York Yankees",
+    "teamId": 147
+  },
+  {
     "id": 661563,
     "name": "Luis Gil",
     "team": "New York Yankees",
@@ -3824,12 +3806,6 @@
   {
     "id": 596133,
     "name": "Luke Weaver",
-    "team": "New York Yankees",
-    "teamId": 147
-  },
-  {
-    "id": 573186,
-    "name": "Marcus Stroman",
     "team": "New York Yankees",
     "teamId": 147
   },
@@ -3852,12 +3828,6 @@
     "teamId": 147
   },
   {
-    "id": 672724,
-    "name": "Oswald Peraza",
-    "team": "New York Yankees",
-    "teamId": 147
-  },
-  {
     "id": 665828,
     "name": "Oswaldo Cabrera",
     "team": "New York Yankees",
@@ -3866,6 +3836,12 @@
   {
     "id": 502671,
     "name": "Paul Goldschmidt",
+    "team": "New York Yankees",
+    "teamId": 147
+  },
+  {
+    "id": 641857,
+    "name": "Ryan McMahon",
     "team": "New York Yankees",
     "teamId": 147
   },
@@ -3930,8 +3906,20 @@
     "teamId": 158
   },
   {
+    "id": 678011,
+    "name": "Anthony Seigler",
+    "team": "Milwaukee Brewers",
+    "teamId": 158
+  },
+  {
     "id": 663368,
     "name": "Blake Perkins",
+    "team": "Milwaukee Brewers",
+    "teamId": 158
+  },
+  {
+    "id": 663604,
+    "name": "Brandon Lockridge",
     "team": "Milwaukee Brewers",
     "teamId": 158
   },
@@ -3944,12 +3932,6 @@
   {
     "id": 668930,
     "name": "Brice Turang",
-    "team": "Milwaukee Brewers",
-    "teamId": 158
-  },
-  {
-    "id": 663542,
-    "name": "Bryan Hudson",
     "team": "Milwaukee Brewers",
     "teamId": 158
   },
@@ -3996,38 +3978,14 @@
     "teamId": 158
   },
   {
-    "id": 663662,
-    "name": "Daz Cameron",
-    "team": "Milwaukee Brewers",
-    "teamId": 158
-  },
-  {
-    "id": 682183,
-    "name": "Drew Avans",
+    "id": 643376,
+    "name": "Danny Jansen",
     "team": "Milwaukee Brewers",
     "teamId": 158
   },
   {
     "id": 668834,
     "name": "Easton McGee",
-    "team": "Milwaukee Brewers",
-    "teamId": 158
-  },
-  {
-    "id": 660730,
-    "name": "Elvin Rodriguez",
-    "team": "Milwaukee Brewers",
-    "teamId": 158
-  },
-  {
-    "id": 665625,
-    "name": "Elvis Peguero",
-    "team": "Milwaukee Brewers",
-    "teamId": 158
-  },
-  {
-    "id": 606992,
-    "name": "Eric Haase",
     "team": "Milwaukee Brewers",
     "teamId": 158
   },
@@ -4092,6 +4050,12 @@
     "teamId": 158
   },
   {
+    "id": 656756,
+    "name": "Jordan Montgomery",
+    "team": "Milwaukee Brewers",
+    "teamId": 158
+  },
+  {
     "id": 500779,
     "name": "Jose Quintana",
     "team": "Milwaukee Brewers",
@@ -4100,12 +4064,6 @@
   {
     "id": 701656,
     "name": "Logan Henderson",
-    "team": "Milwaukee Brewers",
-    "teamId": 158
-  },
-  {
-    "id": 641482,
-    "name": "Nestor Cortes",
     "team": "Milwaukee Brewers",
     "teamId": 158
   },
@@ -4152,6 +4110,18 @@
     "teamId": 158
   },
   {
+    "id": 571946,
+    "name": "Shelby Miller",
+    "team": "Milwaukee Brewers",
+    "teamId": 158
+  },
+  {
+    "id": 672642,
+    "name": "Steward Berroa",
+    "team": "Milwaukee Brewers",
+    "teamId": 158
+  },
+  {
     "id": 668964,
     "name": "Tobias Myers",
     "team": "Milwaukee Brewers",
@@ -4176,6 +4146,12 @@
     "teamId": 158
   },
   {
+    "id": 605177,
+    "name": "Andrew Chafin",
+    "team": "Los Angeles Angels",
+    "teamId": 108
+  },
+  {
     "id": 543685,
     "name": "Anthony Rendon",
     "team": "Los Angeles Angels",
@@ -4194,8 +4170,26 @@
     "teamId": 108
   },
   {
+    "id": 669326,
+    "name": "Bryce Teodosio",
+    "team": "Los Angeles Angels",
+    "teamId": 108
+  },
+  {
     "id": 702674,
     "name": "Caden Dana",
+    "team": "Los Angeles Angels",
+    "teamId": 108
+  },
+  {
+    "id": 608334,
+    "name": "Carson Fulmer",
+    "team": "Los Angeles Angels",
+    "teamId": 108
+  },
+  {
+    "id": 677060,
+    "name": "Chad Stevens",
     "team": "Los Angeles Angels",
     "teamId": 108
   },
@@ -4230,12 +4224,6 @@
     "teamId": 108
   },
   {
-    "id": 593576,
-    "name": "Héctor Neris",
-    "team": "Los Angeles Angels",
-    "teamId": 108
-  },
-  {
     "id": 519326,
     "name": "Hunter Strickland",
     "team": "Los Angeles Angels",
@@ -4244,12 +4232,6 @@
   {
     "id": 686799,
     "name": "Jack Kochanowicz",
-    "team": "Los Angeles Angels",
-    "teamId": 108
-  },
-  {
-    "id": 671109,
-    "name": "Jake Eder",
     "team": "Los Angeles Angels",
     "teamId": 108
   },
@@ -4284,12 +4266,6 @@
     "teamId": 108
   },
   {
-    "id": 621028,
-    "name": "Kevin Newman",
-    "team": "Los Angeles Angels",
-    "teamId": 108
-  },
-  {
     "id": 543294,
     "name": "Kyle Hendricks",
     "team": "Los Angeles Angels",
@@ -4302,14 +4278,14 @@
     "teamId": 108
   },
   {
-    "id": 664774,
-    "name": "LaMonte Wade Jr.",
+    "id": 681351,
+    "name": "Logan O'Hoppe",
     "team": "Los Angeles Angels",
     "teamId": 108
   },
   {
-    "id": 681351,
-    "name": "Logan O'Hoppe",
+    "id": 472610,
+    "name": "Luis García",
     "team": "Los Angeles Angels",
     "teamId": 108
   },
@@ -4340,6 +4316,12 @@
   {
     "id": 694384,
     "name": "Nolan Schanuel",
+    "team": "Los Angeles Angels",
+    "teamId": 108
+  },
+  {
+    "id": 672724,
+    "name": "Oswald Peraza",
     "team": "Los Angeles Angels",
     "teamId": 108
   },
@@ -4410,12 +4392,6 @@
     "teamId": 108
   },
   {
-    "id": 660162,
-    "name": "Yoán Moncada",
-    "team": "Los Angeles Angels",
-    "teamId": 108
-  },
-  {
     "id": 579328,
     "name": "Yusei Kikuchi",
     "team": "Los Angeles Angels",
@@ -4442,6 +4418,12 @@
   {
     "id": 677950,
     "name": "Alek Thomas",
+    "team": "Arizona Diamondbacks",
+    "teamId": 109
+  },
+  {
+    "id": 694851,
+    "name": "Andrew Hoffmann",
     "team": "Arizona Diamondbacks",
     "teamId": 109
   },
@@ -4476,14 +4458,32 @@
     "teamId": 109
   },
   {
+    "id": 805299,
+    "name": "Brandyn Garcia",
+    "team": "Arizona Diamondbacks",
+    "teamId": 109
+  },
+  {
     "id": 686826,
     "name": "Bryce Jarvis",
     "team": "Arizona Diamondbacks",
     "teamId": 109
   },
   {
+    "id": 543391,
+    "name": "Casey Kelly",
+    "team": "Arizona Diamondbacks",
+    "teamId": 109
+  },
+  {
     "id": 801216,
     "name": "Christian Montes De Oca",
+    "team": "Arizona Diamondbacks",
+    "teamId": 109
+  },
+  {
+    "id": 663731,
+    "name": "Connor Kaiser",
     "team": "Arizona Diamondbacks",
     "teamId": 109
   },
@@ -4518,12 +4518,6 @@
     "teamId": 109
   },
   {
-    "id": 553993,
-    "name": "Eugenio Suárez",
-    "team": "Arizona Diamondbacks",
-    "teamId": 109
-  },
-  {
     "id": 672515,
     "name": "Gabriel Moreno",
     "team": "Arizona Diamondbacks",
@@ -4548,6 +4542,12 @@
     "teamId": 109
   },
   {
+    "id": 663765,
+    "name": "Jake Woodford",
+    "team": "Arizona Diamondbacks",
+    "teamId": 109
+  },
+  {
     "id": 656222,
     "name": "Jalen Beeks",
     "team": "Arizona Diamondbacks",
@@ -4566,14 +4566,14 @@
     "teamId": 109
   },
   {
-    "id": 691783,
-    "name": "Jordan Lawlar",
+    "id": 595928,
+    "name": "John Curtiss",
     "team": "Arizona Diamondbacks",
     "teamId": 109
   },
   {
-    "id": 656756,
-    "name": "Jordan Montgomery",
+    "id": 691783,
+    "name": "Jordan Lawlar",
     "team": "Arizona Diamondbacks",
     "teamId": 109
   },
@@ -4590,8 +4590,8 @@
     "teamId": 109
   },
   {
-    "id": 647304,
-    "name": "Josh Naylor",
+    "id": 686228,
+    "name": "Juan Burgos",
     "team": "Arizona Diamondbacks",
     "teamId": 109
   },
@@ -4644,20 +4644,8 @@
     "teamId": 109
   },
   {
-    "id": 518876,
-    "name": "Merrill Kelly",
-    "team": "Arizona Diamondbacks",
-    "teamId": 109
-  },
-  {
     "id": 656976,
     "name": "Pavin Smith",
-    "team": "Arizona Diamondbacks",
-    "teamId": 109
-  },
-  {
-    "id": 545341,
-    "name": "Randal Grichuk",
     "team": "Arizona Diamondbacks",
     "teamId": 109
   },
@@ -4674,18 +4662,6 @@
     "teamId": 109
   },
   {
-    "id": 571946,
-    "name": "Shelby Miller",
-    "team": "Arizona Diamondbacks",
-    "teamId": 109
-  },
-  {
-    "id": 605463,
-    "name": "Tayler Scott",
-    "team": "Arizona Diamondbacks",
-    "teamId": 109
-  },
-  {
     "id": 694374,
     "name": "Tim Tawa",
     "team": "Arizona Diamondbacks",
@@ -4694,6 +4670,18 @@
   {
     "id": 674072,
     "name": "Tommy Henry",
+    "team": "Arizona Diamondbacks",
+    "teamId": 109
+  },
+  {
+    "id": 663536,
+    "name": "Tristin English",
+    "team": "Arizona Diamondbacks",
+    "teamId": 109
+  },
+  {
+    "id": 682988,
+    "name": "Tyler Locklear",
     "team": "Arizona Diamondbacks",
     "teamId": 109
   },
@@ -4722,8 +4710,8 @@
     "teamId": 110
   },
   {
-    "id": 552640,
-    "name": "Andrew Kittredge",
+    "id": 656577,
+    "name": "Alex Jackson",
     "team": "Baltimore Orioles",
     "teamId": 110
   },
@@ -4734,32 +4722,14 @@
     "teamId": 110
   },
   {
-    "id": 641329,
-    "name": "Bryan Baker",
-    "team": "Baltimore Orioles",
-    "teamId": 110
-  },
-  {
     "id": 700249,
     "name": "Cade Povich",
     "team": "Baltimore Orioles",
     "teamId": 110
   },
   {
-    "id": 656775,
-    "name": "Cedric Mullins",
-    "team": "Baltimore Orioles",
-    "teamId": 110
-  },
-  {
-    "id": 644433,
-    "name": "Chadwick Tromp",
-    "team": "Baltimore Orioles",
-    "teamId": 110
-  },
-  {
-    "id": 450203,
-    "name": "Charlie Morton",
+    "id": 685068,
+    "name": "Carson Ragsdale",
     "team": "Baltimore Orioles",
     "teamId": 110
   },
@@ -4794,14 +4764,32 @@
     "teamId": 110
   },
   {
+    "id": 656686,
+    "name": "Corbin Martin",
+    "team": "Baltimore Orioles",
+    "teamId": 110
+  },
+  {
     "id": 665152,
     "name": "Dean Kremer",
     "team": "Baltimore Orioles",
     "teamId": 110
   },
   {
+    "id": 608650,
+    "name": "Dietrich Enns",
+    "team": "Baltimore Orioles",
+    "teamId": 110
+  },
+  {
     "id": 666185,
     "name": "Dylan Carlson",
+    "team": "Baltimore Orioles",
+    "teamId": 110
+  },
+  {
+    "id": 660730,
+    "name": "Elvin Rodríguez",
     "team": "Baltimore Orioles",
     "teamId": 110
   },
@@ -4830,12 +4818,6 @@
     "teamId": 110
   },
   {
-    "id": 642397,
-    "name": "Gregory Soto",
-    "team": "Baltimore Orioles",
-    "teamId": 110
-  },
-  {
     "id": 683002,
     "name": "Gunnar Henderson",
     "team": "Baltimore Orioles",
@@ -4848,14 +4830,32 @@
     "teamId": 110
   },
   {
+    "id": 674175,
+    "name": "Houston Roth",
+    "team": "Baltimore Orioles",
+    "teamId": 110
+  },
+  {
     "id": 702616,
     "name": "Jackson Holliday",
     "team": "Baltimore Orioles",
     "teamId": 110
   },
   {
+    "id": 669236,
+    "name": "Jeremiah Jackson",
+    "team": "Baltimore Orioles",
+    "teamId": 110
+  },
+  {
     "id": 676059,
     "name": "Jordan Westburg",
+    "team": "Baltimore Orioles",
+    "teamId": 110
+  },
+  {
+    "id": 677941,
+    "name": "Jordyn Adams",
     "team": "Baltimore Orioles",
     "teamId": 110
   },
@@ -4884,18 +4884,6 @@
     "teamId": 110
   },
   {
-    "id": 667725,
-    "name": "Kyle Tyler",
-    "team": "Baltimore Orioles",
-    "teamId": 110
-  },
-  {
-    "id": 622379,
-    "name": "Luis F. Castillo",
-    "team": "Baltimore Orioles",
-    "teamId": 110
-  },
-  {
     "id": 676679,
     "name": "Luis Vázquez",
     "team": "Baltimore Orioles",
@@ -4908,14 +4896,8 @@
     "teamId": 110
   },
   {
-    "id": 657656,
-    "name": "Ramón Laureano",
-    "team": "Baltimore Orioles",
-    "teamId": 110
-  },
-  {
-    "id": 602104,
-    "name": "Ramón Urías",
+    "id": 670329,
+    "name": "Rico Garcia",
     "team": "Baltimore Orioles",
     "teamId": 110
   },
@@ -4926,20 +4908,14 @@
     "teamId": 110
   },
   {
-    "id": 656811,
-    "name": "Ryan O'Hearn",
+    "id": 676116,
+    "name": "Ryan Noda",
     "team": "Baltimore Orioles",
     "teamId": 110
   },
   {
     "id": 656240,
     "name": "Scott Blewett",
-    "team": "Baltimore Orioles",
-    "teamId": 110
-  },
-  {
-    "id": 622554,
-    "name": "Seranthony Domínguez",
     "team": "Baltimore Orioles",
     "teamId": 110
   },
@@ -4964,6 +4940,12 @@
   {
     "id": 669330,
     "name": "Tyler Wells",
+    "team": "Baltimore Orioles",
+    "teamId": 110
+  },
+  {
+    "id": 660644,
+    "name": "Vidal Bruján",
     "team": "Baltimore Orioles",
     "teamId": 110
   },
@@ -5052,6 +5034,12 @@
     "teamId": 111
   },
   {
+    "id": 669160,
+    "name": "Dustin May",
+    "team": "Boston Red Sox",
+    "teamId": 111
+  },
+  {
     "id": 676979,
     "name": "Garrett Crochet",
     "team": "Boston Red Sox",
@@ -5076,6 +5064,12 @@
     "teamId": 111
   },
   {
+    "id": 663462,
+    "name": "Isaiah Campbell",
+    "team": "Boston Red Sox",
+    "teamId": 111
+  },
+  {
     "id": 680776,
     "name": "Jarren Duran",
     "team": "Boston Red Sox",
@@ -5090,12 +5084,6 @@
   {
     "id": 663855,
     "name": "Jordan Hicks",
-    "team": "Boston Red Sox",
-    "teamId": 111
-  },
-  {
-    "id": 660896,
-    "name": "Jorge Alcala",
     "team": "Boston Red Sox",
     "teamId": 111
   },
@@ -5220,6 +5208,12 @@
     "teamId": 111
   },
   {
+    "id": 571927,
+    "name": "Steven Matz",
+    "team": "Boston Red Sox",
+    "teamId": 111
+  },
+  {
     "id": 656557,
     "name": "Tanner Houck",
     "team": "Boston Red Sox",
@@ -5262,6 +5256,12 @@
     "teamId": 111
   },
   {
+    "id": 552640,
+    "name": "Andrew Kittredge",
+    "team": "Chicago Cubs",
+    "teamId": 112
+  },
+  {
     "id": 676962,
     "name": "Ben Brown",
     "team": "Chicago Cubs",
@@ -5294,12 +5294,6 @@
   {
     "id": 608348,
     "name": "Carson Kelly",
-    "team": "Chicago Cubs",
-    "teamId": 112
-  },
-  {
-    "id": 623167,
-    "name": "Chris Flexen",
     "team": "Chicago Cubs",
     "teamId": 112
   },
@@ -5430,6 +5424,12 @@
     "teamId": 112
   },
   {
+    "id": 647336,
+    "name": "Michael Soroka",
+    "team": "Chicago Cubs",
+    "teamId": 112
+  },
+  {
     "id": 665804,
     "name": "Miguel Amaya",
     "team": "Chicago Cubs",
@@ -5484,12 +5484,6 @@
     "teamId": 112
   },
   {
-    "id": 519151,
-    "name": "Ryan Pressly",
-    "team": "Chicago Cubs",
-    "teamId": 112
-  },
-  {
     "id": 673548,
     "name": "Seiya Suzuki",
     "team": "Chicago Cubs",
@@ -5502,14 +5496,20 @@
     "teamId": 112
   },
   {
+    "id": 573124,
+    "name": "Taylor Rogers",
+    "team": "Chicago Cubs",
+    "teamId": 112
+  },
+  {
     "id": 676680,
     "name": "Tom Cosgrove",
     "team": "Chicago Cubs",
     "teamId": 112
   },
   {
-    "id": 660644,
-    "name": "Vidal Bruján",
+    "id": 650489,
+    "name": "Willi Castro",
     "team": "Chicago Cubs",
     "teamId": 112
   },
@@ -5546,12 +5546,6 @@
   {
     "id": 608718,
     "name": "Brent Suter",
-    "team": "Cincinnati Reds",
-    "teamId": 113
-  },
-  {
-    "id": 687003,
-    "name": "Brian Van Belle",
     "team": "Cincinnati Reds",
     "teamId": 113
   },
@@ -5652,6 +5646,12 @@
     "teamId": 113
   },
   {
+    "id": 663647,
+    "name": "Ke'Bryan Hayes",
+    "team": "Cincinnati Reds",
+    "teamId": 113
+  },
+  {
     "id": 682825,
     "name": "Luis Mey",
     "team": "Cincinnati Reds",
@@ -5666,6 +5666,12 @@
   {
     "id": 680574,
     "name": "Matt McLain",
+    "team": "Cincinnati Reds",
+    "teamId": 113
+  },
+  {
+    "id": 609280,
+    "name": "Miguel Andujar",
     "team": "Cincinnati Reds",
     "teamId": 113
   },
@@ -5706,6 +5712,12 @@
     "teamId": 113
   },
   {
+    "id": 680397,
+    "name": "Sam Benschoter",
+    "team": "Cincinnati Reds",
+    "teamId": 113
+  },
+  {
     "id": 594580,
     "name": "Sam Moll",
     "team": "Cincinnati Reds",
@@ -5732,12 +5744,6 @@
   {
     "id": 670770,
     "name": "TJ Friedl",
-    "team": "Cincinnati Reds",
-    "teamId": 113
-  },
-  {
-    "id": 573124,
-    "name": "Taylor Rogers",
     "team": "Cincinnati Reds",
     "teamId": 113
   },
@@ -5778,6 +5784,12 @@
     "teamId": 113
   },
   {
+    "id": 641793,
+    "name": "Zack Littell",
+    "team": "Cincinnati Reds",
+    "teamId": 113
+  },
+  {
     "id": 689958,
     "name": "Andrew Walters",
     "team": "Cleveland Guardians",
@@ -5814,8 +5826,20 @@
     "teamId": 114
   },
   {
+    "id": 692216,
+    "name": "C.J. Kayfus",
+    "team": "Cleveland Guardians",
+    "teamId": 114
+  },
+  {
     "id": 671922,
     "name": "Cade Smith",
+    "team": "Cleveland Guardians",
+    "teamId": 114
+  },
+  {
+    "id": 672578,
+    "name": "Carlos Hernández",
     "team": "Cleveland Guardians",
     "teamId": 114
   },
@@ -5852,12 +5876,6 @@
   {
     "id": 680951,
     "name": "Doug Nikhazy",
-    "team": "Cleveland Guardians",
-    "teamId": 114
-  },
-  {
-    "id": 661403,
-    "name": "Emmanuel Clase",
     "team": "Cleveland Guardians",
     "teamId": 114
   },
@@ -5958,12 +5976,6 @@
     "teamId": 114
   },
   {
-    "id": 682847,
-    "name": "Luis L. Ortiz",
-    "team": "Cleveland Guardians",
-    "teamId": 114
-  },
-  {
     "id": 670036,
     "name": "Matt Festa",
     "team": "Cleveland Guardians",
@@ -5988,12 +6000,6 @@
     "teamId": 114
   },
   {
-    "id": 623149,
-    "name": "Paul Sewald",
-    "team": "Cleveland Guardians",
-    "teamId": 114
-  },
-  {
     "id": 690984,
     "name": "Petey Halpin",
     "team": "Cleveland Guardians",
@@ -6002,12 +6008,6 @@
   {
     "id": 656529,
     "name": "Sam Hentges",
-    "team": "Cleveland Guardians",
-    "teamId": 114
-  },
-  {
-    "id": 669456,
-    "name": "Shane Bieber",
     "team": "Cleveland Guardians",
     "teamId": 114
   },
@@ -6090,6 +6090,18 @@
     "teamId": 115
   },
   {
+    "id": 543592,
+    "name": "Austin Nola",
+    "team": "Colorado Rockies",
+    "teamId": 115
+  },
+  {
+    "id": 688760,
+    "name": "Blaine Crim",
+    "team": "Colorado Rockies",
+    "teamId": 115
+  },
+  {
     "id": 687134,
     "name": "Bradley Blalock",
     "team": "Colorado Rockies",
@@ -6126,6 +6138,12 @@
     "teamId": 115
   },
   {
+    "id": 699911,
+    "name": "Dugan Darnell",
+    "team": "Colorado Rockies",
+    "teamId": 115
+  },
+  {
     "id": 678662,
     "name": "Ezequiel Tovar",
     "team": "Colorado Rockies",
@@ -6146,12 +6164,6 @@
   {
     "id": 677955,
     "name": "Jaden Hill",
-    "team": "Colorado Rockies",
-    "teamId": 115
-  },
-  {
-    "id": 656234,
-    "name": "Jake Bird",
     "team": "Colorado Rockies",
     "teamId": 115
   },
@@ -6216,6 +6228,12 @@
     "teamId": 115
   },
   {
+    "id": 623433,
+    "name": "Nick Anderson",
+    "team": "Colorado Rockies",
+    "teamId": 115
+  },
+  {
     "id": 606115,
     "name": "Orlando Arcia",
     "team": "Colorado Rockies",
@@ -6228,12 +6246,6 @@
     "teamId": 115
   },
   {
-    "id": 641857,
-    "name": "Ryan McMahon",
-    "team": "Colorado Rockies",
-    "teamId": 115
-  },
-  {
     "id": 690022,
     "name": "Ryan Ritter",
     "team": "Colorado Rockies",
@@ -6242,18 +6254,6 @@
   {
     "id": 669020,
     "name": "Ryan Rolison",
-    "team": "Colorado Rockies",
-    "teamId": 115
-  },
-  {
-    "id": 656541,
-    "name": "Sam Hilliard",
-    "team": "Colorado Rockies",
-    "teamId": 115
-  },
-  {
-    "id": 656248,
-    "name": "Sean Bouchard",
     "team": "Colorado Rockies",
     "teamId": 115
   },
@@ -6282,14 +6282,14 @@
     "teamId": 115
   },
   {
-    "id": 641755,
-    "name": "Tyler Kinley",
+    "id": 680767,
+    "name": "Victor Vodnik",
     "team": "Colorado Rockies",
     "teamId": 115
   },
   {
-    "id": 680767,
-    "name": "Victor Vodnik",
+    "id": 682653,
+    "name": "Warming Bernabel",
     "team": "Colorado Rockies",
     "teamId": 115
   },
@@ -6354,20 +6354,14 @@
     "teamId": 116
   },
   {
-    "id": 676551,
-    "name": "Brewer Hicklen",
-    "team": "Detroit Tigers",
-    "teamId": 116
-  },
-  {
-    "id": 672578,
-    "name": "Carlos Hernández",
-    "team": "Detroit Tigers",
-    "teamId": 116
-  },
-  {
     "id": 663554,
     "name": "Casey Mize",
+    "team": "Detroit Tigers",
+    "teamId": 116
+  },
+  {
+    "id": 450203,
+    "name": "Charlie Morton",
     "team": "Detroit Tigers",
     "teamId": 116
   },
@@ -6378,14 +6372,20 @@
     "teamId": 116
   },
   {
-    "id": 690993,
-    "name": "Colt Keith",
+    "id": 663978,
+    "name": "Chris Paddack",
     "team": "Detroit Tigers",
     "teamId": 116
   },
   {
-    "id": 608650,
-    "name": "Dietrich Enns",
+    "id": 676051,
+    "name": "Codi Heuer",
+    "team": "Detroit Tigers",
+    "teamId": 116
+  },
+  {
+    "id": 690993,
+    "name": "Colt Keith",
     "team": "Detroit Tigers",
     "teamId": 116
   },
@@ -6474,8 +6474,14 @@
     "teamId": 116
   },
   {
-    "id": 666159,
-    "name": "Matt Manning",
+    "id": 640448,
+    "name": "Kyle Finnegan",
+    "team": "Detroit Tigers",
+    "teamId": 116
+  },
+  {
+    "id": 592426,
+    "name": "Luke Jackson",
     "team": "Detroit Tigers",
     "teamId": 116
   },
@@ -6488,6 +6494,18 @@
   {
     "id": 678009,
     "name": "Parker Meadows",
+    "team": "Detroit Tigers",
+    "teamId": 116
+  },
+  {
+    "id": 623149,
+    "name": "Paul Sewald",
+    "team": "Detroit Tigers",
+    "teamId": 116
+  },
+  {
+    "id": 606160,
+    "name": "Rafael Montero",
     "team": "Detroit Tigers",
     "teamId": 116
   },
@@ -6546,6 +6564,12 @@
     "teamId": 116
   },
   {
+    "id": 675512,
+    "name": "Troy Melton",
+    "team": "Detroit Tigers",
+    "teamId": 116
+  },
+  {
     "id": 680744,
     "name": "Ty Madden",
     "team": "Detroit Tigers",
@@ -6560,12 +6584,6 @@
   {
     "id": 694331,
     "name": "Tyler Mattison",
-    "team": "Detroit Tigers",
-    "teamId": 116
-  },
-  {
-    "id": 687074,
-    "name": "Tyler Owens",
     "team": "Detroit Tigers",
     "teamId": 116
   },
@@ -6612,6 +6630,12 @@
     "teamId": 117
   },
   {
+    "id": 694728,
+    "name": "Brice Matthews",
+    "team": "Houston Astros",
+    "teamId": 117
+  },
+  {
     "id": 650556,
     "name": "Bryan Abreu",
     "team": "Houston Astros",
@@ -6626,6 +6650,12 @@
   {
     "id": 701358,
     "name": "Cam Smith",
+    "team": "Houston Astros",
+    "teamId": 117
+  },
+  {
+    "id": 621043,
+    "name": "Carlos Correa",
     "team": "Houston Astros",
     "teamId": 117
   },
@@ -6666,6 +6696,12 @@
     "teamId": 117
   },
   {
+    "id": 660853,
+    "name": "Enyel De Los Santos",
+    "team": "Houston Astros",
+    "teamId": 117
+  },
+  {
     "id": 664285,
     "name": "Framber Valdez",
     "team": "Houston Astros",
@@ -6674,6 +6710,12 @@
   {
     "id": 669713,
     "name": "Hayden Wesneski",
+    "team": "Houston Astros",
+    "teamId": 117
+  },
+  {
+    "id": 593576,
+    "name": "Héctor Neris",
     "team": "Houston Astros",
     "teamId": 117
   },
@@ -6720,8 +6762,14 @@
     "teamId": 117
   },
   {
-    "id": 607179,
-    "name": "Jordan Weems",
+    "id": 660821,
+    "name": "Jesús Sánchez",
+    "team": "Houston Astros",
+    "teamId": 117
+  },
+  {
+    "id": 680701,
+    "name": "John Rooney",
     "team": "Houston Astros",
     "teamId": 117
   },
@@ -6756,26 +6804,20 @@
     "teamId": 117
   },
   {
+    "id": 669722,
+    "name": "Logan Davidson",
+    "team": "Houston Astros",
+    "teamId": 117
+  },
+  {
     "id": 701121,
     "name": "Logan VanWey",
     "team": "Houston Astros",
     "teamId": 117
   },
   {
-    "id": 664351,
-    "name": "Luis Contreras",
-    "team": "Houston Astros",
-    "teamId": 117
-  },
-  {
     "id": 677651,
     "name": "Luis Garcia",
-    "team": "Houston Astros",
-    "teamId": 117
-  },
-  {
-    "id": 641645,
-    "name": "Luis Guillorme",
     "team": "Houston Astros",
     "teamId": 117
   },
@@ -6792,26 +6834,20 @@
     "teamId": 117
   },
   {
-    "id": 687798,
-    "name": "Nick Robertson",
-    "team": "Houston Astros",
-    "teamId": 117
-  },
-  {
     "id": 694175,
     "name": "Pedro León",
     "team": "Houston Astros",
     "teamId": 117
   },
   {
-    "id": 669854,
-    "name": "Ronel Blanco",
+    "id": 602104,
+    "name": "Ramón Urías",
     "team": "Houston Astros",
     "teamId": 117
   },
   {
-    "id": 687473,
-    "name": "Ryan Gusto",
+    "id": 669854,
+    "name": "Ronel Blanco",
     "team": "Houston Astros",
     "teamId": 117
   },
@@ -6870,20 +6906,26 @@
     "teamId": 117
   },
   {
+    "id": 624428,
+    "name": "Adam Frazier",
+    "team": "Kansas City Royals",
+    "teamId": 118
+  },
+  {
     "id": 679525,
     "name": "Alec Marsh",
     "team": "Kansas City Royals",
     "teamId": 118
   },
   {
-    "id": 694851,
-    "name": "Andrew Hoffmann",
+    "id": 672582,
+    "name": "Angel Zerpa",
     "team": "Kansas City Royals",
     "teamId": 118
   },
   {
-    "id": 672582,
-    "name": "Angel Zerpa",
+    "id": 663559,
+    "name": "Bailey Falter",
     "team": "Kansas City Royals",
     "teamId": 118
   },
@@ -6896,12 +6938,6 @@
   {
     "id": 608032,
     "name": "Carlos Estévez",
-    "team": "Kansas City Royals",
-    "teamId": 118
-  },
-  {
-    "id": 624415,
-    "name": "Cavan Biggio",
     "team": "Kansas City Royals",
     "teamId": 118
   },
@@ -6936,18 +6972,6 @@
     "teamId": 118
   },
   {
-    "id": 681895,
-    "name": "Evan Sisk",
-    "team": "Kansas City Royals",
-    "teamId": 118
-  },
-  {
-    "id": 666023,
-    "name": "Freddy Fermin",
-    "team": "Kansas City Royals",
-    "teamId": 118
-  },
-  {
     "id": 640451,
     "name": "Hunter Harvey",
     "team": "Kansas City Royals",
@@ -6962,12 +6986,6 @@
   {
     "id": 663704,
     "name": "James McArthur",
-    "team": "Kansas City Royals",
-    "teamId": 118
-  },
-  {
-    "id": 686894,
-    "name": "Joey Wiemer",
     "team": "Kansas City Royals",
     "teamId": 118
   },
@@ -7026,6 +7044,12 @@
     "teamId": 118
   },
   {
+    "id": 571912,
+    "name": "Luke Maile",
+    "team": "Kansas City Royals",
+    "teamId": 118
+  },
+  {
     "id": 669004,
     "name": "MJ Melendez",
     "team": "Kansas City Royals",
@@ -7062,6 +7086,12 @@
     "teamId": 118
   },
   {
+    "id": 573262,
+    "name": "Mike Yastrzemski",
+    "team": "Kansas City Royals",
+    "teamId": 118
+  },
+  {
     "id": 679845,
     "name": "Nick Loftin",
     "team": "Kansas City Royals",
@@ -7070,6 +7100,18 @@
   {
     "id": 702070,
     "name": "Noah Cameron",
+    "team": "Kansas City Royals",
+    "teamId": 118
+  },
+  {
+    "id": 545341,
+    "name": "Randal Grichuk",
+    "team": "Kansas City Royals",
+    "teamId": 118
+  },
+  {
+    "id": 686701,
+    "name": "Ryan Bergert",
     "team": "Kansas City Royals",
     "teamId": 118
   },
@@ -7092,6 +7134,12 @@
     "teamId": 118
   },
   {
+    "id": 663568,
+    "name": "Stephen Kolek",
+    "team": "Kansas City Royals",
+    "teamId": 118
+  },
+  {
     "id": 674444,
     "name": "Steven Cruz",
     "team": "Kansas City Royals",
@@ -7100,12 +7148,6 @@
   {
     "id": 664199,
     "name": "Taylor Clarke",
-    "team": "Kansas City Royals",
-    "teamId": 118
-  },
-  {
-    "id": 694355,
-    "name": "Tyler Gentry",
     "team": "Kansas City Royals",
     "teamId": 118
   },
@@ -7120,6 +7162,18 @@
     "name": "Vinnie Pasquantino",
     "team": "Kansas City Royals",
     "teamId": 118
+  },
+  {
+    "id": 669743,
+    "name": "Alex Call",
+    "team": "Los Angeles Dodgers",
+    "teamId": 119
+  },
+  {
+    "id": 690976,
+    "name": "Alex Freeland",
+    "team": "Los Angeles Dodgers",
+    "teamId": 119
   },
   {
     "id": 681911,
@@ -7170,6 +7224,12 @@
     "teamId": 119
   },
   {
+    "id": 592779,
+    "name": "Brock Stewart",
+    "team": "Los Angeles Dodgers",
+    "teamId": 119
+  },
+  {
     "id": 660813,
     "name": "Brusdar Graterol",
     "team": "Los Angeles Dodgers",
@@ -7184,12 +7244,6 @@
   {
     "id": 687221,
     "name": "Dalton Rushing",
-    "team": "Los Angeles Dodgers",
-    "teamId": 119
-  },
-  {
-    "id": 669160,
-    "name": "Dustin May",
     "team": "Los Angeles Dodgers",
     "teamId": 119
   },
@@ -7236,12 +7290,6 @@
     "teamId": 119
   },
   {
-    "id": 676439,
-    "name": "Hunter Feduccia",
-    "team": "Los Angeles Dodgers",
-    "teamId": 119
-  },
-  {
     "id": 808975,
     "name": "Hyeseong Kim",
     "team": "Los Angeles Dodgers",
@@ -7254,14 +7302,8 @@
     "teamId": 119
   },
   {
-    "id": 669193,
-    "name": "Jack Little",
-    "team": "Los Angeles Dodgers",
-    "teamId": 119
-  },
-  {
-    "id": 681546,
-    "name": "James Outman",
+    "id": 642759,
+    "name": "Julian Fernández",
     "team": "Los Angeles Dodgers",
     "teamId": 119
   },
@@ -7290,14 +7332,8 @@
     "teamId": 119
   },
   {
-    "id": 642152,
-    "name": "Lou Trivino",
-    "team": "Los Angeles Dodgers",
-    "teamId": 119
-  },
-  {
-    "id": 472610,
-    "name": "Luis García",
+    "id": 663609,
+    "name": "Luken Baker",
     "team": "Los Angeles Dodgers",
     "teamId": 119
   },
@@ -7350,8 +7386,8 @@
     "teamId": 119
   },
   {
-    "id": 663562,
-    "name": "Noah Davis",
+    "id": 801434,
+    "name": "Paul Gervase",
     "team": "Los Angeles Dodgers",
     "teamId": 119
   },
@@ -7370,12 +7406,6 @@
   {
     "id": 660271,
     "name": "Shohei Ohtani",
-    "team": "Los Angeles Dodgers",
-    "teamId": 119
-  },
-  {
-    "id": 672642,
-    "name": "Steward Berroa",
     "team": "Los Angeles Dodgers",
     "teamId": 119
   },
@@ -7428,32 +7458,8 @@
     "teamId": 119
   },
   {
-    "id": 683068,
-    "name": "Zach Penrod",
-    "team": "Los Angeles Dodgers",
-    "teamId": 119
-  },
-  {
-    "id": 669743,
-    "name": "Alex Call",
-    "team": "Washington Nationals",
-    "teamId": 120
-  },
-  {
-    "id": 642708,
-    "name": "Amed Rosario",
-    "team": "Washington Nationals",
-    "teamId": 120
-  },
-  {
     "id": 665953,
     "name": "Andrés Chaparro",
-    "team": "Washington Nationals",
-    "teamId": 120
-  },
-  {
-    "id": 605177,
-    "name": "Andrew Chafin",
     "team": "Washington Nationals",
     "teamId": 120
   },
@@ -7484,6 +7490,12 @@
   {
     "id": 676917,
     "name": "Cade Cavalli",
+    "team": "Washington Nationals",
+    "teamId": 120
+  },
+  {
+    "id": 690925,
+    "name": "Clayton Beeter",
     "team": "Washington Nationals",
     "teamId": 120
   },
@@ -7548,6 +7560,12 @@
     "teamId": 120
   },
   {
+    "id": 671109,
+    "name": "Jake Eder",
+    "team": "Washington Nationals",
+    "teamId": 120
+  },
+  {
     "id": 663623,
     "name": "Jake Irvin",
     "team": "Washington Nationals",
@@ -7590,8 +7608,8 @@
     "teamId": 120
   },
   {
-    "id": 640448,
-    "name": "Kyle Finnegan",
+    "id": 663455,
+    "name": "Konnor Pilkington",
     "team": "Washington Nationals",
     "teamId": 120
   },
@@ -7610,12 +7628,6 @@
   {
     "id": 666168,
     "name": "Mason Thompson",
-    "team": "Washington Nationals",
-    "teamId": 120
-  },
-  {
-    "id": 647336,
-    "name": "Michael Soroka",
     "team": "Washington Nationals",
     "teamId": 120
   },
@@ -7640,6 +7652,12 @@
   {
     "id": 687377,
     "name": "Orlando Ribalta",
+    "team": "Washington Nationals",
+    "teamId": 120
+  },
+  {
+    "id": 676571,
+    "name": "PJ Poulin",
     "team": "Washington Nationals",
     "teamId": 120
   },
@@ -7698,14 +7716,14 @@
     "teamId": 121
   },
   {
-    "id": 681810,
-    "name": "Austin Warren",
+    "id": 692024,
+    "name": "Alex Carrillo",
     "team": "New York Mets",
     "teamId": 121
   },
   {
-    "id": 694918,
-    "name": "Blade Tidwell",
+    "id": 681810,
+    "name": "Austin Warren",
     "team": "New York Mets",
     "teamId": 121
   },
@@ -7734,6 +7752,12 @@
     "teamId": 121
   },
   {
+    "id": 656775,
+    "name": "Cedric Mullins",
+    "team": "New York Mets",
+    "teamId": 121
+  },
+  {
     "id": 606965,
     "name": "Chris Devenski",
     "team": "New York Mets",
@@ -7752,12 +7776,6 @@
     "teamId": 121
   },
   {
-    "id": 621363,
-    "name": "Colin Poche",
-    "team": "New York Mets",
-    "teamId": 121
-  },
-  {
     "id": 664849,
     "name": "Danny Young",
     "team": "New York Mets",
@@ -7772,6 +7790,12 @@
   {
     "id": 673380,
     "name": "Dedniel Núñez",
+    "team": "New York Mets",
+    "teamId": 121
+  },
+  {
+    "id": 687589,
+    "name": "Dom Hamel",
     "team": "New York Mets",
     "teamId": 121
   },
@@ -7802,6 +7826,12 @@
   {
     "id": 593423,
     "name": "Frankie Montas",
+    "team": "New York Mets",
+    "teamId": 121
+  },
+  {
+    "id": 642397,
+    "name": "Gregory Soto",
     "team": "New York Mets",
     "teamId": 121
   },
@@ -7848,12 +7878,6 @@
     "teamId": 121
   },
   {
-    "id": 676130,
-    "name": "José Buttó",
-    "team": "New York Mets",
-    "teamId": 121
-  },
-  {
     "id": 642350,
     "name": "Jose Siri",
     "team": "New York Mets",
@@ -7874,6 +7898,12 @@
   {
     "id": 663795,
     "name": "Justin Hagenman",
+    "team": "New York Mets",
+    "teamId": 121
+  },
+  {
+    "id": 643361,
+    "name": "Kevin Herget",
     "team": "New York Mets",
     "teamId": 121
   },
@@ -7938,6 +7968,12 @@
     "teamId": 121
   },
   {
+    "id": 664854,
+    "name": "Ryan Helsley",
+    "team": "New York Mets",
+    "teamId": 121
+  },
+  {
     "id": 592773,
     "name": "Ryne Stanek",
     "team": "New York Mets",
@@ -7956,20 +7992,14 @@
     "teamId": 121
   },
   {
-    "id": 608671,
-    "name": "Travis Jankowski",
-    "team": "New York Mets",
-    "teamId": 121
-  },
-  {
     "id": 686654,
     "name": "Ty Adcock",
     "team": "New York Mets",
     "teamId": 121
   },
   {
-    "id": 676604,
-    "name": "Tyler Zuber",
+    "id": 643511,
+    "name": "Tyler Rogers",
     "team": "New York Mets",
     "teamId": 121
   },

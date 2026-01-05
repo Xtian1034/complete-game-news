@@ -36,7 +36,10 @@ db.run(`CREATE TABLE IF NOT EXISTS teams (
 //Setting up SQLite database for players
 db.run(`CREATE TABLE IF NOT EXISTS players (
     id INTEGER PRIMARY KEY,
-    name TEXT NOT NULL
+    name TEXT NOT NULL,
+    active INTEGER DEFAULT 1,
+    team_id INTEGER,
+    FOREIGN KEY(team_id) REFERENCES teams(id)
     )`);
 
 //Articles-Team Junction Table (many to many)
@@ -67,13 +70,44 @@ function cacheTeamsToDB() {
 
 function cachePlayersToDB() {
   const data = JSON.parse(fs.readFileSync("./players.json", "utf-8"));
-  const stmt = db.prepare(
-    "INSERT OR IGNORE INTO players (id, name) VALUES (? , ?)"
+  const activePlayerIds = new Set(data.map((p) => p.id));
+
+  const insertStmt = db.prepare(
+    `INSERT OR IGNORE INTO players (id, name, active, team_id) VALUES (?, ?, ?, ?)`
   );
-  data.forEach((player) => stmt.run(player.id, player.name));
-  stmt.finalize();
-  console.log("Players cached into database");
+
+  const updateStmt = db.prepare(
+    `UPDATE players SET name = ?, active = ?, team_id = ? WHERE id = ?`
+  );
+
+  data.forEach((player) => {
+    const isActive = player.isActive ?? 1;
+    const teamId = player.teamId ?? null;
+    insertStmt.run(player.id, player.name, isActive, teamId);
+    updateStmt.run(player.name, isActive, teamId, player.id);
+  });
+  insertStmt.finalize();
+  updateStmt.finalize();
+
+  db.all("SELECT id FROM players", [], (err, rows) => {
+    if (err) {
+      console.error("Error fetching player IDs:", err);
+      return;
+    }
+
+    const updateInactive = db.prepare(
+      `UPDATE players SET "active" = 0 WHERE id = ?`
+    );
+    rows.forEach((row) => {
+      if (!activePlayerIds.has(row.id)) {
+        updateInactive.run(row.id);
+      }
+    });
+    updateInactive.finalize();
+    console.log("Players cached and inactive players updated.");
+  });
 }
+console.log("Players cached into database");
 
 cacheTeamsToDB();
 cachePlayersToDB();

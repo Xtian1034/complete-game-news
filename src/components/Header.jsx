@@ -18,7 +18,7 @@ function Header() {
         <input
           className="search-bar"
           type="text"
-          placeholder="Search players or teams"
+          placeholder="Search players"
         />
       </div>
 
